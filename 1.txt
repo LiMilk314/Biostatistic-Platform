@@ -1,0 +1,1941 @@
+108 www.thelancet.com/respiratory   Vol 2   February 2014
+Articles
+Autologous mesenchymal stromal cell infusion as adjunct 
+treatment in patients with multidrug and extensively 
+drug-resistant tuberculosis: an open-label phase 1 safety trial
+Aliaksandr Skrahin*, Raija K Ahmed*, Giovanni Ferrara, Lalit Rane, Thomas Poiret, Yanina Isaikina, Alena Skrahina, Alimuddin Zumla, 
+Markus J Maeurer
+Summary
+Background Novel treatment options are urgently needed for multidrug-resistant (MDR) and extensively drug-
+resistant (XDR) tuberculosis, which are associated with immune dysfunction and poor treatment outcomes. 
+Mesenchymal stromal cells (MSCs) are immunomodulatory and adjunct autologous treatment with bone marrow-
+derived MSCs might improve clinical outcome by transforming chronic inﬂ  
+ammation into productive immune 
+responses. Our aim was to assess the safety of infusion of autologous MSCs as an adjunct treatment in patients with 
+tuberculosis.
+Methods 30 patients with microbiologically conﬁ  rmed MDR or XDR tuberculosis were treated with single-dose 
+autologous bone marrow-derived MSCs (aimed for 1 
+× 10⁶ cells per kg), within 4 weeks of the start of antituberculosis-
+drug treatment in a specialist centre in M insk, Belarus. Inclusion patients were those with pulmonary tuberculosis 
+conﬁ 
+rmed by sputum smear microscopy, culture, or both; MDR or XDR tuberculosis conﬁ rmed by drug-susceptibility 
+testing to ﬁ  rst-line and second-line drugs; age older than 21 years to 65 years or younger; and absence of lesion 
+compatible with a malignant process or ongoing tuberculosis in organs other than the lungs and pleura. In addition to 
+the inclusion criteria, patients were excluded if they were pregnant, coinfected with HIV, or infected with hepatitis B, 
+C, or both. The primary endpoint was safety measured by MSC-infusion related events; any tuberculosis-related event 
+within the 6 month observation period that related to a worsening of the underlying infectious disease, measured by 
+conversion of Mycobacterium tuberculosis culture or microscopic examination; or any adverse event deﬁ ned clinically or 
+by changes in blood haematology and biochemistry variables, measured monthly for 6 months after MSC infusion per 
+protocol. This study is registered with the German Clinical Trials Registry, number DRKS00000763.
+Findings The most common (grade 1 or 2) adverse events were high cholesterol levels (14 of 30 patients), nausea 
+(11 of 30 patients), and lymphopenia or diarrhoea (ten of 30 patients). There were no serious adverse events reported. 
+We recorded two grade 3 events that were transitory—ie, increased plasma potassium ion concentrations in 
+one patient and a transitory grade 3 γ-glutamyltransferase elevation in another patient.
+Interpretation
+ MSCs as an adjunct therapy are safe and can now be explored further for the treatment of patients with 
+MDR or XDR tuberculosis in combination with standard drug regimens. A djunct treatment with MSCs needs to be 
+evaluated in controlled phase 2 trials to assess eﬀ
+ ects on immune responses and clinical and microbiological 
+outcomes.
+Funding Heart and Lung foundation, Vinnova, SIDA, Söderberg Foundation, Swedish Research Council.
+Introduction
+The identiﬁ  cation and spread of multidrug-resistant 
+(MDR) and extensively drug-resistant (XDR) tubercul-
+osis
+1,2 poses a major threat to global control of 
+tuberculosis. WHO estimates that about 440 000 cases 
+were due to MDR tuberculosis in 2008 with increasing 
+prevalence in eastern Europe and southern Africa.
+3–5 
+Novel treatment options are urgently needed for MDR 
+and XDR tuberculosis since they are associated with 
+immune dysfunction and poor treatment outcomes. 
+A robust response by T-helper-1 (Th1) cells is believed 
+to be helpful in containing Mycobacterium tuberculosis; 
+adjunct treatments have therefore often aimed to 
+induce or augment a Th1-cell response in patients 
+with tuberculosis.
+6 However, the highest local and 
+systemic levels of Th1-cell-type responses, including 
+interleukin 18 production,
+7 have been identiﬁ  ed in 
+patients with the most severe forms of tuberculosis—
+ie, individuals in whom M tuberculosis was not contained. 
+This led to the suggestion that immunotherapeutic 
+approaches might reduce aberrantly high inﬂ ammatory 
+immune responses in tuberculosis;
+8 for example, by 
+using corti costeroids for the adjunct treatment of 
+tuberculosis,
+9 in part via reduction of tumour necrosis 
+factor α (TNFα). 10
+Curbing damaging and ineﬀ  ective host immune 
+responses associated with infections has been suggested 
+to be centrally important in tackling increased resistance 
+to antibiotics in general;
+11 this refocusing of the immune 
+response needs new thinking and approaches to 
+Lancet Respir Med 2014; 
+2: 108–22 
+Published Online
+January 9, 2014
+http://dx.doi.org/10.1016/
+S2213-2600(13)70234-0
+See Comment page 85
+*Contributed equally
+Republican R
+esearch and 
+Practical Centre for 
+Pulmonology and TB, Minsk, 
+Belarus (A Skrahin MD, 
+A Skrahina MD); Department 
+of Intensive Care, Belarussian 
+State Medical University, 
+Minsk, Belarus (A Skrahin); 
+Swedish Institute for 
+Infectious Disease Control 
+(SMI), Solna, Sweden 
+(R K Ahmed PhD); Section of 
+Respiratory Diseases, 
+Department of Internal 
+Medicine, University of 
+Perugia, Perugia, Italy 
+(G Ferrara MD); Department of 
+Microbiology, Tumour and Cell 
+Biology, MTC (L Rane MSc, 
+Prof M J Maeurer MD), and 
+Therapeutic Immunology 
+(TIM), Department of 
+Laboratory Medicine 
+(T Poiret MSc, 
+Prof M J Maeurer), Karolinska 
+Institutet, Stockholm, 
+Sweden; Laboratory of Cellular 
+Biotechnology and 
+Cytotherapy, Belarussian 
+Research Centre for 
+Paediatric Oncology, 
+Haematology and 
+Immunology, Minsk, Belarus 
+(Y Isaikina PhD); Division of 
+Infection and Immunity, 
+Centre for Clinical 
+Microbiology, University 
+College London, London, UK 
+(Prof A Zumla FRCP); National 
+Institute of Health Research-
+Biomedical Research Centre, 
+University College Hospitals 
+NHS Foundation Trust, 
+London, UK (Prof A Zumla); 
+and Centre for Allogeneic 
+Stem Cell Transplantation, 
+CAST, Karolinska University 
+Hospital, Stockholm, Sweden 
+(Prof M J Maeurer)
+Downloaded for Anonymous User (n/a) at The Regents of the University of Michigan from ClinicalKey.com by Elsevier on December 06, 2017.
+For personal use only. No other uses without permission. Copyright ©2017. Elsevier Inc. All rights reserved.
+Articles
+www.thelancet.com/respiratory   Vol 2   February 2014 109
+Correspondence to:
+Prof Markus J Maeurer, TIM, F79, 
+Hälsovägen, Karolinska 
+University Hospital Huddinge, 
+SE 14186 Stockholm, Sweden
+markus.maeurer@ki.se
+See Online for appendix
+restricting pathogen-induced damage to the host. One 
+option to reduce inﬂ  ammation-induced damage in 
+infectious diseases is the use of bone-marrow-derived 
+mesenchymal stromal cells (MSCs).
+12
+MSCs were originally identiﬁ ed in the 1970s in cellular 
+bone-marrow suspensions by their capacity to adhere to 
+plastic—still the standard in MSC procurement. 
+Although ﬁ rst identiﬁ ed in bone marrow,
+13 MSCs have 
+now been shown to be present in various tissues and 
+organs.
+14,15 Their function in bone marrow is to facilitate 
+haemopoiesis,16 and to support cell growth and cellular 
+organisation in adult organ tissues.14 For example, MSCs 
+have been shown to increase the proliferative potential of 
+bronchoalveolar stem cells
+17 and to restore lung 
+epithelium via the donation of mitochondria to other 
+cells.
+18,19 In general, MSCs seem to facilitate organ 
+homoeostasis and to repair damaged and traumatised 
+tissues and organs—including the lungs.
+20
+In view of the immune-modulatory and tissue-saving 
+capacity of MSCs, we hypothesised that adjunct autologous, 
+bone-marrow-derived MSCs might aid in the clinical 
+management of patients with drug-resistant tuberculosis 
+by transforming chronic inﬂ  ammation into productive 
+immune responses. A worsening of tuberculosis was a 
+major concern since recent studies suggested that 
+allogeneic MSCs might be associated with an increased 
+risk of infections in allogeneic stem-cell transplantation
+21 or 
+in the treatment of autoimmune diseases.22 Most clinical 
+MSC trials in regenerative medicine have been done with 
+allogeneic MSCs,
+23 since allogeneic MSC production is 
+easier to streamline and quality control compared with the 
+production of autologous MSCs. However, several clinical 
+studies have been done with autologous MSCs, where a 
+more extended action of MSCs is thought to be necessary—
+eg, for the treatment of stroke patients.
+24 A recent head-to-
+head comparison (POSEIDON trial)25 of allogeneic versus 
+autologous MSCs for the treatment of patients with 
+ischaemic cardiomyopathy reported that both sources were 
+equivalent. We chose to use autologous MSCs in our study 
+because of safety considerations (ie, autologous material 
+will not introduce new infectious organisms to the patient) 
+and to enable an extended biological activity of the cell 
+product (ie, autologous cells allow an extended biological 
+activity because they are from the patient and are not 
+attacked by the patient’s own immune system). We report 
+the outcome of a phase 1 safety clinical trial in 30 individuals, 
+started in 2009, using autologous MSCs for the adjunct 
+treatment of MDR and XDR tuberculosis
+5 in Belarus, 
+where greater than 76% of previously treated patients 
+present with resistant forms of tuberculosis.
+26 These forms 
+are associated with substantial lung damage, immune 
+dysfunction, and poor treatment outcomes.
+4,5,27
+Methods
+Participants
+Between September, 2009, and June, 2011, 30 patients 
+admitted to the Republican Research and Practical 
+Centre for Pulmonology and Tuberculosis (RRPCPTB; 
+Minsk, Belarus) were recruited after written informed 
+consent. The main inclusion criteria (for the protocol see 
+appendix) were pulmonary tuberculosis conﬁ  rmed by 
+sputum smear microscopy, culture, or both; MDR or 
+XDR tuberculosis conﬁ  rmed by drug-susceptibility 
+testing to ﬁ  rst-line and second-line drugs; age older than 
+21 years to 65 years or younger; and absence of lesion 
+compatible with a malignant process or ongoing 
+tuberculosis in organs other than the lungs and pleura.
+28 
+The decision to oﬀ er MSC treatment to new patients or 
+patients with previous MDR or XDR tuberculosis was 
+taken if a new course of individualised therapy, based on 
+the drug-susceptibility pattern, was started and the bone 
+marrow aspiration could be done within 1 month of the 
+start of individualised treatments for MDR or XDR 
+tuberculosis. Thus patients were already treated with 
+antituberculosis-drug regimens before the MSC 
+infusion.
+Patient categorisation was done in accordance with the 
+2008 update of the Guidelines for the Programmatic 
+Management of Drug-Resistant Tuberculosis,
+29 which was in 
+eﬀ ect at the time of trial design and patient recruitment. 
+Registration data were collected on the history of previous 
+treatments for tuberculosis; for example, whether 
+patients were previously treated with ﬁ  rst-line drugs only 
+or whether patients were previously treated with second-
+line drugs. These data enabled the easy diﬀ erentiation of 
+patients with MDR or XDR tuberculosis in terms of the 
+WHO deﬁ  nitions—ie, data collected at trial registration 
+were used to divide patients into “new”, “previously 
+treated with ﬁ  rst line”, and “previously treated with 
+second line” groups. The entire range of antituberculosis 
+drugs was recorded for transparency. The term “chronic” 
+was used to signify patients who received at least two or 
+more courses of treatment with second-line drugs and 
+who did not respond to that treatment before entry into 
+the study. Patients were excluded if they were younger 
+than 21 years, pregnant, coinfected with HIV, or infected 
+with hepatitis B, C, or both. To be deﬁ  ned as MDR 
+tuberculosis, the infecting strain had to be resistant to at 
+least isoniazid and rifampicin; XDR tuberculosis was 
+similarly deﬁ  ned with the addition of resistance to any 
+ﬂ uoroquinolone and at least one injectable second-line 
+drug.
+2,3,5 All patients were treated with the best 
+personalised tailored second-line regimens on the basis 
+of drug-susceptibility testing.
+The RRPCPTB laboratory is a quality controlled 
+microbiological laboratory and proﬁ  ciency testing 
+concerning the identiﬁ cation of M tuberculosis and drug-
+susceptibility testing are done regularly by the Swedish 
+Institute for Infectious Disease Control. Diagnoses of 
+tuberculosis were conﬁ  rmed by direct microscopy after 
+Ziehl–Neelsen staining, culture using the BACTEC MGIT 
+960 system (Becton Dickinson, Sparks, MD, USA) and 
+solid Löwenstein–Jensen medium, or both. The drug 
+susceptibility of every isolate of M tuberculosis was assessed 
+Downloaded for Anonymous User (n/a) at The Regents of the University of Michigan from ClinicalKey.com by Elsevier on December 06, 2017.
+For personal use only. No other uses without permission. Copyright ©2017. Elsevier Inc. All rights reserved.
+Articles
+110 www.thelancet.com/respiratory   Vol 2   February 2014
+with BACTEC MGIT 960 supplemented with isoniazid 
+(0·1 μg/mL), rifampicin (1·0 μg/mL), ethambutol 
+(5·0 μg/mL), or streptomycin (1·0 μg/mL). The isolates 
+identiﬁ ed as MDR were then tested for resistance to 
+second-line antituberculosis drugs with BACTEC MGIT 
+960 supplemented with kanamycin (2·5 μg/mL), amikacin 
+(1·0 μg/mL), capreomycin (2·5 μg/mL), oﬂ  oxacin 
+(2·0 μg/mL), or levoﬂ  oxacin (1·5 μg/mL), and using 
+Löwenstein-Jensen medium supplemented with 
+ethionamide (40·0 μg/mL), para-aminosalicylic acid 
+(1·0 μg/mL), or cycloserine (30·0 μg/mL).
+30,31
+Furthermore, in another 30 patients with MDR or XDR 
+tuberculosis (not treated with autologous MSCs), 
+samples from routine laboratory tests and radiographs 
+(matched to the timepoints of MSC-treated patients and 
+after 6 months—ie, the observation period) were assessed 
+to gauge the development of the disease and laboratory 
+variables over time without adjunct MSC therapy 
+(appendix). The laboratory and clinical follow-up of the 
+population with tuberculosis who did not receive treat-
+ment with MSCs was matched to the study population—
+ie, this cohort consisted of patients with MDR or XDR 
+tuberculosis who met the inclusion criteria and agreed to 
+participate in the study but did not opt for treatment with 
+MSCs. These individuals were consecutively recruited 
+into the study.
+The clinical treatment protocol was approved by the 
+RRPCPTB ethics committee (ﬁ rst approval at EC meeting 
+of Feb 3, 2009). The jurisdiction concerning the clinical 
+study rested with the RRPCPTB ethical committee in 
+Belarus; the ethics committee in Sweden had been 
+informed and provided ethical clearance before entry of 
+patient material (derived from the clinical study) into 
+Sweden for subsequent analysis of immune cells 
+(approval 2011/863-31/2).
+Procedures
+The primary endpoint of this study was safety of 
+autologous MSCs used as adjunct treatment in patients 
+with MDR or XDR tuberculosis. The secondary endpoint 
+was changes in immunological markers.
+Chest radiographs were taken before, 2 months after, 
+and 6 months after MSC infusion. Routine blood tests 
+included diﬀ  erential blood counts, haemoglobin, ESR, 
+total protein, albumin, total globulins, glucose, urea, 
+C-reactive protein (CRP), creatinine, cholesterol, total 
+(direct and indirect) bilirubin, alanine transaminase, 
+aspartate transaminase, alkaline phosphatase, lactate de-
+hydrogen ase, α-amylase, γ-glutamyl transferase, creatine 
+phosphokinase, sodium, potassium, and calcium. 
+Sputum microscopy and culture for M tuberculosis was 
+done every month after MSC infusion. Chest radiographs 
+were scored by an experienced tuberculosis physician 
+(A Skrahin) in accordance with the work of Ralph and 
+colleagues
+32 (proportion of lung involvement, plus 40 if 
+cavities are present) to gauge changes related to 
+tuberculosis. The diﬀ  erence in the radiograph score 
+between timepoint 0 and 6 months after MSC infusion 
+was calculated as
+and classiﬁ  ed as improved (10% or greater diﬀ  erence, 
+showing a decrease of the score), worsened (–5% or 
+greater variation, showing an increase in the score), or 
+stable (variation of less than 5%).
+Cells were processed and produced at the Laboratory 
+of Cellular Biotechnology and Cytotherapy of Belarussian 
+Research Centre for Paediatric Oncology, Haematology 
+and Immunology (BRCPOHI; Minsk, Belarus), 
+responsible for the procurement of MSCs for the 
+treatment of corticosteroid-resistant graft-versus-host 
+disease for patients after autologous haemopoietic stem-
+cell transplantation. BRCPOHI is a state organisation 
+with the state registration certiﬁ  cate authorising pro-
+curement of cells for cellular therapy of patients 
+including haemopoietic stem cells and MSCs. All 
+requirements concerning quality assurance required by 
+national regulatory authorities are met and MSC 
+products are subjected to internal quality control 
+measures.
+MSC sterility was done after each passage and from the 
+ﬁ nal product of MSCs (ready to be infused) using an 
+automated system BACTEC 9120 (Becton Dickinson). 
+The cell culture samples of MSCs were added to BACTEC 
+Peds Plus/F culture vials (for bacteria) and to BACTEC 
+Mycosis-IC/F culture vials (for fungal pathogens). Hence 
+MSC cultures were tested for sterility three times (since 
+the culture was split three times) before infusion. Sterility 
+before infusion was done by adding MSC culture 
+material into the BACTEC 9120 and BACTEC Peds 
+Plus/F culture vials 3 days before MSC infusion. The 
+infusion of MSCs into the patient was scheduled if the 
+automated system did not show any growth and the 
+Gram stain from these culture vessels tested negative—
+as well as the culture from material from the culture 
+vessel (after the initial 2 day cultures in the automated 
+system) streaked onto agar plates incubated both 
+aerobically and anaerobically. Bacterial and fungal 
+cultures in liquid media were continued and stopped 
+after 2 weeks in the automated BACTEC system.
+In addition to the internal quality control measures, 
+external quality control was done for MSCs (in nine 
+clinical MSC samples, shipped to Karolinska Institutet), 
+where cell compositions, cell dose, and sterility was 
+conﬁ rmed. Three MSC samples were further analysed 
+with real-time PCR for CD105, CD73, and CD90 markers. 
+The study was registered and approved by the Expert 
+Board of the Ministry of Health on June 8, 2009 (state 
+registration number 20091063 НИОК[Т]Р). Audits from 
+the Expert Board of the Ministry of Health were in 
+accordance with national regulations and were done on a 
+regular basis (two times a year).
+Diﬀerence (%) = Score at time 0 – Score after 6 months
+Score at time 0 × 100
+Downloaded for Anonymous User (n/a) at The Regents of the University of Michigan from ClinicalKey.com by Elsevier on December 06, 2017.
+For personal use only. No other uses without permission. Copyright ©2017. Elsevier Inc. All rights reserved.
+Articles
+www.thelancet.com/respiratory   Vol 2   February 2014 111
+In detail, bone marrow aspirates of 40–80 mL were 
+obtained from the iliac crest from recruited patients with 
+MDR or XDR tuberculosis in accordance with standard 
+procedures. Heparinised bone marrow was mixed with a 
+double volume of RPMI medium and ﬁ  colled to obtain 
+mononuclear cells, which were collected and washed 
+twice with phosphate-buﬀ ered saline and resuspended in 
+human MSC medium, Iscove’s modiﬁ  ed Dulbecco’s 
+medium (Invitrogen, Grand Island, NY , USA), sup-
+plemented with 10% fetal bovine serum (mesenchymal 
+stem-cell qualiﬁ  ed; Invitrogen) and 2 mmol/L of 
+L-glutamine and 10
+–⁴ mol/L of 2-mercapto ethanol. Cells 
+were plated at 1 × 10⁷ cells per mL in T75 ﬂ  asks and 
+cultured at 37°C in 5% CO 2. The starting volume was 
+30 mL and medium was added as needed. Floating cells 
+were removed at days 3 and 5. When the cultures reached 
+70% conﬂ uence, they were detached by trypsin and EDTA 
+treatment, counted, washed and passaged at 1 × 10⁶ cells 
+per mL in T75 ﬂ asks. Af
+ter each passage, sterility controls 
+were done. After two to four passages, cells were harvested 
+and tested by ﬂ  ow cytometry for immune markers 
+including CD166, CD90, CD105, CD73, CD44, CD45, 
+CD14, and CD34 (appendix); the minimal test 
+requirements for inclusion in the study were the ﬂ  ow 
+cytometric analysis (ie, CD73, CD90, CD105 plus CD45, 
+and CD34), microscopic examination, and MSC 
+diﬀ erentiation in accordance with guidelines in place at 
+the time of trial design and initiation.
+33 MSCs were 
+washed three times in 0·9% NaCl solution before 
+infusion, resuspended in 0·9% NaCl and 5% human 
+serum albumin (Octapharma, Vienna, Austria) solution, 
+adjusted to 1 × 10⁶ cells per mL, and slowly intravenously 
+infused in 5% human serum albumin.
+34 The entire MSC 
+cell dose was given as a slow (5 min) bolus injection via 
+an intravenous line. The MSC production followed the 
+requirements as described by Dominici and colleagues.
+33 
+Most clinical trials used MSCs in the range of 
+0·5–3·0 × 10⁶ cells per kg;
+35,36 we aimed to obtain 
+1 × 10⁶ cells per kg. The capacity to expand MSCs diﬀ ers 
+from donor to donor. In some cases, fewer than 1 × 10⁶ cells 
+per kg MSCs could be expanded for infusion and lower 
+numbers of MSCs were not excluded from infusion.
+Peripheral-blood mononuclear cells (PBMCs) were 
+obtained by venepuncture, isolated by ﬁ  coll-hypaque 
+density gradient centrifugation from heparinised blood, 
+with subsequent freezing in liquid nitrogen for analysis 
+by ﬂ  ow cytometry. All samples from diﬀ erent timepoints 
+were tested, along with appropriate controls from healthy 
+blood donors, in the same experiment at the same day. 
+Blood was collected at day 0 (before MSC infusion), and 
+monthly after MSC infusion for the entire observation 
+period. The study protocol stipulated a more detailed 
+immunological analysis of immune responses in the ﬁ rst 
+ten patients after initiation of the protocol. Immune cells 
+from healthy donors exhibited strong cytokine production 
+as described by Magalhaes and colleagues.
+37 Haema-
+tological and biochemical analysis was done in all 
+30 patients. Then heparin blood samples from the ﬁ rst ten 
+patients were analysed for the whole-blood assay (WBA; 
+antigen-speciﬁ c interferon-γ production) and the PBMC 
+samples from these ten patients were analysed for 
+intracellular cytokine staining and STAT5 phosphorylation. 
+Datapoints that are not visible imply that the values were 
+zero (eg, in the interferon-γ production assay).
+Immune marker analysis was done on thawed PBMCs 
+as described previously;
+37,38 the antibodies are listed in the 
+appendix. Samples obtained before and at diﬀ  erent 
+timepoints after infusion of MSCs from each individual 
+were processed the same day. The markers CD45RA and 
+CCR7 help to group T cells into precursor, memory-T-cell 
+subsets, and terminally diﬀ  erentiated T cells;
+39 these 
+markers establish if T cells are long lived, contribute to 
+immune memory, and are able to access tissues. Immune 
+marker analysis was done in (non-expanded) PBMCs and 
+not in the 7 day expanded immune cells from the WBA 
+assay.
+Cytokine production (interleukin 2, interferon γ, TNFα, 
+and interleukin 17) was analysed in PBMCs,
+37 as described 
+in detail in the appendix. This 6 h assay measures the 
+production of cytokines in response to a molecularly 
+deﬁ ned stimulus and relates to the ex-vivo production of 
+cytokines in eﬀ  ector T cells. Simultaneous production of 
+diﬀ erent cytokines from the same cell has been suggested 
+to be associated with improved responses to M tuberculosis; 
+interferon γ, TNFα, and interleukin 17 are believed to be 
+instrumental in anti-M tuberculosis responses.
+Constitutive and cytokine-induced phosphorylated 
+STAT5 expression was assessed in PBMCs as described 
+previously.
+37,40 Immune-competent T cells respond with 
+strong STAT5 phosphorylation in response to inter-
+leukin 7 and 2.
+Assessment of cellular immune responses in whole 
+blood (WBA) was done as described previously.
+38 The 
+WBA has been shown to gauge CD8+ and CD4+ T-cell 
+responses and interferon-γ production to test antigens,
+41 
+including M tuberculosis antigens.42,43 Brieﬂ y, heparinised 
+blood is diluted with cell-culture medium and immune 
+cells are expanded for 7 days until assay readout 
+(appendix). The 7 day WBA expansion measures CD4+ 
+and CD8+ T-cell responses and not responses of natural 
+killer cells. We tested a comprehensive panel of 
+molecularly deﬁ ned M tuberculosis antigens (appendix) 
+that were commonly recognised in blood from patients 
+with pulmonary tuberculosis in Belarus
+44 (as well as in 
+Honduras45) since the MHC diversity of the patients and 
+the status of tuberculosis might vary and need a more 
+comprehensive target M tuberculosis panel to gauge 
+memory T-cell responses involved in M tuberculosis  
+containment. The WBA measures whether immune cells 
+from an individual are able to respond at all to a positive 
+control (phytohaemagglutinin) and whether constitutive 
+interferon-γ production is present. The background 
+(medium) interferon-γ responses have been subtracted 
+for each M tuberculosis antigen as described in detail 
+Downloaded for Anonymous User (n/a) at The Regents of the University of Michigan from ClinicalKey.com by Elsevier on December 06, 2017.
+For personal use only. No other uses without permission. Copyright ©2017. Elsevier Inc. All rights reserved.
+Articles
+112 www.thelancet.com/respiratory   Vol 2   February 2014
+Sex Age, 
+years
+Case 
+deﬁ nition*
+Drug-
+resistance 
+status
+Drug-susceptibility testing Number of 
+previous 
+second-line 
+treatments
+Second-line treatment 
+regimen at the time of MSC 
+infusion
+Microscopy/
+culture at the 
+time of MSC 
+infusion
+MSC dose×10⁶ 
+(cells per kg)
+Radiology at 
+6 months
+1 Male 31 New case XDR Isoniazid, rifampicin, streptomycin, 
+ethambutol, amikacin, kanamycin, 
+oﬂ oxacin, ethionamide, cycloserine
+0 Moxiﬂ oxacin, PAS, 
+protionamide, cycloserine, 
+capreomycin, linezolid
+–/+ 55 (0·75) Improved
+2 Male 39 Previously 
+treated
+MDR Isoniazid, rifampicin, streptomycin 1 Capreomycin, oﬂ oxacin, 
+pyrazinamide, cycloserine, 
+ethionamide
+–/+ 17 (0·25) Improved
+3 Male 50 Chronic MDR Isoniazid, rifampicin, ethambutol, 
+streptomycin, amikacin, kanamycin, 
+capreomycin, protionamide
+2 Levoﬂ oxacin, capreomycin, 
+cycloserine, ethionamide, PAS, 
+co-amoxiclav†
+–/+ 94 (1·30) Worsened
+4 Male 24 Chronic XDR Isoniazid, rifampicin, streptomycin, 
+ethambutol, oﬂ oxacin, amikacin, 
+capreomycin, kanamycin, PAS, 
+cycloserine
+3 Moxiﬂ oxacin, capreomycin, 
+cycloserine, ethionamide, PAS, 
+co-amoxiclav
+–/+ 74 (1·04) Stable
+5 Female 25 Chronic MDR Isoniazid, rifampicin, streptomycin, 
+ethambutol, pyrazinamide, 
+oﬂ  oxacin, PAS, ethionamide
+2 Moxiﬂ oxacin, protionamide, 
+kanamycin, co-amoxiclav, 
+clarithromycin, PAS
+–/+ 65 (1·14) Worsened
+6 Female 29   Previously 
+treated
+MDR Isoniazid, streptomycin, rifampicin, 
+ethambutol
+1 Pyrazinamide, kanamycin, 
+oﬂ  oxacin, PAS, ethionamide, 
+cycloserine
+–/– 41 (0·70) Improved
+7 Male 41 Chronic XDR Isoniazid, rifampicin, streptomycin, 
+ethambutol, pyrazinamide, 
+amikacin, kanamycin, oﬂ oxacin, 
+PAS, ethionamide, capreomycin
+2 Capreomycin, protionamide, 
+PAS, cycloserine, co-amoxiclav, 
+moxiﬂ oxacin, linezolid
+–/+ 43 (0·67) Improved
+8 Male 25 Chronic XDR Isoniazid, rifampicin, streptomycin, 
+ethambutol, kanamycin, amikacin, 
+oﬂ oxacin, ethionamide, 
+capreomycin
+3 Levoﬂ oxacin, protionamide, 
+PAS, capreomycin, cycloserine, 
+co-amoxiclav, clarithromycin
++/+ 76 (0·95) Stable
+9 Female 29 Previously 
+treated
+MDR Isoniazid, rifampicin, streptomycin, 
+pyrazinamide, ethambutol, 
+ethionamide
+1 PAS, kanamycin, oﬂ oxacin, 
+ethionamide, cycloserine
+–/+ 13 (0·25) Improved
+10 Female 26 Chronic XDR Isoniazid, rifampicin, streptomycin, 
+amikacin, kanamycin, ethambutol, 
+oﬂ oxacin
+2 Levoﬂ oxacin, protionamide, 
+PAS, capreomycin, cycloserine, 
+co-amoxiclav
+–/+ 62 (0·79) Improved
+11 Female 29 Chronic XDR Isoniazid, streptomycin, rifampicin, 
+ethambutol, kanamycin, amikacin, 
+ethionamide, oﬂ oxacin, 
+capreomycin
+2 PAS, protionamide, cycloserine, 
+capreomycin, levoﬂ oxacin, co-
+amoxiclav, clarithromycin
+–/+ 69 (1·50) Improved
+12 Female 29 Chronic MDR Isoniazid, rifampicin, streptomycin, 
+ethambutol
+2 Pyrazinamide, kanamycin, 
+oﬂ o
+xacin, protionamide, 
+cycloserine, PAS
+–/+ 22 (0·37) Improved
+13 Male 32 Previously 
+treated
+XDR Isoniazid, rifampicin, streptomycin, 
+ethambutol, pyrazinamide, 
+amikacin, kanamycin, capreomycin, 
+oﬂ oxacin
+0 PAS, levoﬂ oxacin, capreomycin, 
+cycloserine, protionamide, 
+co-amoxiclav
+–/+ 56 (0·70) Improved
+14 Female 24 Chronic MDR Isoniazid, rifampicin, streptomycin, 
+ethambutol, amikacin, kanamycin
+2O ﬂ oxacin, ethionamide, PAS, 
+capreomycin, cycloserine
+–/+ 380 (6·00) Improved
+15 Female 22 Previously 
+treated
+MDR Isoniazid, rifampicin, streptomycin, 
+ethambutol
+1 Kanamycin, oﬂ oxacin, 
+protionamide, PAS, pyrazinamide
+–/+ 20 (0·34) Improved
+16 Female 20 New case XDR Isoniazid, rifampicin, streptomycin, 
+ethambutol, kanamycin, amikacin, 
+oﬂ oxacin, levoﬂ  oxacin, protionamide
+0 Protionamide, levoﬂ oxacin, 
+cycloserine, capreomycin, PAS, 
+co-amoxiclav, clarithromycin
+–/+ 100 (1·81) Improved
+17 Male 21 New case MDR Isoniazid, rifampicin, streptomycin, 
+ethambutol, pyrazinamide, 
+oﬂ oxacin, levoﬂ oxacin
+0 Capreomycin, levoﬂ oxacin, 
+protionamide, PAS, cycloserine, 
+co-amoxiclav
+–/+ 71 (0·98) Improved
+18 Female 41 New case XDR Isoniazid, rifampicin, streptomycin, 
+ethambutol, kanamycin, oﬂ oxacin, 
+ethionamide, PAS
+0 Moxiﬂ  oxacin, amikacin, PAS, 
+cycloserine, protionamide, 
+co-amoxiclav‡
+–/+ 11 (0·20) Improved
+19 Female 35 New case MDR Isoniazid, rifampicin, streptomycin 0 Kanamycin, levoﬂ oxacin, 
+protionamide, cycloserine, PAS
+–/+ 70 (1·06) Improved
+(Continues on next page)
+Downloaded for Anonymous User (n/a) at The Regents of the University of Michigan from ClinicalKey.com by Elsevier on December 06, 2017.
+For personal use only. No other uses without permission. Copyright ©2017. Elsevier Inc. All rights reserved.
+Articles
+www.thelancet.com/respiratory   Vol 2   February 2014 113
+previously44,46—ie, the interferon-γ values reported for 
+each M tuberculosis antigen represent antigen-speciﬁ  c 
+T-cell responses. interferon-γ production of T cells from 
+patients with tuberculosis can be inherently low or high 
+in response to certain M tuberculosis target antigens, 
+associated with the nature and biology of the target—eg, 
+antigens associated with M tuberculosis latency.
+47
+Statistical analysis
+Diﬀ erences between the proportions of immune 
+responses in blood from patients, deﬁ  ned by interferon-γ 
+production (WBA) before and after treatment were 
+analysed with the Wilcoxon test and the Fisher exact test 
+was used to analyse diﬀ  erences in the tuberculosis 
+diagnostics (microscopy and culture) using the GraphPad 
+version 4.
+We recorded three categories of events within the 
+6 month observation period: worsening or exacerbation of 
+tuberculosis, deﬁ  ned as conversion from smear negative 
+to smear positive; conversion from M tuberculosis culture 
+negative to culture positive, or both; and adverse events 
+associated with the intravenous administration of MSCs 
+measured by standard means in accordance with the 
+Common Terminology Criteria for Adverse Events 
+(CTCAE). Terminology and classiﬁ  cation for adverse 
+events was done in accordance with CTCAE version 3. In 
+addition to standard means (eg, blood pressure, 
+temperature, heart rate), SpO
+2 (as a sign of hypoxia) was 
+measured at the time of MSC infusion and 1 h after 
+infusion—the values were within the normal range before 
+study entry. Other pulmonary variables (eg, vital capacity, 
+FEV
+1, carbon monoxide diﬀ  usion capacity [also 
+recommended by CTCAE]) were not done for patients 
+with MDR or XDR tuberculosis in accordance with 
+institutional infection control measures; any adverse 
+eﬀ ect according to CTCAE within the 6 month observation 
+Sex Age, 
+years
+Case 
+deﬁ nition*
+Drug-
+resistance 
+status
+Drug-susceptibility testing Number of 
+previous 
+second-line 
+treatments
+Second-line treatment 
+regimen at the time of MSC 
+infusion
+Microscopy/
+culture at the 
+time of MSC 
+infusion
+MSC dose×10⁶ 
+(cells per kg)
+Radiology at 
+6 months
+(Continued from previous page)
+20 Male 22 New case XDR Isoniazid, streptomycin, rifampicin, 
+ethambutol, kanamycin, oﬂ oxacin, 
+PAS, capreomycin, cycloserine
+0 Amikacin, levoﬂ oxacin, 
+protionamide, PAS, cycloserine, 
+co-amoxiclav
+–/+ 94 (1·20) Stable
+21 Male 21 Chronic XDR Isoniazid, rifampicin, streptomycin, 
+ethambutol, kanamycin, amikacin, 
+oﬂ oxacin, protionamide
+1 Capreomycin, levoﬂ oxacin, 
+protionamide, PAS, cycloserine, 
+co-amoxiclav
+–/+ 67 (1·05) Improved
+22 Female 24 Previously 
+treated
+XDR Isoniazid, rifampicin, streptomycin, 
+ethambutol, amikacin, kanamycin, 
+oﬂ oxacin
+0 Pyrazinamide, capreomycin, 
+levoﬂ oxacin, protionamide, PAS, 
+cycloserine, co-amoxiclav
+–/+ 63 (0·95) Improved
+23 Female 21 New case MDR Isoniazid, rifampicin, streptomycin, 
+pyrazinamide
+0 Ethambutol, capreomycin, 
+oﬂ oxacin, protionamide, 
+cycloserine, PAS
+–/+ 65 (0·80) Improved
+24 Female 43 Chronic MDR Isoniazid, rifampicin, ethambutol, 
+streptomycin, pyrazinamide, 
+kanamycin, amikacin, ethionamide
+2 Capreomycin, pyrazinamide, 
+levoﬂ oxacin, protionamide, 
+cycloserine, PAS
+–/+ 60 (1·06) Worsened
+25 Male 45 Previously 
+treated
+MDR Isoniazid, rifampicin, streptomycin, 
+oﬂ oxacin
+0 Pyrazinamide, ethambutol, 
+capreomycin, moxiﬂ oxacin, 
+ethionamide, cycloserine
+–/+ 53 (0·62) Improved
+26 Female 33 New case MDR Isoniazid, rifampicin, streptomycin, 
+ethambutol, pyrazinamide, 
+kanamycin, PAS
+0 Pyrazinamide, capreomycin, 
+levoﬂ oxacin, protionamide, 
+cycloserine, PAS
+–/+ 58 (1·20) Improved
+27 Female 19 Chronic XDR Isoniazid, rifampicin, streptomycin, 
+ethambutol, amikacin, kanamycin, 
+oﬂ oxacin, capreomycin
+2 Pyrazinamide, capreomycin, 
+moxiﬂ  oxacin, ethionamide, PAS, 
+cycloserine, co-amoxiclav
++/+ 51 (1·12) Worsened
+28 Male 39 New case MDR Isoniazid, rifampicin, streptomycin, 
+ethambutol, amikacin, kanamycin, 
+capreomycin
+0 Pyrazinamide, capreomycin, 
+levoﬂ oxacin, protionamide, 
+cycloserine, PAS
+–/+ 110 (1·84) Improved
+29 Male 34 Previously 
+treated
+MDR Isoniazid, rifampicin, streptomycin, 
+pyrazinamide
+0 Pyrazinamide, ethambutol, 
+capreomycin, levoﬂ oxacin, 
+protionamide, cycloserine, PAS
+–/+ 98 (1·14) Stable
+30 Male 46 Previously 
+treated
+MDR Isoniazid, rifampicin, streptomycin, 
+ethambutol, kanamycin, 
+capreomycin
+0 Pyrazinamide, amikacin, 
+levoﬂ o
+ xacin, protionamide, 
+cycloserine, PAS
+–/+ 41 (0·41) Stable
+MSCs=mesenchymal stromal cells. MDR=multidrug resistant. XDR=extensively drug resistant. PAS=para-aminosalicylic acid. *Chronic case means more than two unsuccessful rounds of therapy. †Seven-rib 
+thoracoplasty. ‡Lobectomy right-upper lobe during therapy.
+Table 1: Patient characteristics by identiﬁ cation number
+For more on the CTCAE see 
+http://ctep.cancer.gov/
+Downloaded for Anonymous User (n/a) at The Regents of the University of Michigan from ClinicalKey.com by Elsevier on December 06, 2017.
+For personal use only. No other uses without permission. Copyright ©2017. Elsevier Inc. All rights reserved.
+Articles
+114 www.thelancet.com/respiratory   Vol 2   February 2014
+period including laboratory parameters and clinical 
+performance was noted. Chest radiographic assessment 
+was done at the time of MSC infusion and after 
+6 months—ie, at completion of the observation period. 
+The data are part of the adverse event report, since a more 
+detailed examination of pulmonary alterations (ie, 
+measured by high-resolution CT) would be needed to 
+gauge objectively subtle changes in pulmonary structures.
+Tuberculosis treatment outcome was reported 
+18 months after initiation of therapy (and is therefore 
+outside the 6 month observation period of the MSC 
+safety trial). The terms “cure”, “treatment completed”, 
+“treatment failure”, and “default” relate to the 
+nomenclature of the tuberculosis treatment in 
+accordance with those published in the guidelines.
+29 This 
+study is registered with the German Clinical Trials 
+Registry, number DRKS00000763.
+Role of the funding source
+The sponsors of the study had no role in study design, 
+data collection, data analysis, data interpretation, or 
+writing of the report. The corresponding author had full 
+access to all the data in the study and had ﬁ  nal 
+responsibility for the decision to submit for publication.
+Results
+Table 1 details the characteristics of the 30 patients with 
+drug-resistant pulmonary tuberculosis. Of these 
+30 patients, 17 had MDR tuberculosis and 13 XDR 
+tuberculosis. All patients were M tuberculosis culture 
+positive and received infusions of autologous MSCs. 
+Flow cytometric analysis of MSCs showed that they 
+exhibited typical markers including CD90, CD105, CD44, 
+and CD166; they stained negative for CD45, CD34, and 
+CD14 (ﬁ gure 1). Nine patients represented new cases, 
+nine had been treated previously for tuberculosis, and 
+twelve had chronic cases of tuberculosis.
+No severe adverse events were recorded in the 6 months 
+of the study. Because of underlying disease, many patients 
+experienced pulmonary symptoms (mostly cough) before 
+MSC infusion (at baseline) due to pulmonary tuberculosis. 
+With regard to eﬀ ects on the underlying disease, a major 
+concern was the potential immunosuppressive eﬀ  ect of 
+MSC infusion that could lead to deterioration of 
+tuberculosis. Therefore, a systematic and careful 
+screening of the sputum samples (microscopy and 
+culture) was adopted. The term “exacerbation” refers to a 
+rapid deterioration of the disease within the 6 month 
+observation period deﬁ  ned by M tuberculosis positive 
+direct sputum or culture examination (appendix). This 
+event was not recorded for any patients. No patients 
+experienced even mild (grade 1) events associated with 
+intravenous MSC infusion. This lack of adverse events 
+was also true for pulmonary symptoms (eg, 
+bronchospasm, dyspnoea) during MSC infusion or 
+during the 6 month observation period. SpO
+2 (as a sign of 
+hypoxia) was measured at the time of MSC infusion and 
+1 h after infusion; the value was within normal range and 
+none of the patients exhibited a decrease in SpO
+2.
+Table 2 lists the adverse events according to standard 
+International Conference on Harmonisation good clinical 
+practice deﬁ  nitions covering the ﬁ rst 6 months after MSC 
+infusion. The most common adverse events (grade 1 
+and 2) were increased cholesterol, nausea, diarrhoea, and 
+lymphopenia. Most of the adverse events existed before 
+MSC infusion (eg, lymphopenia); other adverse events 
+(eg, high cholesterol) were attributed to the liver-related 
+toxic eﬀ ects of antituberculosis drugs. We recorded two 
+grade 3 events that were transitory— ie, increased plasma 
+potassium ion concentrations in one patient and a 
+transitory grade 3 γ-glutamyltransferase elevation in 
+another patient. There were some changes from baseline 
+values of standard haematology and biochemistry, but 
+they did not persist and no values were outside of the 
+normal range (ﬁ  gure 2, appendix).
+We have also analysed in greater detail haematological 
+and biochemical parameters in patients with MDR or XDR 
+tuberculosis and grouped them according to age, MDR or 
+XDR tuberculosis, new versus previously treated cases, 
+and the resistance patterns of the isolated M tuberculosis  
+strains. We did not identify any diﬀ  erences in the safety 
+parameters measured in these patient subsets (appendix).
+Chest radiographs, obtained at the time of MSC 
+infusion and after the observation period (6 months), 
+were compared; which was not part of the adverse event 
+Figure 1: MSC phenotype and quality control
+MSCs were tested for marker expression by ﬂ ow cytometry in accordance with guidelines eﬀ ective at the time of 
+trial design and initiation.33 Typical CD90 and CD105 expression and absence of CD45 in MSCs generated from 
+patients with tuberculosis (A). Compilation of marker analysis (B) with MSC marker expression (ie, CD90, CD105, 
+CD44 and CD166 in MSC; absence of CD45 [lymphocytes], CD34 [haemopoietic stem cells], or CD14 [monocytes] 
+markers in MSC preparations). MSCs tested positive for CD73 (data not shown). MSC=mesenchymal stromal cell.
+Cell count
+Fluorescence intensity
+CD90A
+Fluorescence intensity
+CD105
+Fluorescence intensity
+CD45
+Isotype
+Speciﬁc mAb
+CD90 CD105 CD44 CD166 CD45 CD34 CD14
+0
+20
+40
+60
+80
+100Frequency of cells expressing marker (%)
+B
+Downloaded for Anonymous User (n/a) at The Regents of the University of Michigan from ClinicalKey.com by Elsevier on December 06, 2017.
+For personal use only. No other uses without permission. Copyright ©2017. Elsevier Inc. All rights reserved.
+Articles
+www.thelancet.com/respiratory   Vol 2   February 2014 115
+report. 21 individuals showed improvement of the chest 
+radiograph, ﬁ ve showed stabilisation, and four showed 
+worsening of the radiograph during the observation 
+period (table 1). The detailed scores of the chest 
+radiographs at the time of MSC infusion and after 
+6 months are provided in the appendix.
+With regard to treatment outcomes for MDR tuberculosis 
+(reported 18 months after the start of tuberculosis therapy, 
+not part of the observation safety trial),
+48,49 16 individuals 
+were deemed to be cured; two patients completed the 
+treatment, eight were still on treatment, three showed 
+treatment failure, one was classiﬁ  ed as a default, and no 
+deaths were reported (appendix). The data for age-matched 
+and sex-matched patients with MDR or XDR tuberculosis, 
+without MSC treatment, are also provided in the appendix.
+Detection of ex-vivo intracellular cytokine production 
+in response to the positive control stimulus (phorbol 
+12-myristate 13-acetate) and to the TB10.4 protein, as a 
+marker of an anti-M tuberculosis response, was low in 
+PBMCs from ten of ten individuals (<1% of CD8 or CD4+ 
+T cells for interleukin 2, interferon γ, TNFα, or 
+interleukin 17) at any timepoint after MSC infusion. 
+Some patients exhibited interleukin 2 and interleukin 17 
+or TNFα production to the M tuberculosis antigen TB10.4 
+at day 28 after MSC infusion in CD4+ T cells (appendix); 
+this was not statistically signiﬁ cant. Peripheral CD4+ and 
+CD8+ T cells, as well as CD3+, CD4–, and CD8– T cells 
+exhibited the phenotype of central-memory (CD45RA– 
+CCR7+) T cells and this pattern did not change 
+signiﬁ cantly after MSC infusion (appendix). So-called 
+immune exhaustion was also evident by decreased 
+expression of the T-cell receptor ζ chain, responsible for 
+T-cell signalling
+50 in T cells from patients with 
+tuberculosis (appendix). Some individuals regained 
+expression of the T-cell receptor ζ chain after MSC 
+infusion; however, the small sample size (immune cells 
+from ﬁ ve individuals) did not allow for statistical analysis.
+Since we were unable to identify intracellular cytokine 
+production in a standard 6 h ex-vivo assay, we analysed 
+memory M tuberculosis-reactive T cells with a T-cell 
+expansion assay that measures antigen-speciﬁ c cytokine 
+production in response to antigenic stimulation (ﬁ gure 3). 
+This assay measures whether T cells have the capacity to 
+respond to any antigenic stimulation deﬁ  ned by 
+interferon-γ production in response to a positive control 
+(phytohaemagglutinin). This was the case for T cells from 
+all ten patients with tuberculosis (ﬁ  gure 3) before and 
+after MSC infusion. Baseline production of interferon γ 
+from T cells (without antigenic stimulation) was also 
+measured to gauge constitutive cytokine production, 
+which was subtracted from interferon-γ production 
+values obtained with antigen-speciﬁ c stimulation. Several 
+molecularly deﬁ ned M tuberculosis targets were tested for 
+diﬀ erences before and after MSC infusion concerning 
+interferon-γ production (appendix). Two M tuberculosis  
+targets revealed statistically relevant diﬀ erences eliciting 
+interferon-γ production in immune cells from patients 
+with tuberculosis before and after MSC infusion. We 
+identiﬁ ed an increase of interferon-γ production in 
+response to antigen Ag85B (Rv1886) and a decreased 
+interferon-γ production in response to mycocerosic 
+synthase (Rv2940c) after the observation period (ﬁ gure 3).
+T cells from patients with tuberculosis did not respond 
+before MSC treatment with STAT5 phosphorylation to 
+stimulation with interleukins 2 or 7,
+37 a sign of reduced 
+immune eﬀ ector function.40 We tested also the capacity of 
+CD4+ and CD8+ T cells from patients to respond to 
+cytokine stimulation (interleukin 2 and interleukin 7) 
+deﬁ ned by phosphorylation of STAT5. Immune competent 
+T cells respond with swift phosphorylation of STAT5 upon 
+stimulation with interleukins 2 or 7 .
+37 T cells from some 
+individuals with tuberculosis showed improvement of 
+STA
+T5 phosphorylation in CD4+ and CD8+ T cells in 
+response to cytokine stimulation (interleukin 2 and 
+interleukin 7) after MSC infusion (ﬁ gure 4).
+Number 
+of patients 
+(n=30)
+Number 
+of recorded 
+adverse events 
+(n=217)
+Grade 1 
+events
+Grade 2 
+events
+Grade 3 
+events
+Anaemia 1 (3%) 5 4 (80%) 1 (20%) 0
+Neutropenia 2 (7%) 4 4 (100%) 0 0
+Lymphopenia 10 (33%) 27 27 (100%) 0 0
+Nausea 11 (37%) 19 19 (100%) 0 0
+Vomiting 5 (17%) 6 6 (100%) 0 0
+Diarrhoea 10 (33%) 14 14 (100%) 0 0
+Arthralgia 5 (17%) 11 8 (73%) 3 (27%) 0
+Hearing Loss 4 (13%) 4 4 (100%) 0 0
+Headache 3 (10%) 3 3 (100%) 0 0
+Insomnia 8 (27%) 16 16 (100%) 0 0
+Seizures 2 (7%) 2 0 2 (100%) 0
+Hyperthyroidism 1 (3%) 1 1 (100%) 0 0
+Hypoalbuminaemia 1 (3%) 9 2 (22%) 7 (78%) 0
+Hyperglycaemia 3 (10%) 7 7 (100%) 0 0
+Increased alanine transaminase 4 (13%) 9 7 (78%) 2 (22%) 0
+Increased aspartate transaminase 7 (23%) 12 10 (83%) 2 (17%) 0
+Increased bilirubin 2 (7%) 2 2 (100%) 0 0
+Increased amylase 1 (3%) 3 3 (100%) 0 0
+Increased γ-glutamyltransferase 1 (3%) 1 0 0 1 (100%; 
+transitory)
+Hypercholesterolaemia 14 (47%) 35 2 (6%) 33 (94%) 0
+Hypercreatinaemia 1 (3%) 1 1 (100%) 0 0
+Increased creatine phosphokinase 8 (27%) 13 13 (100%) 0 0
+Hypocalcaemia (total Ca) 1 (3%) 1 0 1 (100%) 0
+Hyperkalaemia 4 (13%) 6 5 (83%) 0 1 (17%; 
+transitory)
+Hypernatraemia 4 (13%) 6 6 (100%) 0 0
+Data are n (%). All adverse events (blood, gastrointestinal, constitutional symptoms, pain, auditory, neurology, 
+endocrine, metabolic, laboratory) were listed in accordance with the Common Terminology Criteria for Adverse Events 
+version 3.0 at the time of MSC infusion and during the 6 month observation period. No fever episodes were reported. 
+Increased values for cholesterol were present before the MSC infusion; the same situation was true for vomiting or low 
+lymphocyte counts, which were present before MSC infusion. MSC=mesenchymal stromal cell.
+ Table 2: Adverse events 6 months after MSC adjunct therapy
+Downloaded for Anonymous User (n/a) at The Regents of the University of Michigan from ClinicalKey.com by Elsevier on December 06, 2017.
+For personal use only. No other uses without permission. Copyright ©2017. Elsevier Inc. All rights reserved.
+Articles
+116 www.thelancet.com/respiratory   Vol 2   February 2014
+Discussion
+This study is, to our knowledge, the ﬁ  rst to describe the 
+use of bone-marrow-derived autologous MSCs as an 
+adjunct treatment for patients with MDR or XDR 
+tuberculosis (panel). The MSCs harvested from patients 
+with tuberculosis (who were under treatment at the time 
+of MSC harvest) did not exhibit aberrant cell-surface-
+marker expression compared with MSCs harvested from 
+healthy donors.
+33 Treatment with antituberculosis drugs 
+did not negatively aﬀ ect MSC harvest; yet future studies 
+will need to assess in greater detail whether certain 
+anti-M tuberculosis drug combinations or concomitant 
+M tuberculosis infection aﬀ  ects expansion and biology of 
+MSCs in vitro, since data from a more recent study 
+suggested that several factors, including donor age and 
+sex, aﬀ  ect MSC function and possibly clinical eﬃ  cacy.
+51
+Adjunct therapy with MSCs was not associated with 
+any severe adverse clinical events or disturbances in 
+haematological and biochemical variables. 13% of 
+patients with MDR or XDR tuberculosis exhibited 
+worsening of chest radiographs, an outcome which is 
+expected in this patient cohort on the basis of earlier 
+studies.
+4,5,26 Other adjunct immune-based therapies such 
+as intradermal interleukin 2 52 or interferon γ via aerosol 
+have shown limited results in improving tuberculosis-
+treatment outcomes or shortening the duration of 
+therapy.
+53
+Our ﬁ ndings show that MSC infusion was safe and 
+well tolerated in all included patients. A recent meta-
+analysis assessing autologous and allogeneic MSC 
+therapy in patients, searching Medline, Embase, and the 
+Cochrane Central Register of Controlled Trials (to June, 
+2011) reported no major side-eﬀ  ects of MSC treatment
+35 
+(36 randomised controlled and uncontrolled clinical 
+studies were analysed). 27 of these studies used fetal 
+bovine serum (FBS), human serum was used in ﬁ ve, and 
+four did not report the source of MSC culture 
+supplements. The use of FBS in MSC culture medium 
+Leucocytes
+0
+5
+10
+15
+20
+25
+Cells per 109/L
+Lymphocytes
+0
+1
+2
+3
+4
+5
+7
+6
+Cells per 109/L
+Haemoglobin
+0
+25
+50
+100
+150
+200
+75
+125
+175
+g/L
+Neutrophils (mature)
+0
+20
+40
+60
+80
+100Frequency (%)
+Neutrophils (non-mature)
+0
+5
+10
+15
+20
+25
+35
+30Frequency (%)
+CRP
+0
+5
+10
+20
+30
+35
+15
+25
+mg/L
+Before 1 2 3
+Eosinophils
+4 5 6
+0
+5
+10
+15
+20
+25
+Frequency (%)
+Month after MSC infusion Month after MSC infusion
+Before 1 2 3
+Monocytes
+4 5 6
+0
+5
+10
+15
+20Frequency (%)
+Before 1 2 3
+ESR
+4 5 6
+0
+10
+20
+40
+60
+70
+30
+50
+mm/h
+Month after MSC infusion
+Figure 2: Eﬀ  ect of MSC infusion on routine blood analyses
+The numbers show months after MSC infusion (1–6) during the 6 month observation period; patient samples were also analysed before the MSC infusion to obtain 
+baseline values. MSC=mesenchymal stromal cell. CRP=C-reactive protein. ESR=erythrocyte sedimentation rate.
+Downloaded for Anonymous User (n/a) at The Regents of the University of Michigan from ClinicalKey.com by Elsevier on December 06, 2017.
+For personal use only. No other uses without permission. Copyright ©2017. Elsevier Inc. All rights reserved.
+Articles
+www.thelancet.com/respiratory   Vol 2   February 2014 117
+represents several challenges (ie, batch-to-batch 
+consistency54), the risk of immunogenicity (due to the 
+transfer of xenomaterial, particularly in repeated MSC 
+infusions
+55,56), and the risk of transfer of infectious agents 
+(eg, prions). Of interest is the detailed comparison of 
+infusion-related toxic eﬀ  ects between MSCs, cultured 
+with diﬀ erent culture conditions, with or without FBS. 
+No signiﬁ cant relation between MSC administration and 
+acute toxic eﬀ  ects was recorded; the only toxic eﬀ  ect 
+reported was transient fever. Several alternate MSC 
+culture additives are being explored using allogeneic and 
+autologous human serum for MSC expansion; 
+autologous serum has been shown to be superior to 
+allogeneic serum or FBS.
+55 Serum-free medium with 
+growth supplements would be the ideal solution to 
+ensure batch-to-batch consistency
+57 and to avoid 
+xenoreactivity and alloreactivity associated with non-
+autologous serum sources.
+58,59 A step in this direction is 
+the use of platelet lysate, which has been suggested as a 
+viable FCS substitute because of high levels of natural 
+growth factors.
+60,61
+A major initial concern in our phase 1 study was the 
+risk of suppressing anti-M tuberculosis immune 
+responses and subsequent worsening of tuberculosis, 
+yet this has not been noted. We could also not identify 
+decreased interferon-γ production in the WBA assay 
+(comparing blood samples from the periods before and 
+after MSC infusion) that would suggest immune-
+suppression in peripheral T-cell responses. Recovery of 
+immune functions was shown by increased cytokine 
+production in PBMCs (appendix) after MSC infusion 
+and improved responses to stimulation by interleukins 2 
+and 7 in some patients measured by STAT5 
+phosphorylation (ﬁ  gure 4). CD4+ and CD8+ T cells from 
+healthy individuals show low (ie, <2%) constitutively 
+phosphorylated STAT5, which is rapidly phosphorylated 
+upon stimulation with interleukins 2 or 7 in greater 
+than 50% of T cells.
+37 The reduced capacity of T cells to 
+appropriately respond to antigen and cytokine stimu-
+lation has been associated with the decreased capacity of 
+T cells to phosphorylate STAT5 in mice.
+62 Decreased 
+STAT5 phosphorylation has also been identiﬁ  ed in 
+After
+Before
+ 12·6 3·6
+ 7·2 0·0
+ 12·6 0·0
+ 0·0 0·0
+ 0·0 0·0
+ 0·0 0·0
+ 7·2 3·6
+ 12·6 0·0
+ 18·0 8·1
+ 7·7 0·0
+Before
+Interferon pg/mL
+After
+ 0·0 492·8
+ 0·0 2·3
+ 0·0 153·0
+ 0·0 450·0
+ 3·6 1·8
+ 3·6 16·2
+ 3·6 10·8
+ 10·8 0·0
+ 0·0 8·1
+ 18·0 498·2
+Before
+Interferon pg/mL
+After
+After
+440
+450
+460
+470
+480
+490
+500
+INF-γ production in WBA (phytohaemagglutinin)
+Interferon γ (pg/mL)
+Before After
+0
+10
+20
+30
+40
+50
+60
+Medium
+Before
+0
+5
+10
+15
+20
+Rv2940c
+Interferon γ (pg/mL)
+MSC infusion
+Before After
+0
+100
+200
+300
+400
+500
+Rv1886
+MSC infusion
+Figure 3: Interferon-γ responses in response to Ag85B (Rv1886) after MSC infusion
+Whole blood was cultured with a positive control (phytohaemagglutinin) or with medium (negative control) and interferon γ was tested in cell-culture supernatants 
+from PBMCs. No diﬀ  erences concerning spontaneous interferon-γ production and interferon-γ production in response to maximal stimulation. Note the increased 
+interferon-γ response to Ag 85B (Rv1886) and decreased interferon-γ production in response to Ag Rv2940c after MSC infusion. A comparison of cellular immune 
+responses before and 6 months after MSC infusion was done and background (medium) values were subtracted from Mycobacterium tuberculosis antigen-speciﬁ c 
+immune responses. The mean values (responses to antigenic stimulation; ie, after medium substraction) are included for the ten patients before and after MSC 
+treatment. In total, 12 diﬀ erent M tuberculosis targets were tested for immune recognition before and after MSC infusion (appendix). Only Rv1886 and Rv2940 
+elicited signiﬁ cant diﬀ erences in interferon-γ production before or after MSC infusion in PBMCs from patients with tuberculosis. MSC=mesenchymal stromal cell. 
+PBMC=peripheral-blood mononuclear cell.
+Downloaded for Anonymous User (n/a) at The Regents of the University of Michigan from ClinicalKey.com by Elsevier on December 06, 2017.
+For personal use only. No other uses without permission. Copyright ©2017. Elsevier Inc. All rights reserved.
+Articles
+118 www.thelancet.com/respiratory   Vol 2   February 2014
+T cells from patients with chronic inﬂ  ammatory 
+diseases—eg, in individuals with Epstein–Barr virus-
+positive post-transplant lymphoproliferative disease, 63 in 
+patients with cancer,40 as well as in patients with chronic 
+viral infections. 64 Reduction of a pro inﬂ  ammatory 
+milieu, via MSC infusion, might therefore help to 
+regain immune eﬀ  ector functions shown by restoration 
+of STAT5 phosphorylation and subsequent cytokine 
+production.
+We examined immunological endpoints as the secondary 
+study objectives. CRP decreased after MSC infusion 
+(ﬁ gure 2) at an early timepoint after MSC infusion, yet this 
+needs to be conﬁ  rmed in subsequent studies with a larger 
+patient cohort. The ESR did not follow CRP; this 
+observation is not unexpected, since CRP represents only a 
+single acute-phase protein, whereas the ESR is aﬀ ected by 
+many haematological and biochemical factors, as well as 
+sex and age.
+65 At this point, no suﬃ   ciently assessed 
+biomarker has been identiﬁ  ed (easily accessible in 
+peripheral blood) to gauge protective immune responses 
+in tuberculosis.
+66 We therefore addressed cellular immune 
+responses that had been reported to be clinically and 
+biologically meaningful—ie, M tuberculosis-reactive T-cell 
+memory responses (deﬁ ned by interferon-γ production in 
+the WBA measuring memory T-cell responses),
+67 T-cell 
+diﬀ erentiation and maturation markers, 37,68 intracellular 
+cytokine production in response to M tuberculosis antigens 
+(dominant TNFα, yet not interleukin 2 or interferon-γ 
+production),
+69 as well as defective STAT5 function in 
+memory T-cell responses directed against pathogens. 63,70 
+Recovery was noted of M tuberculosis-speciﬁ c interferon-γ 
+production for the M tuberculosis antigen 85B (Rv1886), a 
+component of the M tuberculosis cell wall, which serves 
+also as a novel M tuberculosis vaccine candidate.
+71,72 By 
+contrast, immune responses directed against mycocerosic 
+synthase were decreased (ﬁ  gure 3). Mycocerosic synthase, 
+an M tuberculosis pathogenicity factor catalysing the 
+synthesis of long-chain branched fatty acids (mycocerosic 
+acids), is preferentially identiﬁ  ed in pathogenic, slow 
+growing bacilli.
+73
+The timing of MSC infusion and subsequent immune-
+modulation might also represent an important factor. The 
+immune system of the 30 patients with tuberculosis 
+might have been exposed for an extended period of time 
+to antigenic M tuberculosis stimulation and inﬂ ammatory 
+responses before MSC treatment. Clinical tuberculosis 
+ Figure 4: STAT5-phosphorylation assay
+Mean CD4+ T-cell and CD8+ T-cell response to interleukin 2 or interleukin 7 stimulation deﬁ  ned by STAT5 phosphorylation. More than 50% of CD4+ and CD8+ T cells 
+respond to stimulation with interleukin 7 or 2 deﬁ  ned by STAT5 phosphorylation in T cells from most healthy individuals, which served as positive controls. STAT5 
+phosphorylation in T cells from patients with tuberculosis before and after MSC infusion. Recovery of STAT5 phosphorylation in T cells from some patients after MSC  
+adjunct treatment could be observed. MSC=mesenchymal stromal cell.
+Healthy controls
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+Proportion of cells responding with 
+STAT5 phosphorylation (%)
+Tuberculosis patients
+0
+0·3
+0·6
+0·9
+1·2
+1·5
+CD4
+Constitutive Interleukin 7 Interleukin 2
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+Proportion of cells responding with 
+STAT5 phosphorylation (%)
+AfterBefore AfterBefore AfterBefore
+0
+0·1
+0·2
+0·3
+0·5
+0·4
+0·6
+MSC infusion
+CD8
+Constitutive
+Interleukin 7 stimulation
+Interleukin 2 stimulation
+Downloaded for Anonymous User (n/a) at The Regents of the University of Michigan from ClinicalKey.com by Elsevier on December 06, 2017.
+For personal use only. No other uses without permission. Copyright ©2017. Elsevier Inc. All rights reserved.
+Articles
+www.thelancet.com/respiratory   Vol 2   February 2014 119
+represents a broad disease spectrum, associated either 
+with previously latent tuberculosis (which might have 
+been clinically silent for many years), a new infection with 
+M tuberculosis or a reinfection in individuals who had 
+previously experienced an infection with M tuberculosis.
+74 
+Two clinical examples show the importance of the right 
+timing of biological therapy and immune-modulation: 
+interferon-γ treatment of patients with sepsis syndrome is 
+deleterious; it might worsen the so-called cytokine storm. 
+However, patients with sepsis show increased survival, if 
+interferon g is applied in a speciﬁ  c window of immune 
+paralysis during the clinical course of sepsis.
+75 
+Furthermore, immune-suppressive treatment of life-
+threatening inﬂ  uenza has been reported to be life-saving 
+in cases of severe inﬂ uenza.
+76 A similar situation might be 
+true for MSC treatment—ie, MSC-induced focused 
+immune-suppression might be beneﬁ  cial in patients with 
+infection with tuberculosis experiencing aberrant high 
+Th1-type immune responses associated with pulmonary 
+tissue destruction and immune paralysis, which is, in 
+part, shown by down-regulation of the T-cell receptor ζ 
+chain in patients with tuberculosis,
+77 which has also been 
+noted in the present study (appendix).
+Not only timing of MSC adjunct treatment, but also 
+coinfections might modulate treatment outcomes. Note 
+that we excluded individuals who were positive for HIV, 
+as well as those positive for hepatitis B and C, for safety 
+considerations in the phase 1 trial. M tuberculosis–HIV 
+coinfection represents a diﬀ  erent immunological 
+scenario
+78 and might lead to a diﬀ  erent response pattern 
+to MSC treatments.
+Future studies are needed to deﬁ  ne robust and clinically 
+relevant surrogate markers to identify patients who 
+would beneﬁ  t from MSC therapy, or to gauge clinical 
+response to MSC-based therapies in patients with 
+infectious diseases. It would be desirable that these 
+markers are measured easily in peripheral blood. 
+However, it could very well be that local factors, elaborated 
+by MSCs in pulmonary tissue, might not be easily 
+traceable in clinical studies. The motivation to oﬀ er MSC 
+treatment to patients with tuberculosis was the hope that 
+MSC infusion might lead to enrichment of MSCs in 
+destructive lung tissue curbing unproductive inﬂ  am-
+mation associated with M tuberculosis infection in line 
+with more recent observations that MSCs guard against 
+excessive inﬂ  ammation and tissue destruction.
+79 We have 
+not been able to obtain transbronchial biopsies to study 
+the in-situ situation after MSC infusion. Future studies 
+might address the local in-situ milieu by examining the 
+interaction of MSCs with resident cells.
+Although several studies showed that the clinical eﬃ  cacy 
+of MSCs is not only related to successful expansion and 
+engraftment, clinically relevant factors might rather be 
+local interactions (eg, stimulation of Toll-like receptors 
+might polarise MSCs to immune-suppression or immune-
+stimulation
+80 in situ). The study of MSC-cellular 
+interactions in pulmonary tuberculosis lesions will also 
+allow the investigation of whether MSCs modulate 
+anti-M tuberculosis directed immune responses, or whether 
+MSCs also have a role in pulmonary reconstruction—
+MSCs exhibited therapeutic potential in preclinical models 
+of acute lung injury,
+81 as well as endotoxin-induced 82 or 
+bleomycin-induced lung injury,83 associated with decreased 
+expression of transforming growth factor β1 (responsible 
+for pulmonary ﬁ brosis
+84). During the recruitment phase of 
+the present study, other reports underlined the beneﬁ cial 
+eﬀ ects of MSCs in preclinical infection settings. 
+Stimulation of human MSCs with inﬂ ammatory cytokines 
+induced a broad range of antimicrobial eﬀ ector functions 
+mediated by the tryptophan catabolising enzyme 
+indoleamine 2,3-dioxygenase.
+85 MSCs act by reduction of 
+oxidative stress, which was shown to be operational in a 
+murine model of acute coxsackievirus B3-induced 
+myocarditis.
+86 Enhanced phagocytosis was, in part, 
+responsible for increased bacterial clearance and improved 
+survival in a murine sepsis model.
+87,88 This underlines the 
+need for detailed immunological and molecular in-situ 
+analysis (using biopsies) upon MSC treatment of patients 
+with tuberculosis to formulate a model of (MSC) action in 
+pulmonary tuberculosis.
+To conclude, adjunct autologous MSC therapy seems 
+to be safe for patients with MDR or XDR tuberculosis. 
+These data are preliminary and a long-term follow-up 
+of patients might be warranted to reveal any negative 
+eﬀ ects of MSC infusion in patients with tuberculosis. 
+Panel: Research in context
+Systematic review
+We searched PubMed and ProMed 
+websites both on July 15, 2008, and on July 15, 2013, 
+for all relevant English language scientiﬁ c literature with the terms “adjunct therapy”, 
+“immunotherapy”, “stem cells”, “stromal cells”, “drug resistant tuberculosis”, and 
+“MDR/XDR-tuberculosis”. This included all publications on safety and immune responses 
+to autologous, bone-marrow-derived stromal or stem-cell infusions. Data on poor 
+outcomes of MDR or XDR tuberculosis treatment from eastern Europe and Belarus, and 
+WHO TB Department annual reports and PubMed publications, were also reviewed. There 
+is scant information on adjunct immunotherapies for the treatment of MDR or XDR 
+tuberculosis. Reports in 2008 supported the notion that anti-inﬂ ammatory treatment 
+(with corticosteroids) might be helpful in the treatment of tuberculosis; the literature 
+search in 2013 consolidated the notion that anti-inﬂ ammatory treatment might improve 
+tuberculosis treatment outcomes. The literature search in 2013 also consolidated the 
+notion that mesenchymal stromal cells (MSCs) might have organ-protective eﬀ ects in 
+preclinical infectious disease models and MSCs might also show antibacterial properties.
+Interpretation
+Our ﬁ  ndings show that adjunct therapy with autologous bone-marrow-derived MSC 
+transfusion is worth exploring in view of the poor treatment outcomes of MDR and XDR 
+tuberculosis. Adjunct therapy with MSCs was not associated with any serious adverse 
+events or disturbances in haematological and biochemical variables. The data suggest that 
+adjunct cellular therapy is not only safe, it might also help to refocus cellular immune 
+responses facilitating recovery from infection with Mycobacterium tuberculosis along with 
+standard drug therapies. Since MSC adjunct therapy is safe, it needs further assessment in 
+controlled phase 2 trials to ascertain the eﬀ  ects on immune responses and clinical and 
+microbiological outcomes in patients with MDR or XDR tuberculosis.
+Downloaded for Anonymous User (n/a) at The Regents of the University of Michigan from ClinicalKey.com by Elsevier on December 06, 2017.
+For personal use only. No other uses without permission. Copyright ©2017. Elsevier Inc. All rights reserved.
+Articles
+120 www.thelancet.com/respiratory   Vol 2   February 2014
+Repeated cycles with autologous MSCs are possible and 
+can be incorporated into future trials. The harvest of 
+bone marrow can easily be achieved and portable MSC 
+expansion units could be employed for MSC 
+procurement and expansion. The procedures for 
+procuring autologous MSCs are relatively simple, and 
+if successful in phase 2, will provide a viable adjunctive 
+therapy for patients who have suﬀ  ered from 
+longstanding tuberculosis. Future safety trials are also 
+needed at diﬀ erent clinical sites, since the exposure to 
+M tuberculosis, the genetic background of the 
+population, as well as the biology of the circulating 
+strain (from the Belarus cohort) might aﬀ  ect the results 
+in the present report. We also report in this study the 
+outcome of individuals who did not receive MSC 
+treatment to gauge the natural course of the disease 
+and to learn how haematological and biochemical 
+variables develop over time after initiation of drug 
+therapy. This cohort cannot be used to compare results 
+since the choice to refuse MSC adjunct therapy might 
+relate to a milder clinical presentation of tuberculosis at 
+the time of study entry. After addressing safety at 
+diﬀ erent clinical sites, a phase 2 clinical trial is 
+warranted, with larger patient numbers and a 
+randomised control arm to assess the beneﬁ  cial eﬀ ects 
+of adjunct autologous MSC transfusion therapy on 
+quality and quantity of anti-M tuberculosis immune 
+responses, lung-tissue regeneration, M tuberculosis  
+clearance rates, and mortality rates in patients with 
+diﬃ   cult-to-treat MDR or XDR tuberculosis.
+Contributors
+MJM was lead principal investigator and obtained funding for the study. 
+ASkrahin, RKA, GF, LR, AZ, and MJM designed the study, interpreted 
+the data, and wrote the report. ASkrahina treated the patients, RKA did 
+the ex-vivo immunological analysis, LR did the gene-expression analysis, 
+TP did the statistical analysis, and YI was responsible for MSC 
+procurement. ASkrahin, AZ, and MJM ﬁ  nalised the report. ASkrahin, 
+GF, and MJM had full access to all data in the study and take 
+responsibility for the integrity of the data and accuracy of the 
+data analysis.
+Conﬂ icts of interest
+We declare tha  t we have no c onﬂ  icts of interest.
+Acknowledgments
+We thank Davide Valentini, CAST, Stockholm, for advice concerni ng 
+statistical analysis.
+References
+1 WHO. WHO global tuberculosis control report 2010. Summary. 
+Cent Eur J Public Health 2010; 18: 237 .
+2 CDC. Emergence of  Mycobacterium tuberculosis with extensive 
+resistance to second-line drugs—worldwide, 2000–2004 . 
+MMWR Morb Mortal Wkly Rep 2006; 55: 301–05.
+3 CDC. Trends in tuberculosis—United States, 2005. 
+MMWR Morb Mortal Wkly Rep 2006; 55: 305–08.
+4 Gandhi NR, Moll A, Sturm A W, et al. Extensively drug-resistant 
+tu berculosis as a cause of death in patients co-infected with 
+tuberculosis and HIV in a rural area of South Africa. Lancet 2006; 
+368: 1575–80.
+5 Gandhi NR, Nunn P, Dheda K, et  al. Multidrug-resistant and 
+extensively drug-resistant tuberculosis: a threat to global control of 
+tuberculosis. Lancet 2010; 375: 1830–43.
+6 Gao XF, Yang ZW, Li J. Adj unctive therapy with interferon-gamma 
+for the treatment of pulmonary tuberculosis: a systematic review. 
+Int J Infect Dis 2011; 15: e594–600.
+7 Yamada G, Shijubo N, Shigehara K, Okamura H, Kurimoto M,  
+Abe S. Increased levels of circulating interleukin-18 in patients with 
+advanced tuberculosis. Am J Respir Crit Care Med 2000; 161: 17 86–89.
+8 Barnes PF. Immunotherapy for tuberculosis: wave of the future or 
+tilting at windmills? Am J Respir Crit Care Med 2003; 168: 142–43.
+9 Muthuswamy P, Hu TC, Carasso B, Antonio M, Dandamudi N. 
+Prednisone a s adjunctive therapy in the management of pulmonary 
+tuberculosis. Report of 12 cases and review of the literature. Chest 
+1995; 107: 1621–30.
+10 Mayanja-Kizza H, Jones-Lopez E, Okwera A, et  al. Immunoadjuvant 
+prednisolone therapy for HIV-associated tuberculosis: a phase 2 
+clinical trial in Uganda. J Infec t Dis 2005; 191: 856–65.
+11 Spellberg B, Bartlett JG, Gilbert DN. The future of antibiotics and 
+resistance. N Engl J Med 2013; 368: 299–302.
+12 Aulett a JJ, Deans RJ, Bartholomew AM. Emerging roles for 
+multipotent, bone marrow-derived stromal cells in host defense. 
+Blood 2012; 119: 1801–09.
+13 Friedenstein AJ, Chailakhjan RK, Lalykina KS.  The development of 
+ﬁ  broblast colonies in monolayer cultures of guinea-pig bone 
+marrow and spleen cells. Cell Tissue Kinet 1970; 3: 393–403. 
+14 Hogan BL, Yingling JM. Epithelial/mesenchymal interactions and 
+branching morphogenesis of the lung. Curr Opin Genet Dev 1998; 
+8: 481–86.
+15 Sabatini F, Petecchia L, Tavian M, Jodon de Villeroche V, Rossi GA, 
+Brouty-Boye D. Human b ronchial ﬁ  broblasts exhibit a 
+mesenchymal stem cell phenotype and multilineage diﬀ erentiating 
+potentialities. 
+Lab Invest 2005; 85: 962–71.
+16 Mendez-Fe rrer S, Michurina TV, Ferraro F, et al. Mesenchymal and 
+haematopoietic stem cells form a unique bone marrow niche. 
+Nature 2010; 466: 829–34.
+17 Tropea KA, Leder E, Aslam M, et al. Bronchioalveolar stem cells 
+increase aft er mesenchymal stromal cell treatment in a mouse 
+model of bronchopulmonary dysplasia. 
+Am J Physiol Lung Cell Mol Physiol 2012; 302: L829–37 .
+18 Islam MN, Das SR, Emin MT, et al. Mito chondrial transfer from 
+bone-marrow-derived stromal cells to pulmonary alveoli protects 
+against acute lung injury. Nat Med 2012; 18: 759–65.
+19 Spees JL, Olson  SD, Whitney MJ, Prockop DJ. Mitochondrial 
+transfer between cells can rescue aerobic respiration. 
+Proc Natl Ac ad Sci USA 2006; 103: 1283–88.
+20 Sinclair K, Yerkovich ST, Chambers DC. Mesenchymal stem cells 
+and the lung. Respirology 2013; 18: 397–411.
+21 Forslow U, Blennow O, Leblanc K, et al. Treatment with 
+mesenchymal stromal ce lls is a risk factor for pneumonia-related 
+death after allogeneic hematopoietic stem cell transplantation. 
+Eur J Haematol 2012; 89: 220–27 .
+22 Connick P, Kolappan M, Crawley C, et al. Autologous mesenchymal 
+stem cells fo r the treatment of secondary progressive multiple 
+sclerosis: an open-label phase 2a proof-of-concept study. 
+Lancet Neurol 2012; 11: 150–56.
+23 Frenette PS, Pinho S, Lucas D, Scheiermann C. Mesenchymal 
+ stem cell: keystone of the hematopoietic stem cell niche and a 
+stepping-stone for regenerative medicine. Annu Rev Immunol 2013; 
+31: 2 85–316.
+24 Bang OY , Lee JS, Lee PH, Lee G. Autologous mesenchymal stem 
+cell transplantation in stroke patients. Ann Neurol 2005; 57: 874–82.
+25 Hare JM, Fishman JE, Gerstenblith G, et al. Comparison of 
+allogeneic vs autologous bone marrow-derived mesenchymal stem 
+cel ls delivered by transendocardial injection in patients with 
+ischemic cardiomyopathy: the POSEIDON randomized trial. 
+JAMA 2012; 308: 2369–79.
+26 Skrahina A, Hurevich H, Za lutskaya A, et al. Alarming levels of 
+drug-resistant tuberculosis in Belarus: results of a survey in Minsk. 
+Eur Respir J 2012; 39: 1425–31.
+ 27 Mitnick CD, Shin SS, Seung KJ, et al. Comprehensive treatment 
+of extensively drug-resistant tuberculosis. N Engl J Med 2008; 
+359: 563–74.
+28 M ukherjee JS, Rich ML, Socci AR, et al. Programmes and principles 
+in treatment of multidrug-resistant tuberculosis. Lancet 2004; 
+363: 474–81.
+29 WHO. Guidelines for the programmatic management of 
+drug-resistant tuberculosis: emergency update 2008 (WHO/HTM/
+TB/2008.402). http://whqlibdoc.who.int/publications/2008/
+9 789241547581_eng.pdf (accessed Nov 14, 2013).
+Downloaded for Anonymous User (n/a) at The Regents of the University of Michigan from ClinicalKey.com by Elsevier on December 06, 2017.
+For personal use only. No other uses without permission. Copyright ©2017. Elsevier Inc. All rights reserved.
+Articles
+www.thelancet.com/respiratory   Vol 2   February 2014 121
+30 Kruuner A, Yates MD, Drobniewski FA. Evaluation of MGIT 
+960-based antimicrobial testing and determination of critical 
+concentrations of ﬁ  rst - and second-line antimicrobial drugs with 
+drug-resistant clinical strains of Mycobacterium tuberculosis. 
+J Clin Microbiol 2006; 44: 811–18.
+31 Rusch-Gerdes S, Pfyﬀ  er GE, Casal M, Chadwick M, Siddiqi S. 
+Multicenter laboratory validation of the BACTEC MGIT 960 
+technique for testin g susceptibilities of Mycobacterium tuberculosis 
+to classical second-line drugs and newer antimicrobials. 
+J Clin Microbiol 2006; 44: 688–92.
+32 Ralph AP, Ardian M, Wiguna A, et al . A simple, valid, numerical 
+score for grading chest x-ray severity in adult smear-positive 
+pulmonary tuberculosis. Thorax 2010; 65: 863–69.
+33 Dominici M, Le Blanc K, Mueller I, et al. Minimal criteria for 
+deﬁ   ning multipotent mesenchymal stromal cells. The International 
+Society for Cellular Therapy position statement. Cytotherapy 2006; 
+8: 315–17 .
+34 Horwitz EM, Gordon PL, Koo WK, et al. Isolated allogeneic bone 
+marrow-derived mesenchymal cells engraft and  stimulate growth in 
+children with osteogenesis imperfecta: implications for cell therapy 
+of bone. Proc Natl Acad Sci USA 2002; 99: 8932–37 .
+35 Lalu MM, McIntyre L, Pugliese C, et al. Safety of  cell therapy with 
+mesenchymal stromal cells (SafeCell): a systematic review and 
+meta-analysis of clinical trials. PLoS One 2012; 7: e47559.
+36 Lin Y , Hogan WJ.  Clinical application of mesenchymal stem cells in 
+the treatment and prevention of graft-versus-host disease. 
+Adv Hematol 2011; 2011: 427863.
+37 Magalhaes I, Vudattu N K, Ahmed RK, et al. High content cellular 
+immune proﬁ  ling reveals diﬀ  erences between rhesus monkeys and 
+men. Immunology 2010; 131: 128–40.
+38 Magalhaes I, Sizemore DR, Ahmed RK, et al. rBCG induces 
+strong antigen-speci ﬁ  c T cell responses in rhesus macaques in a 
+prime-boost setting with an adenovirus 35 tuberculosis vaccine 
+vector. PLoS One 2008; 3: e37 90.
+39 Lanzavecchia A, Sallusto F. Dynamics of T lymphocyte responses: 
+intermediates, eﬀ  ectors, and memory cells. Science 2000; 
+290: 92–97 .
+40 Vudattu NK, Magalhaes I, Schmidt M, Seyfert-Margolis V, 
+Maeurer MJ. Reduced numbers of IL-7 receptor (CD12 7) expressing 
+immune cells and IL-7-signaling defects in peripheral blood from 
+patients with breast cancer. Int J Cancer 2007; 121: 1512–19.
+41 Svahn A, Linde A, Thorstensson R, Karlen K, Andersson L, 
+Gaines H. Development and evaluation of a ﬂ ow-cytometric assay 
+of speciﬁ  c cell-mediated immune respo nse in activated whole blood 
+for the detection of cell-mediated immunity against varicella-zoster 
+virus. J Immunol Methods 2003; 277: 17–25.
+42 Borgstrom E, Andersen P, Atterfelt F, et al. Immune responses to 
+ESAT-6 and  CFP-10 by FASCIA and multiplex technology for 
+diagnosis of M tuberculosis infection; IP-10 is a promising marker. 
+PLoS One 2012; 7: e43438.
+43 Borgstrom E, Andersen P, Andersson L, et al. Detection of 
+proliferati 
+ve responses to ESAT-6 and CFP-10 by FASCIA assay for 
+diagnosis of Mycobacterium tuberculosis infection. 
+J Immunol Methods 2011; 370: 55–64.
+44 Ahmed RK, Rohava Z, Balaji KN, et al. Pattern reco gnition and 
+cellular immune responses to novel Mycobacterium tuberculosis-
+antigens in individuals from Belarus. BMC Infect Dis 2012; 12: 41.
+45 Alvarez-Corrales N, Ahmed RK, Rodriguez CA, et al. Diﬀ  erential 
+cellular recognition pattern to M tuberculosis targets deﬁ ned by 
+IFN-γ and IL-17 production in blood from TB +  patients from 
+Honduras as compared to health care workers: TB and immune 
+responses in patients from Honduras. BMC Infect Dis 2013; 13: 125.
+46 Lagrelius M, Jones P, Franck K, Gaines H. Cytokine detection by 
+multiplex technolo gy useful for assessing antigen speciﬁ c cytokine 
+proﬁ  les and kinetics in whole blood cultured up to seven days. 
+Cytokine 2006; 33: 156–65.
+47 Sutherland JS, Lalor MK, Black GF, et al. Analysis of host responses 
+to Mycobacterium tubercu losis antigens in a multi-site study of 
+subjects with diﬀ  erent TB and HIV infection states in sub-Saharan 
+Africa. PLoS One 2013; 8: e74080.
+48 Bernhard H, Maeurer MJ, Jager E, et al. Recognition of human 
+renal cell carcinoma and melanoma by HLA-A2-r estricted cytotoxic 
+T lymphocytes is mediated by shared peptide epitopes and 
+up-regulated by interferon-γ. Scand J Immunol 1996; 44: 285–92.
+49 Castelli C, Storkus WJ, Maeurer MJ, et al. Mass spe ctrometric 
+identiﬁ  cation of a naturally processed melanoma peptide 
+recognized by CD8+ cytotoxic T lymphocytes. J Exp Med 1995; 
+181: 363–68.
+50 Rabinowich H, Banks M, Reichert TE, Logan TF, Kirkwood JM, 
+Whiteside TL. Expression and activity of signaling molecule s in 
+T lymphocytes obtained from patients with metastatic melanoma 
+before and after interleukin 2 therapy. Clin Cancer Res 1996; 
+2: 1263–74.
+51 Siegel G, Kluba T, Hermanutz-Klein U, Bieback K, Northoﬀ    H, 
+Schafer R. Phenotype, donor age and gender aﬀ  ect function of 
+human bone marrow-derived mesenchymal stromal cells. 
+BMC Med 2013; 11: 146.
+52 Johnson BJ, Bekker LG, Rickman R, et al. rhuIL-2 a djunctive 
+therapy in multidrug resistant tuberculosis: a comparison of two 
+treatment regimens and placebo. Tuber Lung Dis 1997; 78: 195–203.
+53 Grahmann PR,  Braun RK. A new protocol for multiple inhalation of 
+IFN-γ successfully treats MDR-TB: a case study. 
+Int J Tuberc Lung Dis 2008; 12: 636–44.
+54 Muller I, Kordowich S, Holzwarth C, et al. Animal se rum-free culture 
+conditions for isolation and expansion of multipotent mesenchymal 
+stromal cells from human BM. Cytotherapy 2006; 8: 437–44.
+55 Shahdadfar A, F
+ronsdal K, Haug T, Reinholt FP, Brinchmann JE. In 
+vitro expansion of human mesenchymal stem cells: choice o f serum 
+is a determinant of cell proliferation, diﬀ  erentiation, gene expression, 
+and transcriptome stability. Stem Cells 2005; 23: 1357–66.
+56 Spees JL, Gregory CA, Singh H, et al.  Internalized antigens must be 
+removed to prepare hypoimmunogenic mesenchymal stem cells for 
+cell and gene therapy. Mol Ther 2004; 9: 747–56.
+57 Jung S, Sen A, Rosenberg L, Behie LA. Identiﬁ  cation o f growth and 
+attachment factors for the serum-free isolation and expansion of 
+human mesenchymal stromal cells. Cytotherapy 2010; 12: 637–57 .
+58 Bernardo ME, Avanzini MA, Perotti C, et al. Optimization of in 
+vitro expansion of human multipotent mesenchymal st romal cells 
+for cell-therapy approaches: further insights in the search for a fetal 
+calf serum substitute. J Cell Physiol 2007; 211: 121–30.
+59 Horwitz EM, Prockop DJ, Fitzpatrick LA, et al. Transplan tability and 
+therapeutic eﬀ  ects of bone marrow-derived mesenchymal cells in 
+children with osteogenesis imperfecta. Nat Med 1999; 5: 309–13.
+60 Avanzini MA, Bernardo ME, Cometa AM, et al. Generation of 
+mesenchymal stromal cells in the presence of platelet l ysate: a 
+phenotypic and functional comparison of umbilical cord blood- and 
+bone marrow-derived progenitors. Haematologica 2009; 94: 1649–60.
+61 Schallmoser K, Bartmann C, Rohde E, et al. Human platele t lysate 
+can replace fetal bovine serum for clinical-scale expansion of 
+functional mesenchymal stromal cells. Transfusion 2007; 
+47: 1436–46.
+62 Grundstrom S, Dohlsten M, Sundstedt A. IL-2 unresponsiven ess in 
+anergic CD4+ T cells is due to defective signaling through the 
+common gamma-chain of the IL-2 receptor. J Immunol 2000; 
+164: 1175–84.
+63 Omar  H, Ahmed R, Rane L, et al. Decreased IL-7 signaling in 
+T cells from patients with PTLD after allogeneic HSCT. 
+J Immunother 2011; 34: 390–96.
+64 Bazdar DA, Kalinowska M, Sieg SF. Interleukin-7 recept or 
+signaling is deﬁ cient in CD4+ T cells from HIV-infected persons 
+and is inversely associated with aging. J Infect Di s 2009; 
+199: 1019–28.
+65 Osei-Bimpong A, Meek JH, Lewis SM. ESR or CRP? A comparison 
+of their clinical utility. Hematology 2007; 12 : 353–57 .
+66 Walzl G, Ronacher K, Hanekom W, Scriba TJ, Zumla A. 
+Immunological biomarkers of tuberculosis. Nat Rev Immunol 2011; 
+11: 343–54.
+67 Hanekom WA, Doc krell HM, Ottenhoﬀ   TH, et al. Immunological 
+outcomes of new tuberculosis vaccine trials: WHO panel 
+recommendations. PLoS Med 2008; 5: e145.
+68 Matthews K, Ntsekhe M, Syed F, et al . HIV-1 infection alters CD4+ 
+memory T-cell phenotype at the site of disease in extrapulmonary 
+tuberculosis. Eur J Immunol 2012; 42: 147–57 .
+69 Harari A, Rozot V, Enders FB, et al. Dominant TNF-alpha+ 
+M ycobacterium tuberculosis-speciﬁ c CD4+ T cell responses 
+discriminate between latent infection and active disease. Nat Med
+ 
+2011; 17: 372–76.
+Downloaded for Anonymous User (n/a) at The Regents of the University of Michigan from ClinicalKey.com by Elsevier on December 06, 2017.
+For personal use only. No other uses without permission. Copyright ©2017. Elsevier Inc. All rights reserved.
+Articles
+122 www.thelancet.com/respiratory   Vol 2   February 2014
+70  Tripathi P, Kurtulus S, Wojciechowski S, et al. STAT5 is critical to 
+m aintain eﬀ ector CD8+ T cell responses. J Immunol 2010; 
+185: 2116–24.
+71 Upadhyay P. Tuberculosis vaccine trials. Lancet 2013; 381: 2253–54.
+72 Axelsson-Robertson R, Magalhaes I, Parida SK, Zumla A,  
+Maeurer M. The immunological footprint of Mycobacterium 
+tuberculosis T-cell epitope recognition. J Infect Dis 2012; 
+205 (suppl 2) : S301–15.
+73 Smith I. Mycobacterium tuberculosis pathogenesis and molecular 
+determinants of virulenc e. Clin Microbiol Rev 2003; 16: 463–96.
+74 Lin PL, Flynn JL. Understanding latent tuberculosis: a moving 
+target. J Immunol 2010; 185: 15–2 2.
+75 Docke WD, Randow F, Syrbe U, et al. Monocyte deactivation in 
+septic patients: restoration by IFN-γ treatment. Nat Med 1997; 
+3: 678–81.
+76  Henter JI, Palmkvist-Kaijser K, Holzgraefe B, Bryceson YT, 
+Palmer K. Cytotoxic therapy for severe swine ﬂ u A/H1N1. Lancet 
+2010; 376: 2116.
+77 Seitzer U, Kayser K, Hohn H, et al. Re duced T-cell receptor 
+CD3ε-chain protein and sustained CD3ε expression at the site of 
+mycobacterial infection. Immunology 2001; 10 4: 269–77 .
+78 Pawlowski A, Jansson M, Skold M, Rottenberg ME, Kallenius G. 
+Tuberculosis and HIV co-infection. PLoS Pathog  2012; 8: e1002464.
+79 Prockop DJ, Oh JY . Mesenchymal stem/stromal cells (MSCs): role 
+as guardians of inﬂ ammation. Mol Ther 2012; 20: 14–20.
+80 Waterman RS, Tomchuck SL, Henkle SL, Betancourt AM. A new 
+mesen chymal stem cell (MSC) paradigm: polarization into a 
+pro-inﬂ  ammatory MSC1 or an Immunosuppressive MSC2 
+phenotype. PLoS One 2010; 5: e10088.
+81 Mat thay MA, Thompson BT, Read EJ, et al. Therapeutic potential of 
+mesenchymal stem cells for severe acute lung injury. Chest 2010; 
+138: 965–72.
+82 Gupta N, Su X, Popov B, Lee JW, Serikov V, Matthay MA. 
+Intrapulmonary delivery of bone marro w-derived mesenchymal 
+stem cells improves survival and attenuates endotoxin-induced 
+acute lung injury in mice. J Immunol 2007; 179: 1855–63.
+83 Zhao F, Zhang YF, Liu YG, et al. Therapeutic eﬀ   ects of bone 
+marrow-derived mesenchymal stem cells engraftment on bleomycin-
+induced lung injury in rats. Transplant Proc 2008; 40: 1700–05.
+84 Ortiz LA, Gambelli F, McBride C, et al. Mesenchymal stem cell 
+engraf 
+tment in lung is enhanced in response to bleomycin exposure 
+and ameliorates its ﬁ brotic eﬀ ects. Proc Natl Acad Sci USA 2003; 
+100: 8407–11.
+85 Meisel R, Brockers S, Heseler K, et al. Human but not murine 
+multipotent mesenchy mal stromal cells exhibit broad-spectrum 
+antimicrobial eﬀ  ector function mediated by indoleamine 
+2,3-dioxygenase. Leukemia 2011; 25: 648–54.
+86 Van Linthout S, Sa vvatis K, Miteva K, et al. Mesenchymal stem cells 
+improve murine acute coxsackievirus B3-induced myocarditis. 
+Eur Heart J 2011; 32: 2168–78.
+87 Mei SH, Haitsma JJ, Dos Santos CC, et al. Mesenchymal stem c ells 
+reduce inﬂ ammation while enhancing bacterial clearance and 
+improving survival in sepsis. Am J Respir Crit Care Med 2010; 
+182: 1047–57 .
+88 Krasnodembskaya A, Song Y , Fang X, et al. Antibacterial eﬀ ect of 
+human mesenchymal stem cells is mediated in part from secretion 
+of the antimicrobial peptide LL-37 . Stem Cells 2010; 28: 2229–38.
+Downloaded for Anonymous User (n/a) at The Regents of the University of Michigan from ClinicalKey.com by Elsevier on December 06, 2017.
+For personal use only. No other uses without permission. Copyright ©2017. Elsevier Inc. All rights reserved.

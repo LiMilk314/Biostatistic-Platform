@@ -1,0 +1,80 @@
+Biostat 619 – HW3 
+1. Read the articles by (Gaudinski et al., 2017), (Kantarjian et al., 2017), (Muler et al., 2004), (Glass et 
+al., 2012), and (Skrahin et al., 2014), all of which are posted on Canvas. I'm giving you these 
+examples of actual phase 1 trials to help you understand that the phase 1 concept is diverse and 
+heterogenous. For each article, tell me the following: 
+a. Primary objective 
+b. Eligibility criteria 
+c. Study design, including dose assignments 
+d. Sample size 
+e. Primary endpoint 
+Please answer in a tabular format (one row for each trial, one column for each question: 5x5 table). 
+Please do not copy/paste from the articles- distill the information so that you answer with phrases 
+or max 1-2 sentences. 
+2. This question will walk you through the steps for constructing a simulator of the 'biased coin 
+design' mentioned at the end of Lecture 12. Use HW2_template.R and modify the code based on 
+the steps below. You do not need to turn in your code. Please answer the questions below in word 
+or a pdf (must be pdf or image to upload to Gradescope). For any coding questions, please go to 
+office hours or check code once answers are posted. 
+ 
+Create a vector true_probs that has 3 values: 0.05, 0.25, 0.50. These are the true unknown probabilities 
+of DLT for 3 doses that we are trying to learn about in the trial. 
+Let's do nsim = 100 simulations of trials with npat = 20 patients. Make an nsim-by-npat matrix called 
+dose_assignment with the following code: dose_assignment = matrix(NA, nrow = nsim, ncol = npat).  
+a)   What part of the matrix are you accessing when you type dose_assignment[,1]? 
+Put a 1 in the first column of dose_assignment. This means that the first patient in each simulation starts 
+at dose 1.  
+b)  How would you interpret the results of typing true_probs[dose_assignment[,1]]? 
+Create a second matrix with the same dimensions called dlt, which will store the outcomes. There are 
+bad and not-so-bad ways to use for loops in R. It's important to take advantage of vectorization in R. For 
+example, for(i in 1:nsim) {dlt[i,1] = rbinom(1,1,true_probs[dose_assignment[i,1]]);} is a much slower and 
+less efficient way to simulation DLTs for the first patient in each trial than dlt[,1] = 
+rbinom(nsim,1,true_probs[dose_assignment[,1]]). You might not notice a difference in time with 100, 
+but you would with one million. Create the matrix dlt and simulate the first patients' DLTs. 
+The biased coin design decision for a patient is based on the previous patient's DLT. If there is DLT, de-
+escalate. Otherwise, flip a coin with probability q_esc=0.5 -- if it is heads then escalate otherwise stay at 
+the current dose. Create a vector decision, based upon the outcomes in dlt[,1], which is a vector -1, 0, or 
+1, corresponding to de-escalate, stay, or escalate.  
+Biostat 619 – HW3 
+c) What should the true, unknown distribution of -1, 0, and 1 be in this vector, i.e. what is the 
+marginal probability of each as a function of the true DLT probability for patient 1 and q_esc. 
+Please show the equation and the actually value. 
+The vector decision + dose_assignment[,1] is your dose assignment for patient 2. But, because we 
+cannot de-escalate below dose level 1 (and assuming we that we won't stop the trial before npat 
+patients), explain why pmax(1, decision + dose_assignment[,1]) instead should be used for the dose 
+assignment for patient 2.  
+d) What does pmax do? Similarly, although we are not yet at risk of escalating beyond the 
+maximum number of dose levels for the second patient, we may be so later on. How should you 
+also incorporate the pmin function, which is analogous to pmax, to prevent this from happening? 
+Now wrap steps d--f in a for loop over the number of patients, as given in the template file. 
+After you've proceeded through the for loop, you can calculate the proportion of patients (over all 
+simulations) assigned to dose level j using mean(dose_assignment == j). The == gives you a matrix of 
+TRUEs and FALSEs, and the mean function takes the average after converting them to 1s and 0s, 
+respectively. After your for loop, write code to calculate (i) prop_at_each, a vector giving the proportion 
+of patients at each dose level over all simulations and (ii) avg_dlt_rate, a single number giving the overall 
+DLT rate across all dose levels. 
+Put all of your code in the function provided in HW2_template.R to create a simulator. Expand your 
+code so that a user can provide a different starting dose using the variable start (this will simply involve 
+replacing a 1 with the variable start). Copy and paste the entire function into the R console to load the 
+function into R, and now you are ready to simulate, e.g. sim_biasedcoin(true_probs = c(0.1, 0.2, 0.3, 
+0.4)).  
+e) Report results from 1000 iterations for q_esc = 0.25. Use true_probs = c(0.1, 0.2, 0.3, 0.4), 
+start = 1, npat = 30, nsim = 1000. 
+f) Report results from 1000 iterations for q_esc = 0.50. Use true_probs = c(0.1, 0.2, 0.3, 0.4), 
+start = 1, npat = 30, nsim = 1000. 
+g) Report results from 1000 iterations for q_esc = 1. Use true_probs = c(0.1, 0.2, 0.3, 0.4), start 
+= 1, npat = 30, nsim = 1000. 
+ 
+References 
+Gaudinski, M.R., Houser, K.V., Morabito, K.M., Hu, Z., Yamshchikov, G., Rothwell, R.S., et al. (2017) Safety, tolerability, and immunogenicity of 
+two zika virus dna vaccine candidates in healthy adults: Randomised, open-label, phase 1 clinical trials. The Lancet. 
+Glass, J.D., Boulis, N.M., Johe, K., Rutkove, S.B., Federici, T., Polak, M., et al. (2012) Lumbar intraspinal injection of neural stem cells in patients 
+with amyotrophic lateral sclerosis: Results of a phase i trial in 12 patients. Stem cells, 30, 1144–1151. 
+Kantarjian, H.M., Schuster, M.W., Jain, N., Advani, A., Jabbour, E., Gamelin, E., et al. (2017) A phase 1 study of amg 900, an orally administered 
+pan-aurora kinase inhibitor, in adult patients with acute myeloid leukemia. American Journal of Hematology, 92, 660–667. 
+Muler, J.H., McGinn, C.J., Normolle, D., Lawrence, T., Brown, D., Hejna, G., et al. (2004) Phase i trial using a time-to-event continual 
+reassessment strategy for dose escalation of cisplatin combined with gemcitabine and radiation therapy in pancreatic cancer. Journal of clinical 
+oncology, 22, 238–243. 
+Skrahin, A., Ahmed, R.K., Ferrara, G., Rane, L., Poiret, T., Isaikina, Y., et al. (2014) Autologous mesenchymal stromal cell infusion as adjunct 
+treatment in patients with multidrug and extensively drug-resistant tuberculosis: An open-label phase 1 safety trial. The lancet Respiratory 
+medicine, 2, 108–122. 

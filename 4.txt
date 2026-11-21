@@ -1,0 +1,738 @@
+RESEARCH ARTICLE
+A phase 1 study of AMG 900, an orally administered pan-aurora
+kinase inhibitor, in adult patients with acute myeloid leukemia
+Hagop M. Kantarjian 1 | Michael W. Schuster 2 | Nitin Jain 1 | Anjali Advani 4 |
+Elias Jabbour 1 | Erick Gamelin 3 | Erik Rasmussen 3 | Gloria Juan 3 |
+Abraham Anderson 3 | Vincent F. Chow 3 | Gregory Friberg 3 | Florian D. Vogl 3 |
+Mikkael A. Sekeres 4
+1Department of Leukemia, MD Anderson
+Cancer Center, University of Texas,
+Houston, Texas, USA; 2Medical
+Hematology/Oncology Stony Brook
+University School of Medicine, Stony Brook,
+New York, USA;
+3Research and
+Development, Amgen Inc., Thousand Oaks,
+California, USA; 4Leukemia Program,
+Cleveland Clinic, Cleveland, Ohio, USA
+Correspondence
+Hagop M. Kantarjian, Department of
+Leukemia, MD Anderson Cancer Center,
+University of Texas, 1515 Holcombe Blvd.,
+Unit 428, Houston, TX 77030, USA.
+Email: hkantarjian@mdanderson.org
+Abstract
+Aurora kinases are involved in the pathophysiology of several cancers including acute myeloid leu-
+kemia (AML). In this phase 1 study, we investigated the safety and efficacy of AMG 900, an orally
+administered, highly potent, selective, small-molecule inhibitor of both Aurora kinase A and B, in
+patients with AML . Patients with pathologically documented AML who either declined standard
+treatments or had relapsed from or were refractory to previous therapies were enrolled. Two
+every-2-week dose-escalation schedules using a modified 3 1 3 1 3d e s i g nw e r ee v a l u a t e dA M G
+900 given daily for 4 days with 10 days off (4/10 schedule), and AMG 900 given daily for 7 days
+with 7 days off (7/7 schedule). Thirty-five patients were enrolled at 9 different dose levels: 22
+patients on the 4/10 schedule (doses from 15 to 100 mg daily), and 13 patients on the 7/7 sched-
+ule (doses from 30 to 50 mg daily). Both schedules were tolerated; nausea (31%), diarrhea (29%),
+febrile neutropenia (29%), and fatigue (23%) were the most common treatment-related adverse
+events. Three patients (9%) achieved complete response with incomplete count recovery. Patients
+with higher baseline expression of a set of specific pathway-related genes ( BIRC5, AURKA, TTK,
+CDC2,a n d CCNB1) were more likely to respond in an exploratory biomarker analysis. AMG 900
+was tolerated in a general AML population, and pathway-specific biomarkers identified a potential
+target population. Future research efforts will be directed toward further exploration of bio-
+markers of response and combination of AMG 900 with other anticancer agents.
+1 | INTRODUCTION
+Acute myeloid leukemia (AML) is a biologically heterogeneous cancer
+of older adults, with a median age at diagnosis of 67 years. In 2016, an
+estimated 19 950 new cases of AML will be diagnosed in the United
+States, and 10 430 people are expected to die from the disease. 1
+Although survival rates have steadily improved over the past decades,
+therapeutic approaches have changed little over the same period, with
+survival rates of only 27% five years after diagnosis. Thus, the vast
+majority of AML patients will either relapse or be refractory to initial
+therapy, and will require additional treatment.
+Aurora kinases are a family of hig hly conserved serine/threonine
+protein kinases that regulate key steps in mitosis and meiosis.
+2–6 Aurora
+A, which is present at the spindle poles during interphase, is critical to
+centrosome maturation, as well as spindle assembly and orientation. Inhi-
+bition of Aurora A causes cell cycle arrest in G2. Aurora B localizes to the
+midbody of the central spindle where it is part of the chromosomal pas-
+senger complex, which regulates chromosome condensation and orienta-
+tion as well as cytokinesis. Aurora kinases A and B are amplified and/or
+overexpressed in many malignancies, including various types of leuke-
+mia,
+5,7 and are associated with high proliferation rates, poor prognosis,
+and therapeutic resistance.8–12 Aurora A has been shown to phosphoryl-
+ate p53, impairing its tumor suppressor activity.13 Amplification/overex-
+pression of Aurora A/B and in combination with p53 mutation may
+induce transformation or cause tumors to be more aggressive.
+5 Both
+Aurora A and B were significantly overexpressed in AML blasts relative
+to control CD341 cells, and inhibition of Aurora A with MLN8237 inhib-
+ited proliferation and induced apoptosis of AML blasts. 7 Aurora kinase
+inhibition is therefore a treatment approach of interest for AML.14
+AMG 900 is an investigational, orally administered, highly potent,
+selective, small-molecule pan-aurora kinase inhibitor that inhibits both
+Aurora A and B. 15 Aurora B phosphorylates serine 10 of histone H3, 16
+660 | VC 2017 Wiley Periodicals, Inc. wileyonlinelibrary.com/journal/ajh Am J Hematol. 2017;92:660–667.
+Received: 26 January 2017 | Revised: 20 March 2017 | Accepted: 21 March 2017
+DOI: 10.1002/ajh.24736
+AJHAJH
+and therefore, inhibition of this phosphorylation step serves as a phar-
+macodynamic marker for AMG 900 activity. 15 The molecule has dem-
+onstrated antitumor activity in taxane-resistant ovarian cancer 17 and
+breast cancer18 cell lines, as well as single agent activity in heavily pre-
+treated patients with chemotherapy-resistant/refractory solid
+tumors.19–21 It was hypothesized that an oral agent with this profile
+might provide a broader therapeutic window than other agents in the
+class for both solid and hematologic malignancies, and that biomarkers
+of response linked to the pathway of interest could be identified.
+The primary objectives of this phase 1, open-label, multicenter,
+sequential dose escalation study were to evaluate the safety and toler-
+ability of AMG 900, its pharmacokinetics after multiple oral administra-
+tions, the optimal dose schedule, and to determine the maximum
+tolerated dose (MTD) in patients with AML. The secondary objectives
+were to evaluate the antileukemic activity of AMG 900 and the phar-
+macodynamic effects of drug exposure on phosphorylation of histone
+H3 in leukemic blasts. An exploratory objective was to evaluate base-
+line expression of genes related to the aurora kinase pathway, p53
+downstream pathways, and modulation of the G2M transition phase of
+the cell cycle (aurora kinase A and B [ AURKA, AURKB], p53 [ TP53], sur-
+vivin [ BIRC5], cyclin B1 [ CCNB1], CDC2, TTK,a n dp 2 1[ CDKN1A]) as
+biomarkers of response to AMG 900.
+2 | METHODS
+2.1 | Patients
+Eligible patients were/C2118 years of age with pathologically documented
+AML who either declined standard therapy or had relapsed from or
+were refractory to previous therapies. Patients also had an Eastern
+Cooperative Oncology Group (ECOG) performance status of /C202a n da
+life expectancy > 3 months in the opinion of the investigator. Patients
+were excluded if they had a white blood cell count greater than 20 3
+103/lL; clinically significant bleeding within 2 weeks of screening (e.g.,
+gastrointestinal bleeds, intracranial hemorrhage) or active peptic ulcer
+disease; prior allogeneic stem cell transplantation; or unresolved nonhe-
+matologic toxicities from prior antitumor therapy (with the exception of
+alopecia or toxicities that had been present and stable for > 6m o n t h s ) .
+This study (ClinicalTrials.gov: NCT01380756) was conducted in accord-
+ance with the United States Food and Drug Administration and the
+International Conference on Harmonisation Good Clinical Practice regu-
+lations/guidelines. The independent ethics committee/institutional
+review board at each study center approved the protocol, the proposed
+informed consent form, and other written information provided to
+patients. All patients provided written informed consent.
+2.2 | Study design
+This was a phase 1, multicenter, open-label, sequential dose escalation
+study evaluating AMG 900 in patients with AML. The study was to be
+conducted in two parts: dose escalation followed by dose expansion. In
+the dose escalation phase, AMG 900 was to be administered daily for 4
+days every 2 weeks (4 days on/10 days off or 4/10 schedule) at doses of
+15, 25, 40, 60, 80, 100, 125, and 150 mg, respectively. After a protocol
+amendment, a second dose schedule was then added to the dose escala-
+tion phase: AMG 900 was to be administered daily for 7 days every 2
+w e e k s( 7d a y so n / 7d a y so f fo r7 / 7s c h e d u l e )a td o s e so f3 0 ,4 0 ,5 0 ,6 0 ,
+a n d7 5m g .P a t i e n t sw e r ef o l l o w e df o rap e r i o do f1 4–21 days after the
+last dose of AMG 900; data beyond this point were not collected as part
+of this study. Patients self-administered AMG 900 on an empty stomach
+in the morning (no food or liquids except water 2 hours prior to drug)
+and refrained from food and liquid (except water) for 1 hour postdose.
+2.3 | Rationale for dose selection
+The 4/10 schedule was selected based on preclinical data, 15,18 the
+desire for multiday target coverage per cycle ( > 8 hours per day above
+the concentration at 50% maximum inhibition), available clinical data
+on a safe starting dose, 19,20 and safety considerations. The starting
+dose selected (15 mg daily) was below 16 mg, a dose that did not pro-
+duce dose-limiting toxicities (DLTs) in the first-in-human study. 19 On
+observation of acceptable tolerability but low efficacy with the 4/10
+schedule, the more intensive 7/7 schedule was initiated with the aim
+of providing a more prolonged exposure to the drug. Based on pharma-
+cokinetic modeling and clinical safety data, the cumulative dose per
+month for the 7/7 schedule had to be equivalent or lower than that of
+the 4/10 schedule (Supporting Information Table S1).
+2.4 | Dose escalation
+Dose escalation was conducted using a modified 3 1 3 1 3 design
+(some flexibility in the number of patients enrolled in each dose cohort
+was allowed to avoid study delays associated with the need for patient
+replacement). DLT assessment (criteria listed in Supporting Information
+Table S2) occurred during the first 28 days (i.e., first two cycles) of
+AMG 900 dosing. If no DLT was observed in the initial 3 –4p a t i e n t so f
+a cohort, the dose was to be escalated in the next cohort; if one DLT
+was observed, 2–3 additional patients were to be enrolled at the same
+dose level for a total of at least six patients at that dose level; if no fur-
+ther DLTs were observed, the dose was to be escalated in the next
+cohort; however, if a second DLT was observed, additional patients
+were to be enrolled at the same dose level for a total of up to nine
+patients (consistent with the 3 1 3 1 3 design). If no further DLTs were
+observed, the dose was to be escalated in the next patient cohort.
+If /C213 DLTs were observed at any dose level, enrollment was to stop.
+The MTD was defined as the highest dose at which < 33% of the
+patients enrolled in a cohort experienced a DLT.
+Due to the nature of AML, hematologic adverse events (AEs) were
+not considered DLTs; however, prolonged pancytopenia in the pres-
+ence of a hypocellular bone marrow (i.e., cellularity 5% or less without
+evidence of leukemia) > 42 days in duration from the start of therapy
+was considered dose-limiting myelosuppression. If/C2133% of patients in
+any dose cohort fit these criteria, the dose level review committee was
+to convene with the investigators to discuss dose or schedule modifica-
+tions and/or termination of dosing at that particular dose level. In all
+KANTARJIAN ET AL .
+AJHAJH | 661
+cohorts, patients were to continue to receive treatment until disease
+progression, an unacceptable AE, or withdrawal of consent.
+2.5 | Endpoints
+The primary endpoints of this study were related to the safety (patient
+incidence of AEs; DLTs; clinically significant changes in vital signs,
+weight, electrocardiogram, and laboratory tests) and pharmacokinetic
+profile of AMG 900 (maximum plasma concentration [ Cmax], time to
+Cmax [tmax], area under the concentration-time curve [AUC]). Secondary
+endpoints included the objective response rate (morphologic complete
+response [CR], cytogenetic CR, molecular CR, CR with incomplete
+count recovery [CRi], partial response [PR]) by Cheson response crite-
+ria22 and the change in the number of phosphorylated histone H3
+(pHH3)-positive cells from baseline. Exploratory endpoints included the
+analysis of tumor biomarkers and RNA signatures.
+2.6 | Safety and tolerability
+AEs were assessed at regular study visits. The patient incidence of AEs
+was summarized for all treatment-emergent, serious treatment-
+emergent, treatment-related, serious treatment-related, and fatal AEs,
+and AEs leading to withdrawal of investigational product. The Medical
+Dictionary for Regulatory Activities version 17.1 was used to code all
+AEs to a system organ class and a preferred term, and the severity of
+each AE was graded using Common Terminology Criteria for Adverse
+Events (CTCAE) version 4.0.
+2.7 | Pharmacokinetics
+Blood samples for pharmacokinetic analysis were taken predose and 1,
+2, and 4 hours postdose on days 1 and 4 (4/10 schedule) or days 1 and
+7 (7/7 schedule) of cycle 1, and predose and at 2 hours postdose on
+day 1 of cycles 2, 3, and 4. AMG 900 concentration was measured
+using a validated liquid chromatography-tandem mass spectroscopy
+method with a quantitation range of 20.0 to 10 000 ng/mL.
+2.8 | Pharmacodynamics
+The pharmacodynamic effect of AMG9 0 0w a sm e a s u r e di np e r i p h e r a l
+blood leukemic blasts using a flow cytometric assay to assess pHH3 and
+cell cycle in whole blood. Briefly, red blood cell-lysed/fixed/permeabilized
+blood was labeled with antibodies specific for pHH3 (mitosis marker, Alexa
+Fluor 647, Cell Signaling Technologies, Danvers, MA) and DAPI (DNA con-
+tent, Cell Signaling Technologies). The change from baseline in the percent-
+age of pHH3-positive cells in the G2/M phase was summarized by dose.
+2.9 | Biomarkers
+Bone marrow mononuclear cells collected at baseline were analyzed
+using the Agilent microarray (Agilent Human Whole Genome 4x180K
+v2, Agilent Technologies, Santa Clara, CA). Gene expression results
+were log2 transformed and quantile normalized prior to analysis. A sub-
+set of genes was analyzed for the primary biomarker objective of
+determining the association of baseline expression and response. The
+genes of primary interest were AURKA, AURKB, TP53, CDKN1A, BIRC5,
+CDC2, TTK,a n dCCNB1.
+2.10 | Statistical analysis
+Pharmacokinetic parameters were estimated using standard noncompart-
+mental methods and summarized by dose and across cycle. Individual
+plasma AMG 900 concentration-timeprofiles were summarized by dose.
+The proportion of patients with an objective response (PR1 CR) and cor-
+responding 2-sided 80% confidence intervals were calculated.
+23 A univari-
+ate logistic regression model of objective response (CR or PR) was fit to
+the baseline biomarker results. Model significance was determined by the
+likelihood ratio test P-value being less than the Benjamini-Hochberg
+threshold for 5% false discovery. Theeffect sizes of gene expression were
+estimated using odds ratios with 95% confidence intervals, along with a
+P-value for the estimate. Principal component analyses24 of the z-scores
+for genes of interest were used to further explore expression signatures.
+3 | RESULTS
+3.1 | Patient enrollment and disposition
+This study was conducted between October 2011 (first patient
+enrolled) and September 2014 (last patient completed follow-up). A
+total of 49 patients were screened and 35 were enrolled: 22 patients
+to the 4/10 dose schedule and 13 patients to the 7/7 dose schedule.
+All 35 patients discontinued treatment. The median (range) duration of
+treatment was 5 (1, 27) weeks. The most common reasons for discon-
+tinuation were disease progression (66%), AEs (11%), death (9%), with-
+drawal of consent (6%), other reasons (6%), and requirement for
+alternative therapy (3%). The dose expansion phase was not initiated
+for reasons discussed below.
+3.2 | Baseline demographics and disease
+characteristics
+The median (Q1, Q3) age of patients was 69 (61, 73) years, and over
+two-thirds (69%) were /C2165 years of age (Table 1). Most patients had
+an ECOG status of 0 or 1 (83%), and the median (Q1, Q3) time since
+diagnosis of AML was 7 (4, 17) months. Nineteen (54%) patients had
+received 3 or more lines of therapy, 9 (26%) had received 2 lines, and 7
+(20%) had received 1 line. Cytogenetic categories were as follows: nor-
+mal (34%), complex (3 or more abnormalities) (26%), 27 and/or inv(3)
+(11%), and other abnormality/ies (23%). One patient (3%) had insuffi-
+cient metaphases to allow determination of abnormalities. See Table 1
+for distribution by dose and schedule.
+3.3 | Exposure
+All 35 patients enrolled in the study received /C211 dose of AMG 900.
+Patients received a median (range) of 14 (4, 49) doses, and the median
+(range) cumulative dose was 480 (120, 2240) mg. The median (Q1, Q3)
+number of cycles started was 3 (2, 4) and the median (range) dose
+delivered per cycle was 210 (53, 400) mg.
+662 | AJHAJH
+KANTARJIAN ET AL .
+3.4 | Safety and tolerability
+AMG 900 was evaluated at nine different levels across the two dose
+schedules (up to 100 mg for the 4/10 schedule and up to 50 mg for
+the 7/7 schedule). The 125 mg and 150 mg doses in the 4/10 schedule
+and the 60 mg and 75 mg doses in the 7/7 schedule were not tested.
+There were two DLTs based on the protocol definitions: one patient
+who received 40 mg AMG 900 on the 4/10 schedule had a DLT of
+grade 3 pancytopenia on day 22 that was considered by the investiga-
+tor to be treatment-related; and one patient who received 50 mg AMG
+900 on the 7/7 schedule had two DLTs (grade 3 treatment-related feb-
+rile neutropenia and grade 3 abdominal pain on day 82) (Table 2). None
+of the DLTs met the criteria for a serious AE by the CTCAE definition.
+A total of 30 patients (86%) had treatment-related AEs (Table 2).
+The most common treatment-related AEs (in /C2110% of patients overall,
+any grade) were nausea (31%), diarrhea (29%), febrile neutropenia (29%),
+fatigue (23%), vomiting (17%), alopecia (14%), dyspnea (11%), epistaxis
+(11%), mucosal inflammation (11%), and rash (11%). The most common
+grade/C213 treatment-related AE was neutropenia in 10 patients (29%); all
+other grade /C213 treatment-related AEs occurred in two patients each
+(6%). A total of 11 patients (31%) had serious treatment-related AEs; the
+most common (occurring in /C215% of patients) were febrile neutropenia
+(26%), device-related infection (6%), and septic shock (6%). The median
+(range) duration of febrile neutropenia was 8 (1, 45) days.
+Five patients (14%) discontinued AMG 900 treatment due to AEs of
+cellulitis (left lower extremity, considered related to treatment), septic
+shock, lung infection, and acute myocardial infarction in one patient each
+(considered not related to treatment),and bronchopulmonary aspergillosis
+(considered related to treatment) and pneumonia in one patient (consid-
+ered not related to treatment). The patient with pneumonia and broncho-
+pulmonary aspergillosis had in addition a serious AE of febrile neutropenia
+during the same period that was considered related to treatment.
+Nine patients (26%) died during the study. These deaths occurred
+due to lung infection and respiratory failure (two patients each), and
+acute respiratory failure, cardiorespiratory arrest, respiratory distress,
+sepsis, and septic shock (one patient each). Only the deaths due to
+respiratory failure and septic shock (one patient each) were considered
+treatment-related.
+3.5 | Pharmacokinetics
+The mean plasma concentration, Cmax, and AUC of AMG 900 generally
+increased with increasing dose (Figure 1 and Supporting Information
+Table S3). At dose levels of 15, 25, 40, 60, 80, and 100 mg, mean C
+max
+on cycle 1 day 1 was 501, 951, 1600, 1890, 1430, and 3670 ng/mL,
+respectively, and mean AUC
+4h on cycle 1 day 1 was 1380, 2740, 4360,
+5620, 3210, and 10200 h·ng/mL, respectively. Minimal accumulation
+was observed in patients on both dose schedules: the mean
+TABLE 1 Baseline demographics and disease characteristics
+4 days on/10 days o ﬀ 7 days on/7 days o ﬀ
+15 mg
+(n 5 4)
+25 mg
+(n 5 3)
+40 mg
+(n 5 7)
+60 mg
+(n 5 4)
+80 mg
+(n 5 3)
+100 mg
+(n 5 1)
+30 mg
+(n 5 3)
+40 mg
+(n 5 4)
+50 mg
+(n 5 6)
+All
+(n 5 35)
+Male, n (%) 3 (75) 2 (67) 6 (86) 1 (25) 3 (100) 1 (100) 2 (67) 0 (0) 5 (83) 23 (66)
+Race, n (%)
+White 3 (75) 1 (33) 6 (86) 4 (100) 3 (100) 1 (100) 2 (67) 3 (75) 4 (67) 27 (77)
+Black/African American 1 (25) 1 (33) 0 (0) 0 (0) 0 (0) 0 (0) 1 (33) 0 (0) 1 (17) 4 (11)
+Other 0 (0) 1 (33) 1 (14) 0 (0) 0 (0) 0 (0) 0 (0) 1 (25) 1 (17) 4 (11)
+Age, years
+Median 68 69 72 69 66 71 71 59 68 69
+Q1, Q3 64, 73 55, 73 54, 80 65, 78 43, 71 71, 71 61, 73 48, 77 58, 75 61, 73
+/C2165, n (%) 3 (75) 2 (67) 5 (71) 3 (75) 2 (67) 1 (100) 2 (67) 2 (50) 4 (67) 24 (69)
+ECOG PS, n (%)
+0 1 (25) 0 (0) 3 (43) 1 (25) 0 (0) 0 (0) 0 (0) 1 (25) 1 (17) 7 (20)
+1 3 (75) 3 (100) 3 (43) 3 (75) 3 (100) 1 (100) 2 (67) 1 (25) 3 (50) 22 (63)
+2 0 (0) 0 (0) 1 (14) 0 (0) 0 (0) 0 (0) 1 (33) 2 (50) 2 (33) 6 (17)
+Lines of prior therapy, n (%)
+1 3 (75) 0 (0) 1 (14) 0 (0) 0 (0) 0 (0) 2 (67) 0 (0) 1 (17) 7 (20)
+2 1 (25) 0 (0) 1 (14) 1 (25) 1 (33) 1 (100) 0 (0) 2 (50) 2 (33) 9 (26)
+3 or more 0 (0) 3 (100) 5 (71) 3 (75) 2 (67) 0 (0) 1 (33) 2 (50) 3 (50) 19 (54)
+Cytogenetic category, n (%)
+Complex (3 or
+more abnormalities)
+0 (0) 1 (33) 1 (14) 1 (25) 1 (33) 0 (0) 1 (33) 1 (25) 3 (50) 9 (26)
+–7/inv(3) 0 (0) 0 (0) 2 (29) 0 (0) 0 (0) 0 (0) 0 (0) 2 (50) 0 (0) 4 (11)
+Other abnormality(ies) 2 (50) 1 (33) 2 (29)
+a 1 (25) 1 (33) 0 (0) 1 (33) 0 (0) 1 (17) 9 (26)
+Normal 2 (50) 1 (33) 2 (29) 2 (50) 0 (0) 1 (100) 1 (33) 1 (25) 2 (33) 12 (34)
+Insuﬃ cient metaphases 0 (0) 0 (0) 0 (0) 0 (0) 1 (33) 0 (0) 0 (0) 0 (0) 0 (0) 1 (3)
+aCytogenetic report from one patient was from 2 months before baseline.
+Abbreviations: ECOG PS, Eastern Cooperative Oncology Group Performance Status.
+KANTARJIAN ET AL .
+AJHAJH | 663
+accumulation ratio (cycle 1 day 4/cycle 1 day 1) for Cmax ranged from
+1.03 to 1.85, while the mean accumulation ratio for AUC 4h ranged
+from 1.11 to 1.72. Clearance and half-life could not be estimated due
+to the limited duration of monitoring.
+3.6 | Pharmacodynamics
+Peripheral blood samples from 31 of the 35 patients were analyzed for
+characterization of pHH3 and DNA content. Baseline numbers of
+pHH3-positive leukemia cells before treatment were highly variable
+between patients; however, a clear inhibition of pHH3 expression was
+observed in whole blood as early as 1 hour after treatment with AMG
+900 (Supporting Information Table S4). This inhibition was most promi-
+nent in cases where higher numbers of pHH3-positive cells were present
+at baseline, regardless of the dosing schedule (4/10 or 7/7) (Supporting
+Information Figure S1). Inhibition was transient, and the numbers of
+pHH3-positive cells increased during the off-treatment days.
+3.7 | Efficacy
+Three patients (9%) in the 4/10 dose schedule (two patients at 40 mg
+and one patient at 60 mg) had a best response of complete response
+with CRi by Cheson criteria; no other responses were observed.
+Overall, the objective response rate for all patients treated with
+AMG 900 at any dose and in either schedule was 9% (80% confidence
+interval: 3%, 18%). In the three patients who responded to AMG 900,
+the duration of response was 3 months, 1.5 months (censored observa-
+tion due to discontinuation of AMG 900 due to requirement for other
+therapy), and < 1m o n t h .
+3.8 | Biomarkers
+At baseline, gene expression results (Agilent, Human Whole Genome)
+were available for 24 patients, and bone marrow aspirates (pHH3)
+were available for 14 patients. Higher baseline expression of five bio-
+markers, BIRC5, AURKA, TTK, CDC2,a n d CCNB1, was associated with
+the three CRi responses in univariate logistic regression models (all
+P < .021, the false discovery threshold) (Table 3). These analyses were
+exploratory and hypothesis generating, and the study was not powered
+to detect a certain OR with a confidence interval excluding 1. Never-
+theless, the univariate analyses did produce well-fitting models of
+response, and the P-values were robust to multiple testing. Given the
+small number of responders, additional data would be needed to con-
+firm the effects observed.
+Baseline gene expression was used to look for multivariate stratify-
+ing signatures with principal component analysis. The first two principal
+TABLE 2 Dose-limiting toxicities and most common treatment-related adverse events of all grades ( /C2110% frequency overall) and grade /C213
+(/C215% frequency overall)
+4 days on/10 days o ﬀ 7 days on/7 days o ﬀ
+Total
+(n 5 35)
+n (%)
+15 mg
+(n 5 4)
+n (%)
+25 mg
+(n 5 3)
+n (%)
+40 mg
+(n 5 7)
+n (%)
+60 mg
+(n 5 4)
+n (%)
+80 mg
+(n 5 3)
+n (%)
+100 mg
+(n 5 1)
+n (%)
+30 mg
+(n 5 3)
+n (%)
+40 mg
+(n 5 4)
+n (%)
+50 mg
+(n 5 6)
+n (%)
+Dose-limiting toxicity
+Grade 3 treatment-related pancytopenia 0 (0) 0 (0) 1 (14) 0 (0) 0 (0) 0 (0) 0 (0) 0 (0) 0 (0) 1 (3)
+Grade 3 treatment-related neutropenia
+and grade 3 abdominal pain
+0 (0) 0 (0) 0 (0) 0 (0) 0 (0) 0 (0) 0 (0) 0 (0) 1 (17) 1 (3)
+Any treatment-related adverse events 4 (100) 1 (33) 5 (71) 3 (75) 3 (100) 1 (100) 3 (100) 4 (100) 6 (100) 30 (86)
+Nausea 2 (50) 0 (0) 3 (43) 1 (25) 0 (0) 1 (100) 1 (33) 1 (25) 2 (33) 11 (31)
+Diarrhea 0 (0) 0 (0) 2 (29) 1 (25) 1 (33) 0 (0) 1 (33) 2 (50) 3 (50) 10 (29)
+Febrile neutropenia 0 (0) 0 (0) 1 (14) 3 (75) 2 (67) 1 (100) 0 (0) 1 (25) 2 (33) 10 (29)
+Fatigue 2 (50) 0 (0) 1 (14) 1 (25) 0 (0) 0 (0) 2 (67) 0 (0) 2 (33) 8 (23)
+Vomiting 0 (0) 0 (0) 1 (14) 1 (25) 0 (0) 1 (100) 1 (33) 0 (0) 2 (33) 6 (17)
+Alopecia 0 (0) 0 (0) 1 (14) 1 (25) 1 (33) 0 (0) 1 (33) 0 (0) 1 (17) 5 (14)
+Dyspnea 1 (25) 0 (0) 0 (0) 1 (25) 0 (0) 0 (0) 1 (33) 0 (0) 1 (17) 4 (11)
+Epistaxis 0 (0) 0 (0) 0 (0) 1 (25) 0 (0) 0 (0) 1 (33) 0 (0) 2 (33) 4 (11)
+Mucosal in ﬂammation 0 (0) 0 (0) 0 (0) 2 (50) 0 (0) 0 (0) 1 (33) 1 (25) 0 (0) 4 (11)
+Rash 1 (25) 0 (0) 0 (0) 1 (25) 2 (67) 0 (0) 0 (0) 0 (0) 0 (0) 4 (11)
+Treatment-related adverse events by grade
+Grade /C213 2 (50) 0 (0) 3 (43) 3 (75) 2 (67) 1 (100) 1 (33) 1 (25) 3 (50) 16 (46)
+Grade /C214 1 (25) 0 (0) 1 (14) 1 (25) 0 (0) 0 (0) 1 (33) 0 (0) 1 (17) 5 (14)
+Fatal 0 (0) 0 (0) 1 (14) 0 (0) 0 (0) 0 (0) 0 (0) 0 (0) 1 (17) 2 (6)
+Grade /C213 treatment-related
+adverse events
+Febrile neutropenia 0 (0) 0 (0) 1 (14) 3 (75) 2 (67) 1 (100) 0 (0) 1 (25) 2 (33) 10 (29)
+Diarrhea 0 (0) 0 (0) 0 (0) 0 (0) 1 (33) 0 (0) 0 (0) 0 (0) 1 (17) 2 (6)
+Device-related infection 0 (0) 0 (0) 1 (14) 0 (0) 1 (33) 0 (0) 0 (0) 0 (0) 0 (0) 2 (6)
+Pancytopenia 0 (0) 0 (0) 2 (29) 0 (0) 0 (0) 0 (0) 0 (0) 0 (0) 0 (0) 2 (6)
+Septic shock 0 (0) 0 (0) 0 (0) 0 (0) 0 (0) 0 (0) 0 (0) 0 (0) 2 (33) 2 (6)
+Thrombocytopenia 1 (25) 0 (0) 0 (0) 1 (25) 0 (0) 0 (0) 0 (0) 0 (0) 0 (0) 2 (6)
+664 | AJHAJH
+KANTARJIAN ET AL .
+components accounted for at least 80% of the expression variance.
+Patients with AML clustered into two groups, one of which (higher
+levels of expression of BIRC5, CCNB1, AURKB, AURKA, CDC2,a n d TTK)
+was enriched for responders (Supporting Information Figure S2).
+4 | DISCUSSION
+Patients with relapsed/refractory AML have limited treatment
+options. Response rates to aggressive re-induction therapy are 20%
+to 30%, but as AML is primarily a disease of older adults, few
+patients can tolerate these approaches, and they opt instead for less
+aggressive treatment or palliative care. In this phase 1 study in a
+heavily pretreated group of patients with AML who had declined
+standard therapy or had relapsed from or were refractory to previ-
+ous therapies, AMG 900 monotherapy was associated with manage-
+able nonhematologic toxicity and modest antileukemic activity,
+although patients whose leukemia cells expressed a specific set of
+genes related to the aurora kinase and downstream pathways were
+enriched for responders. Prolonged cytopenias prevented further
+dose escalation, and the dose expansion phase of the study was not
+initiated. The results highlight the challenge of identifying a thera-
+peutic window for AMG 900 in which a given dose and a dosing
+FIGURE 1 Mean plasma concentration-time profiles following multiple oral administrations for the 4 days on/10 days off schedule (A) or
+the 7 days on/7 days off schedule (B); area under the concentration-time curve by dose group after the first 4 days of the 4 days on/10
+days off schedule (C) or after the first 7 days of the 7 days on/7 days off schedule (D). AUC
+4h, area under the concentration-time curve
+from time zero to 4 hours postdose
+TABLE 3 P-values for logistic regression model of objective response vs. baseline gene expression
+BIRC5* CCNB1*a AURKB AURKA * CDC2* TTK* TP53b CDKN1A TP53 c CCNB1*d
+p model 0.01 0.01 0.04 0.02 2.90E –3 0.01 0.77 0.82 0.14 0.01
+OR estimate 13.50 17.71 5.63 8.33 824.32 21.52 1.39 0.90 0.24 260.61
+Lower 95% CL 0.38 0.28 0.48 0.36 0.01 0.12 0.13 0.37 0.03 0.07
+Upper 95% CL 475.53 1138.35 66.39 193.19 1.25E 108 3789.51 14.47 2.21 1.92 1.03E 106
+p OR 0.15 0.18 0.17 0.19 0.27 0.24 0.78 0.82 0.18 0.19
+Results from a univariate logistic regression of response (CR or PR) versus gene expression are tabulated. Model significance was determined by the
+likelihood ratio test p-value (p model) being less than the Benjamini-Hochberg threshold for 5% false discovery (0.0211); this is indicated by an ast erisk
+(*) next to the gene name. Also tabulated are the effect sizes of gene expression, as indicated by the odds ratio (OR) estimate and its 95% confidence
+interval and p-value of the estimate (p OR). The OR is interpreted as the change in odds of response for each doubling of gene expression.
+aCCNB1 results from probe A_23_P122197.
+bTP53 results from probe A_23_P26810.
+cTP53 results from probe A_33_P3315764.
+dCCNB1 results from probe A_33_P3401621.
+Abbreviations: CL, confidence limit.
+KANTARJIAN ET AL .
+AJHAJH | 665
+schedule can achieve selective antitumor activity without excessive
+myelosuppression.
+AMG 900 was engineered to have a high specificity for both of
+the target aurora kinases while evading the ATP-binding cassette trans-
+porters,25 to have efficacy in multiple tumor xenograft models at rea-
+sonable doses, and to have predicted human pharmacokinetic
+properties that would provide adequate target coverage.
+26 Aurora B
+phosphorylates histone H3 on serine 10 during mitosis; hence the inhi-
+bition of pHH3 observed in this study suggests on-target modulation
+of aurora kinase B by AMG 900. In an effort to achieve maximal target
+coverage, we evaluated escalating doses using two administration
+schedules: 4 days on/10 days off and 7 days on/7 days off. Pharmaco-
+kinetic data were insufficient to accurately determine the linearity and
+exposure of AMG 900; however, the mean C
+max and AUC generally
+increased with increasing dose for both schedules and minimal accu-
+mulation was observed. Clearance and elimination half-life could not
+be accurately estimated with noncompartmental analysis at the individ-
+ual dose levels due to the limited plasma sampling. Further analysis
+with a population modeling approach would be needed to fully evalu-
+ate the pharmacokinetic characteristics of AMG 900.
+Two patients had DLTs in this study, including grade 3 pancytope-
+nia and grade 3 neutropenia/abdominal pain. The MTD of AMG 900
+was not formally reached in either dosing schedule because the crite-
+rion of > 33% of patients in a single dose cohort experiencing a DLT
+was not met. The highest doses evaluated were 100 mg daily for the
+4/10 schedule and 50 mg daily for the 7/7 schedule, both of which
+were tolerated, apart from hematologic AEs. The incidence of grade/C213
+febrile neutropenia was 29% overall in this study, a rate comparable to
+those reported in studies of other aurora kinase inhibitors, including
+the selective Aurora kinase B inhibitor barasertib
+27,28 and the selective
+Aurora kinase A inhibitor alisertib. 29 The findings of pancytopenias are
+also consistent with aurora kinase inhibitor class effects.30
+The response rate observed in this study was 9% consisting of
+three patients with CRi, generally comparable to that observed with
+other molecules in this class, though lower than that observed with
+alisertib.27,29,31–33 We did not observe a dose effect on efficacy or on
+pHH3 inhibition despite a large range of explored doses in the 4/10
+regimen and a clear impact of AMG 900 dose on AUC. Thus, despite
+the described dose-concentration effect, we were not able to observe
+a concentration-effect relationship within the patient sample evaluated
+in this study.
+Highlighting the importance of identifying biomarkers of response
+in heterogeneous cancers such as AML, AMG 900 elicited significant
+changes in pathway-related genes, and baseline levels of a subset of
+genes allowed enrichment for the three responders. Due to the small
+sample size and limited number of responders, these results must be
+interpreted with caution and explored further in larger trials.
+Though antileukemic responses in this single-agent setting were
+modest, it is possible that combining tolerable doses of AMG 900 with
+additional agents that inhibit cell division through other mechanisms
+may produce more profound effects. Preclinical data suggest AMG 900
+enhances the effect of microtubule-targeting agents such as paclitaxel,
+carboplatin, and doxorubicin
+17,18 and this approach is supported by data
+from combination therapy with other aurora kinase inhibitors.34–37 Eval-
+uation of AMG 900 in combination with other agents is an appropriate
+next step in the development of this molecule as a treatment for AML.
+5 | CONCLUSIONS
+AMG 900 was associated with manageable extra-hematological toxicity
+and modest response in patients with recurrent/refractory AML,
+although prolonged cytopenias hampered further dose escalation in
+this single-agent treatment setting. Combination of low doses of AMG
+900 with other anticancer agents, or additional sequencing and sched-
+uling evaluations should be explored in future studies.
+ACKNOWLEDGMENTS
+This work was supported by Amgen Inc. Wanda Krall, PhD, on behalf
+of Amgen, and Micah Robinson, PhD, of Amgen, assisted with the
+writing of this manuscript. Darrin Beaupre, MD PhD, and John Hill,
+PhD, both of Amgen at the time the work was conducted, assisted
+with the design, data interpretation, and execution of the study.
+DISCLOSURE OF POTENTIAL CONFLICTS OF INTEREST
+Hagop M. Kantarjian reports research funding from BMS, Ariad,
+Pfizer, Amgen, and Novartis. Michael W. Schuster reports honoraria
+and speakers ’ bureau participation from Amgen, and equity owner-
+ship in Amgen. Nitin Jain reports nothing to disclose. Anjali Advani
+reports research funding from Amgen. Elias Jabbour reports research
+funding and consultancy fees from Amgen. Mikkael A. Sekeres
+reports advisory board participation from Amgen and Celgene. Erik
+Rasmussen, Gloria Juan, Abraham Anderson, Vincent F. Chow, and
+Gregory Friberg are employees of Amgen and hold stock in Amgen.
+Erick Gamelin is a former employee of Amgen, a current employee
+of Pfizer, and holds stock in Amgen and Pfizer. Florian D. Vogl is a
+former employee of Amgen and holds stock in Amgen.
+REFERENCES
+[1] Surveilance, Epidemiology, and End Results (SEER) Program. Cancer
+Stat Fact Sheet: Acute Myeloid Leulemia. National Institutes of
+Health, National Cancer Institute; 2016.
+[2] van der Waal MS, Hengeveld RC, van der Horst A, et al. Cell divi-
+sion control by the Chromosomal Passenger Complex. Exp Cell Res.
+2012;318:1407–1420.
+[3] Nigg EA. Mitotic kinases as regulators of cell division and its check-
+points. Nat Rev Mol Cell Biol. 2001;2:21–32.
+[4] Afonso O, Figueiredo AC, Maiato H. Late mitotic functions of
+Aurora kinases. Chromosoma. 2017;126:93–103.
+[5] Goldenson B, Crispino JD. The aurora kinases in cell cycle and leu-
+kemia. Oncogene. 2015;34:537–545.
+[6] Carmena M, Earnshaw WC, Glover DM. The Dawn of Aurora Kinase
+research: From fly genetics to the clinic. Front Cell Dev Biol. 2015;3:73
+[7] Yang J, Ikezoe T, Nishioka C, et al. CD34( 1)/CD38(-) acute myelog-
+enous leukemia cells aberrantly express Aurora kinase A. Int J Can-
+cer. 2013;133:2706–2719.
+666 | AJHAJH
+KANTARJIAN ET AL .
+[8] Cirak Y, Furuncuoglu Y, Yapicier O, et al. Aurora A overexpression
+in breast cancer patients induces taxane resistance and results in
+worse prognosis. J Buon. 2015;20:1414–1419.
+[9] Gautschi O, Heighway J, Mack PC, et al. Aurora kinases as anti-
+cancer drug targets. Clin Cancer Res. 2008;14:1639–1648.
+[10] Mignogna C, Staropoli N, Botta C, et al. Aurora Kinase A expression
+predicts platinum-resistance and adverse outcome in high-grade
+serous ovarian carcinoma patients. J Ovarian Res. 2016;9:31
+[11] Portella G, Passaro C, Chieffi P. Aurora B: a new prognostic marker
+and therapeutic target in cancer. Curr Med Chem. 2011;18:482–496.
+[12] Lucena-Araujo AR, de Oliveira FM, Leite-Cueva SD, et al. High
+expression of AURKA and AURKB is associated with unfavorable
+cytogenetic abnormalities and high white blood cell count in
+patients with acute myeloid leukemia. Leuk Res. 2011;35:260–264.
+[13] Katayama H, Sasai K, Kawai H, et al. Phosphorylation by aurora
+kinase A induces Mdm2-mediated destabilization and inhibition of
+p53. Nat Genet. 2004;36:55–62.
+[14] Moore AS, Blagg J, Linardopoulos S, et al. Aurora kinase inhibitors:
+novel small molecules with promising activity in acute myeloid and
+Philadelphia-positive leukemias. Leukemia. 2010;24:671–678.
+[15] Payton M, Bush TL, Chung G, et al. Preclinical evaluation of AMG
+900, a novel potent and highly selective pan-aurora kinase inhibitor
+with activity in taxane-resistant tumor cell lines. Cancer Res. 2010;
+70:9846–9854.
+[16] Hsu JY, Sun ZW, Li X, et al. Mitotic phosphorylation of histone H3
+is governed by Ipl1/aurora kinase and Glc7/PP1 phosphatase in
+budding yeast and nematodes. Cell. 2000;102:279–291.
+[17] Kalous O, Conklin D, Manivong K, et al. Preclinical characterization
+of AMG 900, a pan-aurora kinase inhibitor, alone and in combina-
+tion with taxanes in ovarian cancer AACR Annual Meeting. New
+Orleans, LA; 2016. p Abstract 3008.
+[18] Bush TL, Payton M, Heller S, et al. AMG 900, a small-molecule
+inhibitor of aurora kinases, potentiates the activity of microtubule-
+targeting agents in human metastatic breast cancer models. Mol
+Cancer Ther. 2013;12:2356–2366.
+[19] Carducci MA, Shaheen MF, Paller CJ, et al. First-in-human study of
+AMG 900, an oral pan-aurora kinase inhibitor, in adult patients (pts)
+with advanced solid tumors.J Clin Oncol. 2012;30(suppl):Abstract 3009.
+[20] Markman B, Mahadevan D, Hurvitz S, et al. Phase 1 dose-
+expansion study of AMG 900, a pan-aurora kinase inhibitor, in adult
+patients with advanced taxane-resistant solid tumors. Eur J Cancer.
+2014;50:197–198.
+[21] Shaheen M, Markman B, Carducci M, et al. Phase 1, open label, first-
+in-human study of AMG 900, an orally administered pan-aurora
+kinase inhibitor, in adult patients (pts) with advanced solid tumors.
+AACR Annual Meeting New Orleans, LA; 2016. p Abstract CT045.
+[22] Cheson BD, Bennett JM, Kopecky KJ, et al. Revised recommenda-
+tions of the International Working Group for Diagnosis, standardiza-
+tion of response criteria, treatment outcomes, and reporting
+standards for therapeutic trials in acute myeloid leukemia. J Clin
+Oncol. 2003;21:4642–4649.
+[23] Collett D. Modelling Binary Data . London: Chapman & Hall; 1991.
+[24] Dunteman GH. Principal Components Analysis . 1st edition, London:
+SAGE Publications; 1989, 96 p.
+[25] Michaelis M, Selt F, Rothweiler F, et al. ABCG2 impairs the activity
+of the aurora kinase inhibitor tozasertib but not of alisertib. BMC
+Res Notes. 2015;8:484
+[26] Geuns-Meyer S, Cee VJ, Deak HL, et al. Discovery of N-(4-(3-(2-
+aminopyrimidin-4-yl)pyridin-2-yloxy)phenyl)-4-(4-methylthiophen-2-
+yl)p hthalazin-1-amine (AMG 900), a highly selective, orally bioavail-
+able inhibitor of aurora kinases with activity against multidrug-
+resistant cancer cell lines. J Med Chem. 2015;58:5189–5207.
+[27] Lowenberg B, Muus P, Ossenkoppele G, et al. Phase 1/2 study to
+assess the safety, efficacy, and pharmacokinetics of barasertib
+(AZD1152) in patients with advanced acute myeloid leukemia.
+Blood. 2011;118:6030–6036.
+[28] Tsuboi K, Yokozawa T, Sakura T, et al. A Phase I study to assess
+the safety, pharmacokinetics and efficacy of barasertib (AZD1152),
+an Aurora B kinase inhibitor, in Japanese patients with advanced
+acute myeloid leukemia. Leuk Res. 2011;35:1384–1389.
+[29] Goldberg SL, Fenaux P, Craig MD, et al. An exploratory phase 2
+study of investigational Aurora A kinase inhibitor alisertib
+(MLN8237) in acute myelogenous leukemia and myelodysplastic
+syndromes. Leuk Res Rep. 2014;3:58–61.
+[30] Melichar B, Adenis A, Lockhart AC, et al. Safety and activity of aliser-
+tib, an investigational aurora kinase A inhibitor, in patients with breast
+cancer, small-cell lung cancer, non-small-cell lung cancer, head and
+neck squamous-cell carcinoma, and gastro-oesophageal adenocarci-
+noma: a five-arm phase 2 study. Lancet Oncol. 2015;16:395–405.
+[31] Foran J, Ravandi F, Wierda W, et al. A phase I and pharmacody-
+namic study of AT9283, a small-molecule inhibitor of aurora kinases
+in patients with relapsed/refractory leukemia or myelofibrosis. Clin
+Lymphoma Myeloma Leuk. 2014;14:223–230.
+[32] Kantarjian HM, Sekeres MA, Ribrag V, et al. Phase I study assessing
+the safety and tolerability of barasertib (AZD1152) with low-dose
+cytosine arabinoside in elderly patients with AML. Clin Lymphoma
+Myeloma Leuk. 2013;13:559–567.
+[33] Kantarjian HM, Martinelli G, Jabbour EJ, et al. Stage I of a phase 2
+study assessing the efficacy, safety, and tolerability of barasertib
+(AZD1152) versus low-dose cytosine arabinoside in elderly patients
+with acute myeloid leukemia. Cancer. 2013;119:2611–2619.
+[34] Kretzner L, Scuto A, Dino PM, et al. Combining histone deacetylase
+inhibitor vorinostat with aurora kinase inhibitors enhances lym-
+phoma cell killing with repression of c-Myc, hTERT, and microRNA
+levels. Cancer Res. 2011;71:3912–3920.
+[35] Amin M, Minton SE, LoRusso PM, et al. A phase I study of MK-5108,
+an oral aurora a kinase inhibitor, administered both as monotherapy
+and in combination with docetaxel, in patients with advanced or
+refractory solid tumors. Invest New Drugs. 2016;34:84–95.
+[36] Raymond E, Alexandre J, Faivre S, et al. A phase I schedule depend-
+ency study of the aurora kinase inhibitor MSC1992371A in combi-
+nation with gemcitabine in patients with solid tumors. Invest New
+Drugs. 2014;32:94–103.
+[37] Rosenthal A, Kumar S, Hofmeister C, et al. A Phase Ib Study of the
+combination of the Aurora Kinase Inhibitor Alisertib (MLN8237)
+and Bortezomib in Relapsed Multiple Myeloma. Br J Haematol.
+2016;174:323–325.
+SUPPORTING INFORMATION
+Additional Supporting Information may be found online in the sup-
+porting information tab for this article.
+How to cite this article : Kantarjian HM, Schuster MW, Jain N,
+et al. A phase 1 study of AMG 900, an orally administered pan-
+aurora kinase inhibitor, in adult patients with acute myeloid leu-
+kemia. Am J Hematol. 2017;92:660–667. https://doi.org/10.
+1002/ajh.24736
+KANTARJIAN ET AL .
+AJHAJH | 667

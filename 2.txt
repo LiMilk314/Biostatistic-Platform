@@ -1,0 +1,811 @@
+
+REGENERATIVE MEDICINE
+Lumbar Intraspinal Injection of Neural Stem Cells in Patients
+with Amyotrophic Lateral Sclerosis: Results of a Phase I
+Trial in 12 Patients
+JONATHAN D. G LASS,
+a NICHOLAS M. B OULIS,b KARL JOHE,c SEWARD B. R UTKOVE,d THAIS FEDERICI,b
+MERAIDA POLAK,a CRYSTAL KELLY,a EVA L. F ELDMANe
+aDepartment of Neurology and bDepartment of Neurosurgery, Emory University School of Medicine, Atlanta,
+Georgia, USA; cNeuralstem, Inc., Rockville, Maryland, USA; dDepartment of Neurology, Beth Israel Deaconess
+Medical Center, Harvard Medical School, Boston, Massachusetts, USA; eDepartment of Neurology, University of
+Michigan, Ann Arbor, Michigan, USA
+Key Words. Amyotrophic lateral sclerosis • Motor neuron disease • Stem cells • Spinal cord • Clinical trial
+ABSTRACT
+Advances in stem cell biology have generated intense inter-
+est in the prospect of transplanting stem cells into the nerv-
+ous system for the treatment of neurodegenerative diseases.
+Here, we report the results of an ongoing phase I trial of
+intraspinal injections of fetal-derived neural stems cells in
+patients with amyotrophic lateral sclerosis (ALS). This is a
+ﬁrst-in-human clinical trial with the goal of assessing the
+safety and tolerability of the surgical procedure, the intro-
+duction of stem cells into the spinal cord, and the use of
+immunosuppressant drugs in this patient population. Twelve
+patients received either ﬁve unilateral or ﬁve bilateral (10
+total) injections into the lumbar spinal cord at a dose of
+100,000 cells per injection. All patients tolerated the treat-
+ment without any long-term complications related to either
+the surgical procedure or the implantation of stem cells.
+Clinical assessments ranging from 6 to 18 months after
+transplantation demonstrated no evidence of acceleration of
+disease progression due to the intervention. One patient has
+shown improvement in his clinical status, although these
+data must be interpreted with caution since this trial was
+neither designed nor powered t o measure treatment efﬁcacy.
+These results allow us to report success in achieving the
+phase I goal of demonstrating safety of this therapeutic
+approach. Based on these positive results, we can now
+advance this trial by testing intraspinal injections into the
+cervical spinal cord, with the goal of protecting motor neu-
+ron pools affecting respiratory function, which may prolong
+life for patients with ALS. STEM CELLS 2012;30:1144–1151
+Disclosure of potential conﬂicts of interest is found at the end of this article.
+INTRODUCTION
+Disease-modifying options for patients with amyotrophic lat-
+eral sclerosis (ALS) are limited to treatment with riluzole,
+noninvasive positive pressure ventilation, and nutritional sup-
+port, each having only a modest effect on disease progression
+and survival. Advances in stem cell biology have raised the
+question of whether cellular therapies may be a viable option
+for the treatment of ALS, either by replacing diseased cell
+populations directly or by introducing a cell population that
+can be supportive to the motor neurons affected by the dis-
+ease process [1]. Several cell types have been proposed for
+testing in ALS, including mesenchymal stem cells (MSCs)
+derived from bone marrow, glial progenitor cells, and spinal
+cord-derived neural progenitor cells [2–4]. Each of these cell
+types has preclinical data both in vitro and in animal models
+supporting their potential as therapeutic options for ALS.
+ALS patients have received implantations of MSCs into
+the spinal cord with reportedly few adverse outcomes [5],
+and a trial of intrathecal injections of MSCs for ALS is immi-
+nent (D. Offen, personal communication and http://www.
+brainstorm-cell.com).
+Human spinal cord-derived stem cells (HSSCs) are neural
+progenitor cells isolated from the cervico-thoracic spinal cord
+of an 8-week gestation fetus [6]. These cells, expanded in
+serum-free media more than many passages, have shown
+therapeutic beneﬁt when injected into the ventral horn area of
+spinal cord in the G93A rat model of familial ALS [7] and in
+a rat model of ischemic spinal cord injury [8]. In these motor
+neuron disease paradigms, the majority of the transplanted
+HSSCs differentiated into neuronal populations expressing
+glutamatergic and GABAergic neurotransmitter markers [9].
+Very few of the transplanted cells were shown to have char-
+acteristics of alpha motor neurons. Even so, injection of
+HSSCs rescued endogenous motor neurons of G93A rats,
+Author contributions: J.D.G.: site PI and primary writer of the manuscript; N.M.B.: surgeon; K.J.: sponsor of trial and developer of stem
+cell product; S.B.R.: responsible for EIM data; T.F.: protocol development and stem cell biologist; M.P.: lead clinical research nurse;
+C.K.: lead clinical research coordinator; E.L.F.: protocol development and overall PI.
+Correspondence: Jonathan D. Glass, M.D., Department of Neurology, 101 Woodruff Circle, Suite 6000, Atlanta, Georgia 30322, USA.
+Telephone: 404-727-3507; Fax: 404-727-3157; e-mail: jglas03@emory.edu Received December 28, 2011; accepted for publication
+February 20, 2012; ﬁrst published online in STEM CELLS EXPRESS March 13, 2012. VC AlphaMed Press 1066-5099/2012/$30.00/0 doi: 10.
+1002/stem.1079
+STEM CELLS 2012;30:1144–1151 www.StemCells.com
+prolonged their survival, and induced partial motor recovery
+in rats with ischemic spinal cord injury [8]. These promising
+preclinical data led us to design a trial where spinal
+cord injection of HSSCs can be tested as a novel therapy for
+people with ALS.
+In order to test any cell therapy for ALS, a safe and effec-
+tive cell delivery system must be established, keeping in mind
+that people with ALS are already living with damaged nerv-
+ous systems. Here, we report our experience with the injection
+of human spinal cord-derived stem cells (HSSCs) into the
+lumbar spinal cords of 12 ALS patients. This is a phase I
+study, focusing on the issues of safety surrounding this novel
+surgical technique and the implantation of HSSCs into people
+with ALS. In addition, we report on our experience with this
+type of trial design, including patient recruitment, presurgical
+and postsurgical monitoring, and identiﬁcation of toxicities in
+this ﬁrst-in-human clinical trial.
+MATERIALS AND METHODS
+Trial Design
+This is an ongoing phase I trial of spinal cord injections of
+neural stem cells. The protocol was designed to use the con-
+cept of ‘ ‘risk escalation,’ ’ where the ﬁrst patients would have
+the least function to lose should the spinal cord injections
+lead to serious complications of the transplant procedure. By
+design, each successive group of patients was exposed to
+increasing risk, both for the number of injections they
+received and the amount of neurological function they could
+potentially lose. Table 1 summarizes the clinical characteris-
+tics and surgical intervention for each group. The schedule
+required at least 1 month between each patient surgery.
+Neural Stem Cells
+The neural stem cells, NSI-566RSC, were isolated from the
+spinal cord of a single 8-week-old fetus, which for use in
+clinical trials were expanded, stored under current good man-
+ufacturing practice (cGMP) conditions, and supplied to the
+surgery site on the morning of surgery as a sterile suspension
+of live cells in a proprietary hibernation medium at 2 /C14 C–8 /C14 C.
+All of the cell suspensions in the trial were prepared at
+10,000 cells per microliter under a central cGMP facility and
+shipped by overnight delivery.
+The characteristics of NSI-566RSC cells were previously
+described [6, 11, 12]. NSI-566RSC is a culture of human neural
+stem cells derived from a single source human fetal spinal cord
+tissue of approximately 8 gestational weeks and expanded seri-
+ally by epigenetic means only. A region of the tissue corre-
+sponding to lower cervical/upper thoracic segments was dis-
+sected under a microscope. The associated meninges and dorsal
+root ganglia (DRG) were removed. From the clean single
+tissue, neural stem cells were isolated, pooled, and propagated
+as a single line. No genetic modiﬁcation was applied to the
+cells at any point. Serial expansion was carried out as an adher-
+ent, monolayer culture in serum-free, animal-derived compo-
+nent-free, feeder cell-free conditions for approximately 60 pop-
+ulation doublings in approximately 25 passages [11]. Human
+recombinant ﬁbroblast growth factor (FGF-2) (basic ﬁbroblast
+growth factor [bFGF]) was used as the sole mitogen through-
+out. At various intermittent passages, the cells were harvested
+by trypsin treatment, which inactivates remaining bFGF and
+extracellular matrix proteins, and suitable cell aliquots were fro-
+zen and stored in liquid nitrogen until further use. A previously
+frozen lot of passage 4 (P4) cells was qualiﬁed into a cGMP
+facility and used to generate the clinical lot used in this study.
+From approximately 1 /C2 10
+7 frozen P4 cells, three-tiered cell
+banks were created under cGMP: a Master Cell Bank (MCB)
+at passage 6 consisting of 1.33 /C2 10
+9 cells (262 vials at 5 /C2
+106 cells per vial); a Working Cell Bank (WCB) at passage 9
+consisting of 1.86 /C2 109 cells (347 vials at 5 /C2 106 cells per
+vial); and a Clinical Cell Bank (CCB) at passage 12 consisting
+of 8.13 /C2 10
+9 cells (399 vials at 16 /C2 106 cells per vial). CCB
+was used for dosing as the clinical lot, without further cultur-
+ing. One day prior to the scheduled surgery, one frozen vial of
+CCB was thawed, washed by centrifugation to remove the
+freezing medium, and concentrated to the desired target cell
+density of 10,000 cells per microliter in a hibernation medium
+free of preservatives and antibiotics. It was then shipped at
+2/C14 C–8 /C14 C to the surgery site by overnight delivery.
+The MCB and WCB cells were >99% nestin þ, 0% glial
+ﬁbrillary acidic protein positive (astrocyte marker), 0% NG2 þ
+(oligodendroglial marker), 0% TuJ1 þ (neuronal marker), 0%
+Iba1þ (microglial marker), 0% smooth muscle actin þ (a
+marker of DRG-derived cells), 0% VE cadherin þ (a marker
+Table 1. Inclusion criteria
+/C15 Age 18 or older
+/C15 Sporadic or familial ALS diagnosed as laboratory supported probable, probable or deﬁnite according to the World Federation of Neurology
+El Escorial criteria [10]
+/C15 Capable of providing informed consent and complying with study procedures, including visit schedule
+/C15 Not pregnant or of child-bearing potential (females)
+/C15 Reside within driving distance to the study center with the ability to travel to the center for study visits
+/C15 Presence of a willing and able caregiver
+/C15 Medically able to undergo lumbar or cervical laminectomy a
+/C15 Medically able to tolerate immunosuppression regimen a
+/C15 Not taking riluzole or on a stable dose for /C21 30 days
+/C15 Absence of chronic medical or psychiatric condition that may interfere with participation in the trial or add undue risk a
+Group A
+/C15 Inability to walk independently for >2 weeks due to weakness and/or spasticity; the ALSFRS-R lower extremity subscore /C20 1
+/C15 Vital capacity /C21 60% of predicted measured in the seated position at the time of screening and /C21 50% of predicted measured supine during
+the 7 days prior to surgery or stable for at least 3 months with tracheostomy and mechanical ventilation
+Groups B and C
+/C15 Lower extremity weakness and/or spasticity, but able to walk independently. ALSFRS-R gait subscore /C21 2
+/C15 Vital capacity /C21 60% of predicted measured in the seated position at the time of screening and /C21 50% of predicted measured supine during
+the 7 days prior to surgery
+aAs determined by the site PI or the neurosurgeon.Abbreviations: ALS, amyotrophic lateral sclerosis; ALSFRS-R, ALS functional rating
+scale revised.
+Glass, Boulis, Johe et al. 1145
+www.StemCells.com
+of vascular endothelial cells). The stability of the mitotic
+population was assessed by monitoring the population-dou-
+bling rate at each passage, which was reproducible at approxi-
+mately 38 hours throughout the manufacturing process. Multi-
+potent differentiation property of neural stem cells in MCB,
+WCB, and CCB was tested by in vitro differentiation for 6–
+8 days, which resulted in approximately 50% TuJ1 þ neurons
+and 50% glia for each bank, as previously reported as a
+hallmark of neuroepithelial stem cells [11]. The karyotypic
+stability was tested to be normal 46 chromosomes with XY at
+passage 4 and after further culturing of the CCB cells for two
+additional passages (passage 14). Tumorigenicity of the CCB
+cells was tested negative in colony-forming assays in soft
+agar, after subcutaneous implantation of 1 /C2 10
+7 cells in athy-
+mic nude mice, and after 9 months of transplantation in spinal
+cord of naı ¨ve and contusion-injured nude rats (unpublished
+data). The WCB and/or CCB cells were tested negative for the
+following pathogens: bacteria, mycoplasma, in vitro adventi-
+tious viruses, bovine adventitious agents, porcine adventitious
+agents, retroviruses, human polyomavirus BK, human cyto-
+megalovirus (CMV), Epstein–Barr virus, hepatitis A virus,
+hepatitis B virus, hepatitis C virus, herpesvirus type 6, herpesvi-
+rus type 7, herpesvirus type 8, human immunodeﬁciency virus
+1 and 2, human papillomavirus, T-cell lymphotropic virus,
+human polyomavirus JC, and human parvovirus B19.
+NSI-566RSC was derived from a single donor and is intended
+as an allogeneic product. The cells in undifferentiated state and in
+differentiated state in vitro for up to 45 days express low levels of
+human leukocyte antigen (HLA)-A, HLA-DMB, and HLA-DRB1
+mRNAs when probed by microarrays (Affymetrix U-133, data
+not shown). Other major histocompatability complex mRNAs
+were absent throughout the differentiation. By immunostaining
+with HLA-speciﬁc antibodies, no HLA class II antigens were
+detectible and less than 0.1% of the cells were positive for HLA-
+A. The cells were negative for other HLA class I antigens. No
+immunoreactivity against ABO antigens was detectible.
+NSI-566RSC was supplied as a suspension of live cells in
+a hibernation buffer free of preservatives and antibiotics, in
+an insulted shipping container that maintained the cell vials at
+2/C14 C–8 /C14 C for 7 days. Stability of the cells during shipping was
+tested and validated for period of 48 hours after the cell prep-
+aration to be usable for engraftment (data not shown). Before
+proceeding with surgery, the cells were inspected for viability
+using the method of trypan blue exclusion. The protocol
+called for at least 70% cell viability in order to proceed with
+the implantation; no other condition was required for adminis-
+tration into patients. In practice, viability ranged from 84% to
+93%, and there were no failed deliveries or rejections due to
+out-of-range release speciﬁcations. Cells that failed to exclude
+the trypan blue dye were considered ‘ ‘dead’ ’; however, these
+cells could not be separated from the viable cells. After the
+ﬁnal injection in each case, the cell suspension remaining in
+the syringe and tubing was dripped onto a glass slide and
+stained for morphological evaluation. In every case, this pro-
+cedure assured us that the cells continued to be present within
+the suspension right through the ﬁnal injection. Sterility and
+endotoxin level of each cell batch were veriﬁed by post hoc
+testing of retention sample kept at the manufacturing site, and
+the test result was notiﬁed to the study investigators within 14
+days of surgery. Safety of this release procedure was validated
+at the cGMP facility by demonstrating no incidence of con-
+tamination in 10 successive runs. There was no incidence of
+nonconformance in regard to sterility or endotoxin level.
+Patient Selection
+The Emory University Institutional Review Board approved
+the trial design, patient eligibility criteria, and process of
+informed consent. Because this was a ﬁrst-in-human trial for
+a disease with limited therapeutic options, we anticipated that
+a large number of patients would be interested in participa-
+tion. The goals of the study and the inclusion criteria (Table
+1) were clearly described and published on the Emory ALS
+Center website (als.emory.edu), and we instituted a web-based
+portal where patients could submit an ‘ ‘application’ ’ for
+admission to the trial. These submissions were reviewed on a
+weekly basis by the site principal investigator (PI) and study
+staff, and potentially eligible patients were invited for a
+screening visit at the study site. Patients and caretakers were
+asked to review the informed consent documents carefully
+before coming to the screening visit. During that visit, the site
+PI (J.D.G.) conﬁrmed the diagnosis of ALS through standard
+clinical evaluation and repeat of any testing, if necessary.
+Patients meeting inclusion criteria were engaged in a dis-
+cussion of the risks of the trial with both the site PI (J.D.G.)
+and the neurosurgeon (N.M.B.). The informed consent docu-
+ment was reviewed with particular attention to the under-
+standing that this phase I trial was designed only to test the
+safety of this new risky treatment, and there was neither ex-
+pectation nor promise of therapeutic beneﬁt. The discussions
+were videotaped to document the integrity of the informed
+consent process. In addition, a patient selection committee
+was inaugurated to oversee patient eligibility and to discuss
+the informed consent separately with the patient. The commit-
+tee was composed of health care providers and community
+members who were not associated with the trial and was
+charged with conﬁrming that each patient understood the
+goals of the trial, the potential severity of the risks, and that
+there was no expectation of clinical beneﬁt.
+Presurgical Assessment
+Patients who met eligibility criteria and consented for partici-
+pation were enrolled and assigned a unique patient identiﬁca-
+tion number. These potential candidates were further screened
+with baseline laboratory studies to conﬁrm that they did not
+have any condition that would exclude them from the study.
+Baseline clinical assessments included hand-held dynamo-
+metry (HHD), forced vital capacity (FVC), ALS functional
+rating scale-revised (ALSFRS-R) [13], and MRI scans of
+brain and entire spinal cord. HHD megascores were calculated
+from the individual measurements for each muscle [14], pro-
+viding a normalized assessment of upper and lower extremity
+strength. In addition, a newer technique for assessing disease
+status, electrical impedance myography (EIM), [15] was per-
+formed bilaterally on gastrocnemius, tibialis anterior, and
+quadriceps, the muscles most likely to be impacted by the im-
+plantation. For purposes of identifying any major changes in
+progression postoperatively, all ambulatory patients (groups B
+and C) were evaluated monthly for at least 3 months prior to
+surgery with HHD, FVC, ALSFRS-R, and EIM to generate a
+preoperative slope of disease progression that could be com-
+pared with postoperative measures [16]. Immunization against
+inﬂuenza, pneumonia, and herpes zoster was suggested for all
+patients but not required.
+Each patient was re-evaluated clinically during the week
+prior to surgery to conﬁrm that they still met inclusion crite-
+ria. These visits also included presurgical evaluation by the
+anesthetist as well as standard preoperative laboratories, elec-
+trocardiogram, and chest x-ray.
+Surgical Procedure
+The surgical apparatus and injection procedures are described
+in previous publications [17–20]. Surgery was performed
+using standard anesthetic and monitoring techniques, includ-
+ing lower extremity somatosensory evoked potentials (all
+1146 Stem Cell Transplantation for ALS
+patients) and motor evoked potentials (patients 6-12). A two-
+level, bilateral laminectomy was performed at vertebral level
+T11 and T12. The dura and arachnoid were opened and
+tacked to the surrounding soft tissues, and the surgical appara-
+tus was attached to the vertebrae. A full description of the
+surgical apparatus and the injection procedure has been pub-
+lished [20].
+Patients received either ﬁve unilateral or ﬁve bilateral (10
+total) injections of HSSCs (Table 2). Each injection contained
+approximately 100,000 cells in an 8.5–10 ll volume (concen-
+tration 10,000 cells per microliter). Cells were injected more
+than a 2-minute period, and the injection needle was kept in
+place for an additional minute to prevent reﬂux during needle
+exit. Total surgical time, from ﬁrst incision to closing, ranged
+between 3 and 4.5 hours.
+Postoperative care was standard for patients undergoing
+laminectomy with an intradural procedure. Patients were kept
+fully supine for at least 24 hours to prevent leak of cerebro-
+spinal ﬂuid. Pain was managed with i.v. and oral narcotics.
+Immunosuppression
+All patients received an i.v. dose of methylprednisolone (125
+mg) immediately prior to surgery and were treated postopera-
+tively with oral prednisone 60 mg tapering to 0 over 1 month.
+Two doses of basiliximab (20 mg i.v.) were given, one during
+surgery and another on postoperative day 4. Tacrolimus was
+given in b.i.d. oral dosing to maintain a trough level of 4–
+8 ng/ml, and mycophenolate mofetil was given at 1,000 mg
+orally b.i.d. Tacrolimus and mycophenolate, if tolerated, will
+be given for the duration of the trial.
+Postoperative Assessments
+All patients were evaluated at 2 and 4 weeks postoperatively
+and then monthly thereafter. Standard clinical examinations
+and questionnaires were administered at each visit, along with
+laboratory measures of metabolic and hematologic function,
+serum levels for tacrolimus, and screening for reactivation of
+CMV by PCR in those patients with serological evidence of
+pre-existing infection. Each patient was also screened for the
+presence of HLA antibodies (panel reactive antibodies
+[PRAs]); a positive PRA screen was followed up with identiﬁ-
+cation of speciﬁc antibody reactivity. Quarterly assessments
+included: ALSFRS-R, HHD, FVC, EIM, and bladder ultra-
+sound for postvoid urine residual. MRI scans of the surgical
+region were performed every 6 months or more frequently if
+deemed necessary by the site PI.
+Study Oversight
+All clinical data were recorded both on paper and through
+electronic data capture. An experienced clinical trial auditor
+monitored all clinical data regularly at the study site, and the
+external safety monitoring committee reviewed all data on a
+monthly basis. Escalation of risk, that is, moving from one
+patient group to the next, required the approval of the safety
+monitoring committee.
+RESULTS
+Recruitment
+We received requests for participation via direct interaction
+with patients at the Emory ALS Center, from phone calls,
+from letters and e-mails, and from our web portal. In all, 368
+people, from 40 states and 18 countries, asked whether they
+could be part of the study. Even though the inclusion criteria
+were clearly outlined on the Emory ALS Center website, the
+majority of submissions were deemed ineligible because the
+patient did not live within driving distance of the trial site
+and/or the patient did not meet clinical criteria for participa-
+tion. A total of 15 patients were invited to a screening visit,
+12 who were ultimately enrolled. All patients who passed
+screening evaluation eventually underwent surgery—no
+patients became ineligible during the preoperative observation
+period.
+The characteristics of the 12 patients are presented in Ta-
+ble 3. All patients were men, age range 37–66 years old and
+disease duration 1.5–13 years. Three patients were chronically
+ventilated, two in group A1 and one in group A2. Selection
+of ventilated patients for these positions in the queue was
+intentional and was meant to reduce the risk of prolonged an-
+esthesia should the surgeon require additional time during
+these initial surgeries, and to remove the risk of inability to
+extubate during these ﬁrst-in-human surgical procedures.
+Since this trial was not designed to identify improvements in
+the course of ALS, the duration of disease was not considered
+as a criterion for participation. Indeed, four patients had a dis-
+ease duration of >5 years at the time of surgery.
+Postoperative Course
+The details of the operative procedure, operative ﬁndings, and
+intraoperative electrophysiological monitoring will be pre-
+sented in subsequent publications. To summarize, the opera-
+tive time (ﬁrst incision to last stitch) ranged from 3 to 4.5
+hours. No major changes were identiﬁed in intraoperative
+evoked potentials. All nonventilated patients were extubated
+without problem in the operating room and had no immediate
+postoperative respiratory difﬁculties. Postoperative incisional
+pain was managed adequately with narcotic and non-narcotic
+analgesics. All patients returned home either 4 ( n ¼ 10) or 5
+days after surgery. No patient required narcotics at the time
+of discharge.
+Adverse Events and Toxicities
+A summary of serious adverse events is presented in Table 4.
+Serious adverse events, deﬁned as those requiring hospitaliza-
+tion or surgical intervention, were relatively few. In the opin-
+ion of the site PI and the study team, there were no adverse
+events or toxicities that could, with any certainty, be attrib-
+uted to the HSSCs. Several patients experienced transient
+radicular-type pain and/or sensory abnormalities that were
+Table 2. Patient groups
+Group
+Patient
+numbers Characteristics Treatment
+A1 1-3 Nonambulatory, FVC >60% or trach/vent 5 injections, unilateral
+A2 4-6 Nonambulatory, FVC >60% or trach/vent 10 injections, bilateral
+B 7-9 Ambulatory, FVC >60% 5 injections, unilateral
+C 10-12 Ambulatory, FVC >60% 10 injections, bilateral
+Abbreviation: FVC, forced vital capacity.
+Glass, Boulis, Johe et al. 1147
+www.StemCells.com
+probably related to the injection procedure itself. One patient
+experienced severe bilateral groin pain following surgery,
+requiring narcotics. This pain resolved by the time of dis-
+charge from hospital. The radicular pains or sensory distur-
+bances reported by the remaining patients were mild and
+transient.
+One patient (number 4) developed a dural ﬁstula and a
+spinal ﬂuid leak, requiring reoperation and closure. This
+adverse event was deﬁnitely related to surgery and is believed
+due to the presence of an extradural drain placed at the time
+of surgical closure. This event led to a change in protocol and
+discontinuing the use of extradural drains. No further dural
+ﬁstulas were encountered. Wound dehiscence requiring resu-
+turing occurred in one patient (number 2).
+MRI scans of the surgical region were done preoperatively
+and at 1, 6, and 12 months after surgery. The scans consis-
+tently showed accumulation of extradural ﬂuid at the site of
+surgical invasion. These ﬂuid collections showed no clinical
+correlate and resolved spontaneously. Representative exam-
+ples of MRI images showing the extradural ﬂuid collections
+are shown in Supporting Information Figure S1.
+Other serious adverse events were: (a) a recurrent but
+transient encephalopathy that could not be attributed to sur-
+gery or cell implantation but may have been due to one or a
+combination of the immunosuppressant drugs (one occur-
+rence); (b) hospitalizations for bronchitis and pneumonia that
+were likely due to the progression of ALS (two occurrences);
+and (c) two patients with pulmonary emboli occurring at 1
+and 12 months postsurgery, respectively. The occurrences of
+pulmonary emboli were likely related to immobility and ALS
+[21].
+There were two deaths. Patient 6 died suddenly and unex-
+pectedly 8 months after surgery. He was doing well in terms
+of the clinical trial, although his ALS was certainly progress-
+ing. Autopsy revealed a congenital bicuspid aortic valve with
+ventricular hypertrophy. The cause of death was likely cardiac
+arrhythmia. Patient 3 died of progressive respiratory failure
+due to progression of his ALS 13 months following surgery.
+The majority of nonserious adverse events were attributed
+to the toxicities of the immunosuppressant drugs. All patients
+tolerated the two doses of basiliximab and the month-long
+treatment with prednisone. However, only seven patients were
+able to tolerate the full doses of both mycophenolate mofetil
+and tacrolimus. Of the remaining ﬁve patients, three have
+stopped tacrolimus, two have stopped mycophenolate, and
+two have stopped both. Dose reductions to manage gastroin-
+testinal (GI) toxicity (chronic diarrhea, abdominal bloating,
+and vomiting) were required in ﬁve patients. Two patients
+remain on reduced doses of mycophenolate, one has returned
+to full dose, and two patients have stopped mycophenolate.
+The dose of tacrolimus was reduced in two patients due to
+vomiting and diarrhea, and three other patients have stopped
+taking tacrolimus. In all cases, it was difﬁcult to decide which
+drug (mycophenolate or tacrolimus) was responsible for the
+GI symptoms. Dose reductions and stopping were done only
+after attempts to control GI symptoms with antigas and anti-
+diarrheal agents.
+Markers of Cellular Rejection
+The HSSCs do not express HLA antigens; however, the HLA
+genotypes are known (Supporting Information Table S1). All
+patients were screened preoperatively for the presence of
+HLA antibodies (PRA test) and were retested at monthly
+intervals following surgery. At study entry, two patients had
+low prevalence class 1 HLA antibodies that were not matched
+to the HLA genotype of the donor stem cells. These partici-
+pants continued to show these antibodies after surgery and
+did not generate any new antibodies with different HLA spe-
+ciﬁcities. In the remaining 10 patients, including those who
+stopped immunosuppressive drugs, monthly testing for the
+presence of new HLA antibodies was consistently negative.
+Infection Due to Immunocompromise
+As part of the screening process, all patients were tested for
+evidence of present or past infection with hepatitis viruses,
+herpes 1 and 2, CMV and Epstein–Barr virus, HIV, and tuber-
+culosis. Active infection was exclusionary (no occurrences).
+Evidence of previous CMV infection (seven patients)
+prompted the treatment with oral valganciclovir for 3 months
+following surgery. Monthly screens by PCR for the presence
+of CMV in blood have been negative in all seven patients.
+There were no clinically manifest occurrences of opportunistic
+infections.
+Outcome Measures
+Patients were followed monthly or bimonthly with standard
+clinical examination, FVC, ALSFRS-R, and HHD. These
+measures of disease status were collected at a single time
+point preoperatively for patients 1-6, and monthly for at least
+3 months prior to surgery for patients 7-12. As shown in
+Figure 1, there was no obvious or consistent acceleration of
+disease progression for any patient as a result of the surgical
+procedure, introduction of HSSCs, or initiation of immuno-
+suppressant treatment. Similarly, there was no consistent indi-
+cation of a positive change in the slope of progression in
+patients 7-12, where preoperative clinical measures identiﬁed
+each patient’s rate of decline. One possible exception
+is patient 11, whose measures of HHD and ALSFRS-R
+Table 3. Patient demographics
+Patient Group Gender
+Age at
+surgery
+Disease duration
+at surgery
+(yrs)
+Implant
+date
+1 A1 Male 61.7 5.2 (trach) 1/20/2010
+2 A1 Male 43.4 12.7 (trach) 3/12/2010
+3 A1 Male 51.1 2.1 4/14/2010
+4 A2 Male 37.5 2.0 (trach) 5/26/2010
+5 A2 Male 66.2 2.2 6/23/2010
+6 A2 Male 55.0 2.2 8/18/2010
+7 B Male 59.0 1.6 10/20/2010
+8 B Male 41.1 5.5 11/17/2010
+9 B Male 54.5 3.5 12/29/2010
+10 C Male 48.9 11 2/9/2011
+11 C Male 39.4 1.5 3/9/2011
+12 C Male 65 3 4/13/2011
+Table 4. Serious adverse event
+SAE name (related to study) No. of subjects
+Transient encephalopathy 1
+Pulmonary emboli 2
+CSF leak 1
+Wound dehiscence 1
+Bronchitis/pneumonia 2
+Dyspnea 1
+Atrial ﬁbrillation 1
+Vomiting 1
+Basal cell carcinoma 1
+Abbreviations: CSF, cerebrospinal ﬂuid; SAE, serious adverse
+events.
+1148 Stem Cell Transplantation for ALS
+improved postoperatively. This ﬁnding must be interpreted
+with caution since there is no published experience with
+monthly clinical measurements for individuals with ALS. All
+published validations of these tools as measures of ALS pro-
+gression are based on populations of patients, not on individu-
+als, measured at /C21 3-monthly intervals. More frequent meas-
+urements of individual patients are likely to identify ‘ ‘noise’ ’
+that may not reﬂect true changes in disease progression.
+EIM, a newer and potentially more powerful biomarker of
+clinical progression, was performed at baseline for patients 1-
+6 and monthly for at least 3 months prior to surgery for
+patients 7-12. The data are summarized in Figure 2, in which
+the major parameter, the 50 kHz phase averaged for all six
+muscles studied, for all 12 patients is plotted against time.
+These ﬁndings demonstrate the consistency of this measure-
+ment, and its ability to be used as a surrogate biomarker of
+disease progression, showing near linear changes in all those
+subjects who did not have end-stage disease and unchanging,
+very low values in those who did. No side-to-side differences
+in subsets of muscles were identiﬁed in those patients who
+had unilateral as compared to those who had bilateral
+injections.
+DISCUSSION
+This phase I trial of spinal cord injections of neural stem cells
+was designed to test the safety and tolerability of this poten-
+tial treatment in patients with motor disabilities due to ALS.
+We began with the most severely affected patients and pro-
+gressed to patients with lesser disability, which we term as an
+‘ ‘escalation of risk’ ’ trial design. Overall, we found that the
+surgical procedure was tolerated quite well, and that there
+were no identiﬁable toxicities attributable to the presence of
+the neural stem cells in the spinal cord. Thus, we consider
+this trial ‘ ‘successful’ ’ thus far, in terms of the stated design
+of testing safety in an ALS population.
+Quantitative measures of disease progression were per-
+formed primarily to monitor whether patients, as a result of
+Figure 1. Quantitative evaluation of disease progression: left column patients 1-6, right column patients 7-12. Note that there was no precipi-
+tous decline in function after surgery for any patient. Patients 1, 2, and 4 do not show FVC scores because they were on mechanical ventilation.
+Patients 1 and 5 did not have measurable HHD scores at any point. Note that patient 11 (dotted line) showed apparent improvement in ALSFRS-
+R and HHD. HHD is shown as the composite ‘ ‘megascore’ ’ for lower extremities, normalized to the percent of the score at baseline. x-Axis is
+days presurgery or postsurgery (day of surgery ¼ day 0). Abbreviations: ALSFRS-R, amyotrophic lateral sclerosis functional rating scale-revised;
+FVC, forced vital capacity; HHD, hand-held dynamometry.
+Glass, Boulis, Johe et al. 1149
+www.StemCells.com
+the stem cell transplant, deteriorated from their preoperative
+course of disease progression. These data were more mean-
+ingful for patients 7 through 12, since this group was eval-
+uated monthly for at least 3 months prior to surgery so the
+individual slopes of decline could be estimated. We did not
+perform these preoperative measurements for subjects 1
+through 6 since these patients were nonambulatory and it was
+unreasonable to expect measurable changes in lower extremity
+strength, functional ability, or electrical impedance. As shown
+graphically in Figure 1 and conﬁrmed by clinical assessment
+and the subjects’ personal reports, there was no evidence for
+signiﬁcant decline in function or acceleration of disease pro-
+gression following surgical intervention and injection of the
+stem cells. An important ﬁnding was that our repeated meas-
+urements from HHD, ALSFRS-R, FVC, and EIM were quite
+consistent, suggesting that these assessments will be useful
+for future therapeutic trials of stem cell and other types of
+treatments.
+There was, and continues to be, a major interest in
+whether the stem cell injections had any beneﬁcial effect on
+the course of disease, even though the purpose of this phase I
+trial was to generate data on safety of the procedure. We can-
+not report with certainty that any patient either improved or
+plateaued in the rate of progression following surgery. How-
+ever, the intensive and repeated monitoring of patients did
+show consistent positive changes in one patient. In patient 11,
+the ALSFRS-R and HHD lower extremity megascore showed
+what appears to be signiﬁcant improvement following surgery.
+Although exciting, these data demonstrating clinical improve-
+ment in one patient must be interpreted with caution. There is
+certainly no control group in this trial, and explanations other
+than an effect of the stem cells must be considered, including
+the possibility that the immunosuppressive regimen caused
+improvement. In addition, the repeated measurements of dis-
+ease severity ﬂuctuated, even prior to surgery, suggesting that
+any single measure of disease severity must be interpreted in
+the context of trends over several months. For example,
+patient 8 showed consistent improvement of ALSFRS-R for
+each of the 3 months leading up to surgery, which likely
+reﬂects variability of the measurement rather than true disease
+improvement. Each of the clinical measures, because they
+require subjective interpretation of function and/or physical
+effort on the part of the patient, is subjected to day to day
+variability. Indeed, the use of these measures for calculation
+of the rate of disease progression has only been validated for
+groups of patients evaluated at intervals of /C21 3 months, not
+for individual patients monitored monthly.
+The quantitative assessment that showed the least ‘ ‘noise’ ’
+between evaluations was EIM. In nonambulatory subjects 3
+and 6, who did not have end-stage disease affecting the lower
+limb muscles, this measurement of muscle composition and
+structure showed steady decline after stem cell injection that
+was consistent with the other clinical measurements of disease
+progression. In patients with end-stage lower limb disease
+(patients 1, 2, 4, and 5), consistent, relatively unchanged data
+were obtained during the entire study period. The EIM data in
+the ambulatory patients reﬂected the clinical decline in
+patients 7, 10, and 12. The remarkable improvement in
+ALSFRS-R and the lower extremity HHD megascore for
+patient 11 was also seen with EIM, although the improvement
+in EIM lagged behind the measures of ALSFRS-R and HHD.
+Since EIM is a measure of the integrity of the muscle itself
+and not the input of its parent motor neurons, changes in EIM
+are not expected to occur simultaneously with clinical per-
+formance of a muscle. Given the relative ease of application,
+the high intersession repeatability, and the lack of subjective
+effort required on the part the patient, the use of EIM as an
+outcome measure for future clinical trials should be consid-
+ered, although EIM has not yet been validated as a marker of
+disease progression in a large longitudinal cohort of ALS
+patients.
+The major toxicity for patients was related to the use of
+the immunosuppressant drugs tacrolimus and mycophenolate
+mofetil. The majority of patients either stopped one or both
+drugs, or required dose reduction due to GI symptoms of nau-
+sea, diarrhea, or anorexia. These toxicities are well known for
+both of these medications, limiting their use for a variety of
+clinical applications. One patient developed a skin cancer (ba-
+sal cell carcinoma) that was cured with excision and may
+have been related to the immunosuppression. We did not en-
+counter any major opportunistic infections associated with the
+immunosuppression, although three patients developed fungal
+skin infections in the groin region (tinea cruris).
+The immunosuppression protocol was designed based on a
+standard protocol used for whole organ transplantation (i.e.,
+kidney, heart, and liver). Since there was no previous experi-
+ence with immunogenicity of transplantation of allogeneic
+fetal-derived stem cells into the nervous system, we decided
+to take a conservative approach at preventing rejection rather
+than risking the loss of cells due to immunogenicity. It is
+Figure 2. Disease progression as measured using electrical impedance myography (EIM). Average 50 kHz phase for the six muscles studied
+(bilateral quadriceps, tibialis anterior, and medial gastrocnemius) in all 12 subjects. The lines represent linear ﬁts of the data. Note again the con-
+sistent improvement in EIM score for patient 11 after surgery (dotted line).
+1150 Stem Cell Transplantation for ALS
+encouraging to note that the postoperative PRA screens at
+months 9–12 did not identify HLA antibodies to the HSSCs
+in any patient, even those who stopped immunosuppressant
+medications 1–3 months after transplantation because of GI
+toxicity. However, we will need to evaluate the survival of
+transplanted cells at autopsy, comparing patients on or off of
+immunosuppression at the time of death.
+CONCLUSIONS
+In summary, we have successfully treated 12 ALS patients
+with unilateral or bilateral intraspinal injections of neural
+stem cells. All patients tolerated the procedure without major
+surgical complications, and there are no indications to date
+that the stem cells themselves are either toxic or injurious to
+the spinal cord. Our quantitative clinical assessments showed
+no evidence of acceleration of disease following stem cell
+injections, meeting our stated goal of proving safety for this
+phase I trial. We have cautious optimism that a few of the
+patients may have slowed in their progression of lower ex-
+tremity weakness, and one patient may have improved. Cer-
+tainly, prolongation of life for patients with ALS will require
+therapeutic intervention at the level of the cervical spinal
+motor neurons affecting respiratory function. To reach this
+ultimate goal, we plan to move to injections into the cervical
+spinal cord, which is the next stage of this phase I trial.
+ACKNOWLEDGMENTS
+We thank the study participants and their families for their trust
+and their dedication to advancing ALS therapeutics. Thank you
+to Jane Bordeau and Latoya Shaw for help with patient assess-
+ments and to the staff of the Emory ALS Center. This study was
+funded by NeuralStem, Inc. Dr. Boulis is the inventor of devices
+to enable safe and accurate injection of the human spinal cord.
+Neuralstem, Inc. has purchased an exclusive license to this tech-
+nology. Dr. Boulis received an inventors share of this fee and has
+the rights to royalty payments for distribution of this technology.
+DISCLOSURE OF POTENTIAL
+CONFLICTS OF INTEREST
+E.L.F. was supported by Novartis Pharmaceuticals (consultant/
+advisory role) and J.D.G. has received research funding from
+Neuralstem, Inc.
+REFERENCES
+1 Lunn JS, Sakowski SA, Federici T et al. Stem cell technology for the
+study and treatment of motor neuron diseases. Regen Med 2011;6:
+201–213.
+2 Di Giorgio FP, Carrasco MA, Siao MC et al. Non-cell autonomous
+effect of glia on motor neurons in an embryonic stem cell-based ALS
+model. Nat Neurosci 2007;10:608–614.
+3 Webber DJ, Minger SL.Therapeutic potential of stem cells in central
+nervous system regeneration. Curr Opin Investig Drugs 2004;5:
+714–719.
+4 Yu D, Silva GA.Stem cell sources and therapeutic approaches for cen-
+tral nervous system and neural retinal disorders. Neurosurg Focus
+2008;24:E11.
+5 Mazzini L, Vercelli A, Mareschi K et al. Mesenchymal stem cells for
+ALS patients. Amyotroph Lateral Scler 2009;10:123–124.
+6 Guo X, Johe K, Molnar P et al. Characterization of a human fetal spi-
+nal cord stem cell line, NSI-566RSC, and its induction to functional
+motoneurons. J Tissue Eng Regen Med 2010;4:181–193.
+7 Xu L, Yan J, Chen D et al. Human neural stem cell grafts ameliorate
+motor neuron disease in SOD-1 transgenic rats. Transplantation 2006;
+82:865–875.
+8 Cizkova D, Kakinohana O, Kucharova K et al. Functional recovery in
+rats with ischemic paraplegia after spinal grafting of human spinal
+stem cells. Neuroscience 2007;147:546–560.
+9 Xu L, Ryugo DK, Pongstaporn T et al. Human neural stem cell grafts
+in the spinal cord of SOD1 transgenic rats: Differentiation and struc-
+tural integration into the segmental motor circuitry. J Comp Neurol
+2009;514:297–309.
+10 Brooks BR, Miller RG, Swash M et al. El Escorial revisited: Revised
+criteria for the diagnosis of amyotrophic lateral sclerosis. Amyotroph
+Lateral Scler Other Motor Neuron Disord 2000;1:293–299.
+11 Johe KK, Hazel TG, Muller T et al. Single factors direct the differen-
+tiation of stem cells from the fetal and adult central nervous system.
+Genes Dev 1996;10:3129–3140.
+12 Yan J, Xu L, Welsh AM et al. Extensive neuronal differentiation of
+human neural stem cell grafts in adult rat spinal cord. PLoS Med
+2007;4:e39.
+13 Kollewe K, Mauss U, Krampﬂ K et al. ALSFRS-R score and its ratio:
+A useful predictor for ALS-progression. J Neurol Sci 2008;275:69–73.
+14 Andres PL, Finison LJ, Conlon T et al. Use of composite scores
+(megascores) to measure deﬁcit in amyotrophic lateral sclerosis. Neu-
+rology 1988;38:405–408.
+15 Rutkove SB, Zhang H, Schoenfeld DA et al. Electrical impedance
+myography to assess outcome in amyotrophic lateral sclerosis clinical
+trials. Clin Neurophysiol 2007;118:2413–2418.
+16 Leigh PN, Swash M, Iwasaki Y et al. Amyotrophic lateral sclerosis: A
+consensus viewpoint on designing and implementing a clinical trial.
+Amyotroph Lateral Scler Other Motor Neuron Disord 2004;5:84–98.
+17 Raore B, Federici T, Taub J et al. Cervical multilevel intraspinal stem
+cell therapy: Assessment of surgical risks in Gottingen minipigs. Spine
+(Phila Pa 1976) 2011;36:E164–E171.
+18 Riley J, Butler J, Park J et al. Targeted spinal cord therapeutics deliv-
+ery: Stabilized platform and MER guidance validation. Stereotac
+Funct Neurosurg 2007;86:67–74.
+19 Riley J, Federici T, Park J et al. Cervical spinal cord therapeutics
+delivery: Preclinical safety validation of a stabilized microinjection
+platform. Neurosurgery 2009;65:754–761; discussion761–752.
+20 Riley JP, Raore B, Taub JS et al. Platform and cannula design
+improvements for spinal cord therapeutics delivery. Neurosurgery
+2011;69:147–155.
+21 Gil J, Funalot B, Verschueren A et al. Causes of death amongst
+French patients with amyotrophic lateral sclerosis: A prospective
+study. Eur J Neurol 2008;15:1245–1251.
+See www.StemCells.com for supporting information available online.
+Glass, Boulis, Johe et al. 1151

@@ -1,0 +1,1423 @@
+www.thelancet.com   Published online December 4, 2017   http://dx.doi.org/10.1016/S0140-6736(17)33105-7 1
+Articles
+Safety, tolerability, and immunogenicity of two Zika virus 
+DNA vaccine candidates in healthy adults: randomised, 
+open-label, phase 1 clinical trials
+Martin R Gaudinski*, Katherine V Houser*, Kaitlyn M Morabito, Zonghui Hu, Galina Yamshchikov, Ro Shauna Rothwell, Nina Berkowitz, 
+Floreliz Mendoza, Jamie G Saunders, Laura Novik, Cynthia S Hendel, LaSonji A Holman, Ingelise J Gordon, Josephine H Cox, Srilatha Edupuganti, 
+Monica A McArthur, Nadine G Rouphael, Kirsten E Lyke, Ginny E Cummings, Sandra Sitar, Robert T Bailer, Bryant M Foreman, 
+Katherine Burgomaster, Rebecca S Pelc, David N Gordon, Christina R DeMaso, Kimberly A Dowd, Carolyn Laurencot, Richard M Schwartz, 
+John R Mascola, Barney S Graham, Theodore C Pierson, Julie E Ledgerwood, Grace L Chen, and the VRC 319 and VRC 320 study teams
+Summary
+Background The Zika virus epidemic and associated congenital infections have prompted rapid vaccine development. 
+We assessed two new DNA vaccines expressing premembrane and envelope Zika virus structural proteins.
+Methods We did two phase 1, randomised, open-label trials involving healthy adult volunteers. The VRC 319 trial, 
+done in three centres, assessed plasmid VRC5288 (Zika virus and Japanese encephalitis virus chimera), and the VRC 
+320, done in one centre, assessed plasmid VRC5283 (wild-type Zika virus). Eligible participants were aged 18–35 years 
+in VRC19 and 18–50 years in VRC 320. Participants were randomly assigned 1:1 by a computer-generated 
+randomisation schedule prepared by the study statistician. All participants received intramuscular injection of 4 mg 
+vaccine. In VRC 319 participants were assigned to receive vaccinations via needle and syringe at 0 and 8 weeks, 0 and 
+12 weeks, 0, 4, and 8 weeks, or 0, 4, and 20 weeks. In VRC 320 participants were assigned to receive vaccinations at 0, 
+4, and 8 weeks via single-dose needle and syringe injection in one deltoid or split-dose needle and syringe or needle-
+free injection with the Stratis device (Pharmajet, Golden, CO, USA) in each deltoid. Both trials followed up volunteers 
+for 24 months for the primary endpoint of safety, assessed as local and systemic reactogenicity in the 7 days after each 
+vaccination and all adverse events in the 28 days after each vaccination. The secondary endpoint in both trials was 
+immunogenicity 4 weeks after last vaccination. These trials are registered with ClinicalTrials.gov, numbers 
+NCT02840487 and NCT02996461.
+Findings VRC 319 enrolled 80 participants (20 in each group), and VRC 320 enrolled 45 participants (15 in each group). 
+One participant in VRC 319 and two in VRC 320 withdrew after one dose of vaccine, but were included in the safety 
+analyses. Both vaccines were safe and well tolerated. All local and systemic symptoms were mild to moderate. In both 
+studies, pain and tenderness at the injection site was the most frequent local symptoms (37 [46%] of 80 participants in 
+VRC 319 and 36 [80%] of 45 in VRC 320) and malaise and headache were the most frequent systemic symptoms 
+(22 [27%] and 18 [22%], respectively, in VRC 319 and 17 [38%] and 15 [33%], respectively, in VRC 320). For VRC5283, 14 
+of 14 (100%) participants who received split-dose vaccinations by needle-free injection had detectable positive antibody 
+responses, and the geometric mean titre of 304 was the highest across all groups in both trials. 
+Interpretation VRC5283 was well tolerated and has advanced to phase 2 efficacy testing.
+Funding Intramural Research Program of the Vaccine Research Center, National Institute of Allergy and Infectious 
+Diseases, National Institutes of Health.
+Introduction
+Zika virus is the latest arboviral infection to cause epidemic 
+disease in the western hemisphere. 1 That this flavivirus 
+can infect human beings has been known for 70 years,2 but 
+it was not judged to be a public health threat until outbreaks 
+occurred in Yap Island in 2006,
+3 French Polynesia in 2013,4 
+and the Americas and southeast Asia in 2015.5 Zika virus 
+infection causes clinical symptoms in about 20% of 
+individuals, of which macular or papular rash, fever, 
+arthritis, arthralgia, non-purulent conjuncti
+ vitis, myalgia, 
+headache, retro-orbital pain, oedema, and vomiting are
+ 
+most frequent.3 Aedes spp mosquitoes are the main sources 
+of infection, but sexual6 and other forms of transmission 
+are possible and can lead to spread to non-endemic 
+regions.
+7,8 Over 700  000 cases of autochthonous Zika  
+virus infection have been reported in the Americas since 
+2015,
+9 and have revealed previously unrecognised sequelae. 
+In December, 2015, the Pan American Health Organization 
+and WHO issued an alert linking Zika virus infection with 
+Guillain-Barré syndrome and congenital malformations, 
+including microcephaly. WHO later declared Zika virus to 
+be a Public Health Emergency of International Concern.
+10 
+The causal links between Zika virus infection with these 
+syndromes are supported,
+11 but the mechanism of 
+infection-related microcephaly is un  known and its 
+epidemiology 
+is complex.12 As no effective treatments are 
+Published Online 
+December 4, 2017 
+http://dx.doi.org/10.1016/ 
+S0140-6736(17)33105-7
+See Online/Comment 
+http://dx.doi.org/10.1016/
+S0140-6736(17)33107-0
+*Contributed equally
+Vaccine 
+Research Center 
+(M R Gaudinski MD, 
+K V Houser PhD, 
+K M Morabito PhD, 
+G Yamshchikov MSc, 
+R S Rothwell PhD, 
+N Berkowitz MPH, 
+F Mendoza RN, 
+J G Saunders BSN, L Novik RN, 
+C S Hendel CRNP, 
+L A Holman FNP, I J Gordon RN, 
+J H Cox PhD, S Sitar MSc, 
+R T Bailer PhD, C Laurencot PhD, 
+R M Schwartz PhD, 
+Sen NIH Investigator 
+J R Mascola MD, 
+Sen NIH Investigator 
+B S Graham MD, 
+Sen NIH Investigator 
+J E Ledgerwood DO, 
+G L Chen MD), Biostatistics 
+Research Branch, Division of 
+Clinical Research (Z Hu PhD), 
+and Viral Pathogenesis Section  
+(B M Foreman MS, 
+K Burgomaster MS, R S Pelc PhD, 
+D N Gordon MS, C R DeMaso MS, 
+K A Dowd PhD, 
+Sen NIH Investigator 
+T C Pierson PhD), National 
+Institute of Allergy and 
+Infectious Diseases, National 
+Institutes of Health, Bethesda, 
+MD, USA; Department of 
+Medicine, Division of 
+Infectious Diseases, Hope 
+Clinic of the Emory Vaccine 
+Center, Emory School of 
+Medicine, Decatur, GA, USA 
+(S Edupuganti MD, 
+N G Rouhpael MD); and 
+University of Maryland Center 
+for Vaccine Development, 
+University of Maryland School 
+of Medicine, Baltimore, MD, 
+USA (M A McArthur MD, 
+Articles
+2 www.thelancet.com   Published online December 4, 2017   http://dx.doi.org/10.1016/S0140-6736(17)33105-7
+yet available and infection is often sub clinical, development 
+of a preventive vaccine is urgently needed.
+DNA vaccines are safe and immunogenic for many
+ 
+pathogens, including flaviviruses, although none has 
+been licensed for use in human beings.13–17 A DNA vaccine 
+consists of a plasmid containing coding DNA sequences 
+for virus-specific antigens, a promoter region that enables 
+transcription, and a polyadenylation sequence that facili
+-
+tates protein 
+translation. Importantly, once a manu -
+facturing process and the safety and immuno  genicity of 
+the plasmid have been established, the coding sequences
+ 
+can be changed to those for other known antigens to 
+accelerate identification of novel candidate vaccines, and 
+in some cases reduce the regulatory requirements with 
+minimal preclinical toxicity data. The established manu
+-
+facturing technologies, previous data on toxicity and 
+safety
+,18 inherent DNA stability, and ability to elicit 
+antibody and CD8 T-cell responses make DNA vaccines 
+an attractive option for rapidly responding to emerging 
+infectious diseases.
+The Vaccine Research Center (VRC) of the National 
+Institute of Allergy and Infectious Diseases (NIAID), 
+National Institutes of Health (NIH), Bethesda, MD, USA, 
+has experience developing DNA vaccines against viruses 
+including HIV, Ebola virus, severe acute respiratory 
+syndrome coronavirus, influenza virus, and West Nile 
+virus.
+13,14,16,17,19 The VRC used this experience to develop 
+two DNA vaccine candidates, VRC5288 and VRC5283, 
+against Zika virus. We used West Nile virus vaccines as 
+templates because of the expected biological similarity 
+between members of the Flavivirus genus, and because 
+they have been safe and have induced substantial and 
+durable neutralising activity in clinical trials.
+16 Into the 
+plasmid backbone, we inserted sequences from Zika 
+virus prM and E genes, which encode protein prM (prM) 
+and envelope protein E (E), respectively. When these 
+proteins are expressed in mammalian cells, they 
+assemble into subviral particles that are non-infectious 
+but have structural and antigenic similarities to virion 
+particles and can induce protective immune responses.
+20,21 
+Because preclinical studies were being done in parallel 
+with manufacturing, initial product choice was based on 
+in-vitro data and the final choice was based on animal 
+model data. Therefore, we assessed two DNA vaccine 
+candidates that expressed different prM and E antigen 
+designs because we were uncertain that preclinical 
+K E Lyke MD, 
+G E Cummings CRNP) 
+Correspondence to: 
+Dr Grace L Chen, Vaccine 
+Research Center
+, Clinical Trials 
+Program, National Institute of 
+Allergy and Infectious Diseases, 
+National Institutes of Health, 
+Bethesda, MD 20892, USA 
+grace.chen@nih.gov
+Research in context
+Evidence before this study
+The Zika virus has been recognised as a pathogenic flavivirus for 
+over 70 years, but was uncharacterised as a pathogen because 
+the threat to public health was limited. Outbreaks in the Pacific 
+region and Brazil led to its recognition as an emerging infectious 
+disease. Previously unknown sequelae of Zika virus infection, 
+most notably congenital abnormalities, served as the impetus 
+for accelerated vaccine development. The Vaccine Research 
+Center, National Institute of Allergy and Infectious Diseases, 
+National Institutes of Health, Bethesda, MD, USA, has 
+experience in developing vaccines to protect against emerging 
+infectious diseases, in general, especially against flaviviruses. We 
+searched PubMed with the terms “Zika virus”, “Zika vaccine”, 
+“flavivirus”, and “DNA vaccine.” We did not use any other search 
+parameters. We also used news alerts from WHO, Pan American 
+Health Organization, and Centers for Disease Control and 
+Prevention to identify reports. We retrieved 11
+ 445 papers. 
+T
+wo papers provided evidence for immunogenicity and safety 
+of the DNA vaccine platform, given via a needle-free injector 
+system of administration for a different flavivirus (West Nile 
+virus). The DNA vaccine platform was attractive in this context 
+because it allowed for the modification of a previously validated 
+plasmid backbone, which helped facilitate rapid preclinical 
+development, manufacturing, and regulatory approval of a first-
+in-human vaccine candidate. We also found that using a needle-
+free injection device could augment immune responses to DNA 
+vaccines compared with administration via needle and syringe.
+Added value of this study
+Use of previously approved plasmid backbones enabled rapid 
+development and approval of two DNA vaccines for testing in 
+phase 1 studies, and our safety data support this approach. 
+Human immunogenicity data alone, as relates to efficacy, do 
+not currently exist for any Zika virus vaccine. Therefore, human 
+data need to be assessed relative to data derived from animal 
+challenge models to indicate which candidates are likely to 
+succeed in later-stage trials. The results of our two studies and 
+findings from non-human primate studies provided sufficient 
+evidence to support testing of VRC5283 in regions with 
+endemic Zika virus to assess efficacy.
+Implications of all the available evidence
+VRC5288 and VRC5283 were safe and immunogenic in 
+previous non-human primate studies, eliciting robust 
+neutralising antibody responses and protecting the animals 
+from subsequent viral challenge. In our phase 1 clinical trials, 
+these DNA vaccines were safe and well tolerated in healthy 
+adults and led to the production of detectable cellular 
+responses and neutralising antibody responses against the 
+Zika virus proteins. Administration of the VRC5283 vaccine 
+by needle-free injection resulted in the highest magnitude 
+humoral and cellular responses. While these clinical data 
+indicate that the DNA vaccine candidates are viable options 
+for use against Zika virus infection, additional clinical trials 
+are needed to further the development of VRC5283 and to 
+determine efficacy in at-risk populations. Our previous 
+experience with development of vaccines against emerging 
+diseases shows that rapid development of vaccines requires 
+cooperation between the scientific, medical, regulatory, and 
+political communities toward a common goal.
+Articles
+www.thelancet.com   Published online December 4, 2017   http://dx.doi.org/10.1016/S0140-6736(17)33105-7 3
+expression and immunogenicity data would predict 
+clinical outcomes.
+VRC5288 and VRC5283 are similar, but VRC5288 has 
+an E region that contains both Zika virus and Japanese 
+encephalitis virus sequences, whereas VRC5283 has an E 
+region that contains wild-type Zika virus sequences. The 
+E protein produced by VRC5288 is chimeric, with the 
+extracellular region being of Zika virus origin and the stem 
+and transmembrane regions being made up of 
+98 aminoacids from the Japanese encephalitis virus. This 
+Japanese encephalitis virus sequence was used because it 
+improved the release of subviral particles in non-human 
+primates, which was thought to have potential for 
+improving immunogenicity, but, without surface exposure 
+on mature particles, were not expected to contribute 
+otherwise to the induction of protective immunity to 
+Japanese encephalitis virus.
+22
+In non-human primates, the two Zika virus vaccine 
+candidates induced robust neutralising antibody res ponses 
+af
+ter two doses given 4 weeks apart. 17 of 18 animals who 
+received two 4 mg doses of VRC5288 or two 4 mg or 1 mg 
+doses of VRC5283 were protected from viraemia following 
+Zika virus challenge 8 weeks after vaccination.
+22 The 
+animal that broke through received two 4 mg doses of 
+VRC5288. Based on these findings, both vaccines were 
+advanced into phase 1 clinical trials to assess safety, 
+tolerability, and immunogenicity in human beings before 
+selecting one to advance into the next stage of development. 
+Here we report the initial findings of both trials.
+Methods
+Study design and participants
+VRC 319 and VRC 320 are phase 1, randomised, open-label 
+clinical trials of Zika virus DNA vaccine candidates. 
+Eligible participants were healthy adults, aged 18–35 years 
+in VRC 319 and 18–50 years in VRC 320, without abnormal 
+findings in clinical laboratory tests, medical history, or 
+physical examinations. Volunteers for VRC 319 were 
+recruited at the NIH Clinical Center, Bethesda, MD, 
+and the University of Maryland Center for Vaccine 
+Development, Baltimore, MD, USA, and the Hope Clinic 
+of the Emory Vaccine Center, Decatur, GA, USA, and those 
+for VRC 320 were recruited at the NIH Clinical Center.
+The NIAID institutional review board reviewed and 
+approved the protocols, and provided oversight for both 
+studies. Reliance agreements with the University of 
+Maryland and Emory Federalwide Assurance were in place 
+for VRC 319. We followed the Department of Health and 
+Human Services guidelines for the protection of human 
+beings in research, and all participants provided written 
+informed consent before enrolment.
+Randomisation and masking
+In both trials, we used computer-generated randomisation 
+schedules prepared in advance by the study statistician to 
+assign participants to vaccination groups. The schedules 
+were provided to the study site pharmacies and the data 
+management centre. Research nurses enrolled partici
+-
+pants. In VRC 319 participants were assigned 1:1 to four 
+different vaccination schedules. In VRC 320 participants
+ 
+were assigned 1:1 to three groups of single-dose or split-
+dose vaccination. 
+Vaccines
+The vaccines consist of phosphate buffered saline, purified 
+plasmid comprising mammalian expression control 
+elements, coding sequences for Zika virus prM and E 
+from a French Polynesia isolate (strain H/PF/2013), and 
+standard bacterial origin of replication and selection 
+elements. In the VRC5288 vaccine, the Zika virus coding 
+sequence was modified by substituting Japanese 
+encephalitis virus sequences for the stem and trans
+-
+membrane regions of the E protein, and in both vaccines, 
+the prM
+ signal sequence in the Zika virus coding sequence 
+was exchanged with an analogous Japanese encephalitis 
+virus region to improve secretion of Zika subviral particles 
+from transfected cells. Both vaccines were manufactured 
+by the VRC Pilot Plant, operated under contract by Leidos 
+Biomedical Research (Frederick, MD, USA) according to 
+Good Manufacturing Practices, and supplied in doses of 
+4 mg/mL.
+Study procedures
+4 mg vaccine was given in all vaccinations. Volunteers 
+enrolled into VRC 319 received VRC5288 as single 
+intramuscular injections given via needle and syringe. 
+Group 1 received vaccine on weeks 0 and 8, group 2 on 
+weeks 0 and 12, group 3 on weeks 0, 4, and 8, and group 4 
+on weeks 0, 4, and 20. VRC 319 was originally designed to 
+assess VRC5288 delivered by the needle-free Stratis 
+device (Pharmajet, Golden, CO, USA), but a modification 
+was needed to deliver a DNA vaccine with high viscosity 
+that was not made in time for the trial. The device, 
+therefore, was only used in the VRC 320 trial. Volunteers 
+enrolled into VRC 320 received VRC5283 on weeks 0, 4, 
+and 8. Group 1 received single doses given via needle and 
+syringe into one deltoid; group 2 received split doses 
+(2 mg each), one in each deltoid, given via needle and 
+syringe; and group 3 received split doses (2 mg each), 
+one into each deltoid, given via syringe and needle-free 
+device, in which a spring-powered injector pressurises a 
+narrow stream of vaccine into the tissue without electro
+-
+poration or other externally applied factors.
+Outcomes
+The primary endpoint was vaccine safety, assessed by 
+local and systemic reactogenicity. Safety and tolerability 
+were monitored by clinical and laboratory assessments. 
+Participants used diary cards to record local and systemic 
+reactogenic events occurring in the 7 days after each 
+injection. All adverse events occurring within 28 days 
+after each injection were recorded by clinic staff. Serious 
+adverse events were recorded for the entire duration of 
+the study. These were classified as events or suspected 
+Articles
+4 www.thelancet.com   Published online December 4, 2017   http://dx.doi.org/10.1016/S0140-6736(17)33105-7
+adverse reactions that, in the view of the investigator or 
+study sponsor, led to death, a life-threatening event, 
+admission to hospital or pro
+ longation of a hospital stay, 
+inability to continue normal life functions, or a congenital 
+anomaly or birth defect, or led to a medical or surgical 
+intervention to prevent one of these outcomes. W
+e used 
+the FDA toxicity grading scale for healthy adults and 
+adolescent volunteers enrolled in preventive vaccine 
+clinical trials. Secondary endpoints were immuno
+-
+genicity assessed by a reporter virus particle neutralisation 
+assay and antigen-specific T-cell response.
+Neutralising antibody responses
+Vaccine antibody response was assessed by measuring 
+Zika-virus-specific neutralising antibodies with a 
+previously described reporter virus particle assay.
+22 
+Briefly, Zika virus reporter virus particles were produced 
+in human embryonic kidney 293 T cells by co-
+transfection with two plasmids, one encoding a green 
+fluorescent protein expression West Nile virus replicon 
+and the other encoding the structural proteins of the 
+Zika virus H/PF/2013 strain. Zika virus reporter virus 
+particles were incubated with serial threefold dilutions 
+of heat-inactivated sera in duplicate technical replicates 
+and added to Raji cells expressing the flavivirus 
+attachment factor DC-SIGNR.
+23 Infected cells expressing 
+green fluorescent protein were counted 24 h after 
+infection by flow cytometry. The dilution of sera needed 
+to neutralise half of infection events (EC
+50) was estimated 
+by non-linear regression with GraphPad Prism version 7 . 
+The initial dilution of sera (1:30) was set as the limit of 
+detection of the assay; EC
+50 values of negative samples 
+were reported as half the limit of detection (1:15). 
+Positive antibody response was defined as a EC 50 greater 
+than or equal to 30.
+T-cell response by intracellular cytokine staining
+We used intracellular cytokine staining to assess T-cell 
+responses, as previously described.
+24 Briefly, cryo preserved 
+peripheral-blood mononuclear cells were stimulated 
+with 
+overlapping peptide pools (length 15 aminoacids, over -
+lapping by 
+11 aminoacids) for the Zika virus E protein, 
+small envelope protein M, and peptide pr. Peripheral-blood 
+mononuclear cells were collected at baseline, at the time of 
+each vaccination, and 4 weeks after each vaccination. Data 
+were analysed with FlowJo software (version 9.9.6, Treestar, 
+Ashland, OR, USA). The proportions of total CD4 and CD8 
+T cells producing interleukin 2, interferon γ, tumour 
+necrosis factor α, or a combination of these cytokines, were 
+quantified. Boolean gating was done and all cytokine-
+positive gates were summed to calculate the total 
+proportion of cytokine-positive cells responding to a 
+peptide pool. For total vaccine responses, the proportions 
+of cytokine-positive T cells responding to pooled peptides 
+were summed. Groups were analysed with background-
+subtracted data for positive change from baseline.
+Statistical analysis
+We calculated sample size primarily on ability to identify 
+serious adverse events. For VRC 319 we estimated that 
+20 participants per group would provide 90% power to 
+detect at least one serious adverse event within a group if 
+the true rate was not less than 0·109. For VRC 320 we 
+estimated that 15 participants per group would provide 
+90% power to detect at least one serious adverse event 
+within a group if the true rate was not less than 0·142.
+154 participants screened for VRC 319 study
+80 participants enrolled
+74 excluded
+ 48 ineligible
+ 11 withdrew consent
+ 14 study closed to accrual
+ 1 lost to follow-up 
+20 assigned to 
+group 1 
+4 mg VRC5288 
+via needle and 
+syringe injection 
+on weeks 0 and 8
+20 assigned to 
+group 2
+4 mg VRC5288 
+via needle and 
+syringe injection 
+on weeks 0 and 
+12
+20 assigned to 
+group 3 
+4 mg VRC5288 
+via needle and 
+syringe injection 
+on weeks 0, 4, 
+and 8
+20 assigned to 
+group 4 
+4 mg VRC5288 
+via needle and 
+syringe injection 
+on weeks 0, 4, 
+and 20*
+15 assigned to
+group 1 
+4 mg VRC5283 
+via single-dose 
+needle and 
+syringe injection, 
+on weeks 0, 4, 
+and 8*
+15 assigned to
+group 2 
+4 mg VRC5283 
+via split-dose 
+needle and 
+syringe injection, 
+on weeks 0, 4, 
+and 8 
+15 assigned to
+group 3 
+4 mg VRC5283 
+via split-dose 
+needle-free 
+injection on 
+weeks 0, 4, 
+and 8*
+105 participants screened for VRC 320 study
+45 participants enrolled
+60 excluded
+ 38 ineligible
+ 12 withdrew consent
+ 9 study closed to accrual
+ 1 lost to follow-up
+Figure 1: Trial profiles
+VRC5288=VRC5288 plasmid backbone with Zika virus and Japanese encephalitis chimeric envelope protein E. VRC5283=VRC5283 plasmid backbone with wild-type 
+Zika virus envelope protein E. *A participant withdrew after one dose of vaccine due to time commitments, precluding further trial participation, but was included in 
+the safety analyses. 
+Articles
+www.thelancet.com   Published online December 4, 2017   http://dx.doi.org/10.1016/S0140-6736(17)33105-7 5
+We calculated group-wise magnitudes of antibody 
+response as geometric mean titres (GMTs) with 95% CIs. 
+We used a two-sample t test to compare group GMTs 
+within and across trials. We compared magnitude of 
+mean T-cell responses before and after vaccination by 
+Wilcoxon’s signed-rank test within groups and by 
+Wilcoxon’s rank sum test between groups. In accordance 
+with the trial protocols, we made no adjustments for 
+multiple comparisons in the analyses of immunogenicity 
+because the trials were not powered to detect differences. 
+We did all statistical analyses with R version 3.4.1. These 
+trials are registered with ClinicalTrials.gov, numbers 
+NCT02840487 and NCT02996461.
+Role of the funding source
+The funder of the study had no role in study design, data 
+collection, data analysis, data interpretation, or writing of 
+the report. The corresponding author had access to all 
+the data in the studies and final responsibility for the 
+decision to submit for publication.
+Results
+We enrolled 80 participants of 154 screened in VRC 319, 
+from Aug 2, 2016, to Sept 29, 2016, and 45 of 105 in VRC 
+320, from Dec 12, 2016, to April 19, 2017 (figure 1). 
+One participant from VRC 319 and two from VRC 320 
+withdrew after one dose of vaccine due to time 
+commitments, precluding further trial participation, but 
+were included in the safety analyses. Follow-up continues, 
+and is expected to close in August, 2018, for VRC 319 and 
+in February, 2019, for VRC 320. In VRC 319, the groups 
+varied by sex and race, but age, body-mass index, and 
+ethnicity were similar, whereas in VRC 320, only race 
+varied notably (table 1).
+Vaccinations were safe and well tolerated in both trials, 
+with local and systemic reactogenic events for VRC5288 
+and VRC5283 being mild to moderate (appendix). In 
+both studies, pain and tenderness at the injection site 
+was the most frequent local event (37 [46%] of 80 
+participants in VRC 319 and 36 [80%] of 45 in VRC 320) 
+and malaise and headache were the most frequent 
+systemic events (22 [27%] and 18 [22%], respectively, in 
+VRC 319 and 17 [38%] and 15 [33%], respectively, in VRC 
+320; table 2) One serious adverse event was reported, 
+which was appendicitis 8 months after vaccination 
+with VRC5288, but was deemed not to be related to 
+vaccination.
+The GMTs after vaccination with VRC5288 in VRC 319 
+were greater after three doses of vaccine than after 
+two doses (table 3, appendix). Positive antibody responses 
+ranged from 60% to 89% 4 weeks after final vaccination 
+(figure 2). The highest GMT and the greatest antibody 
+response and antibody titres were seen in group 4 
+participants after three doses of vaccine with an extended 
+time between the second and third doses (table 3). After 
+the third dose, the GMT was boosted to greater than the 
+GMTs after the second dose in both three-dose groups 
+(p=0·0048 for group 3 and p<0·0001 for group 4, figure 3).
+The GMT achieved with VRC5283 in VRC 320 was 
+substantially higher with needle-free injection in group 3 
+than with needle and syringe administration in groups 1 
+and 2 (table 3). Positive antibody response increased from 
+single-dose needle and syringe administration (77%) to 
+split-dose needle and syringe administration (93%) to 
+split-dose needle-free syringe administration (100%; 
+figure 2). The GMT of 304 in VRC 320 group 3 was the 
+greatest across all groups in both studies (p<0·0001 vs  
+groups 1–3 and p=0·0028 vs group 4 in VRC 319; p=0·0015 
+VRC 319 trial VRC 320 trial
+Group 1 
+(n=20)
+Group 2 
+(n=20)
+Group 3 
+(n=20)
+Group 4 
+(n=20)
+Group 1 
+(n=15)
+Group 2 
+(n=15)
+Group 3 
+(n=15)
+Men 6 (30%) 9 (45%) 14 (70%) 8 (40%) 6 (40%) 6 (40%) 8 (53%)
+Women 14 (70%) 11 (55%) 6 (30%) 12 (60%) 9 (60%) 9 (60%) 7 (47%)
+Age (years)
+Mean (SD) 26·8 (3·0) 28·6 (3·5) 27·9 (4·5) 28·4 (4·0) 30·7 (9·3) 30·5 (8·1) 32·3 (9·8)
+Range 20–34 23–35 22–35 23–35 20–47 22–50 21–50
+Race
+Asian 4 (20%) 0 2 (10%) 1 (5%) 6 (40%) 1 (7%) 1 (7%)
+Black or African American 2 (10%) 6 (30%) 3 (15%) 2 (10%) 1 (7%) 1 (7%) 3 (20%)
+White 14 (70%) 14 (70%) 13 (65%) 14 (70%) 8 (53%) 12 (80%) 9 (60%)
+Multiracial 0 2 (10%) 3 (15%) 0 1 (7%) 2 (13%)
+Ethnicity
+Non-Hispanic Latino 20 (100%) 20 (100%) 20 (100%) 19 (95%) 14 (93%) 11 (73%) 14 (93%)
+Hispanic Latino 0 0 0 1 (5%) 1 (7%) 4 (27%) 1 (7%)
+Body-mass index (kg/m²)
+Mean (SD) 25·8 (5·4) 27·6 (5·7) 26·4 (4·1) 25·3 (3·9) 26·7 (3·0) 24·5 (4·2) 25·2 (3·5)
+Range 18·9–39·6 20·7–39·2 21·3–35·7 19·2–35·1 21·6–32·3 18·7–34·8 19·8–31·8
+Table 1: Baseline characteristics of participants
+See Online for appendix
+Articles
+6 www.thelancet.com   Published online December 4, 2017   http://dx.doi.org/10.1016/S0140-6736(17)33105-7
+VRC5288 VRC5283
+Group 1 
+(n=20)
+Group 2 
+(n=20)
+Group 3 
+(n=20)
+Group 4 
+(n=20)
+Overall 
+(n=80)
+Group 1 
+(n=15)
+Group 2 
+(n=15)
+Group 3 
+(n=15)
+Overall 
+(n=45)
+Local symptoms
+Pain/tenderness
+None 9 (45%) 11 (55%) 10 (50%) 13 (65%) 43 (54%) 4 (27%) 4 (27%) 1 (7%) 9 (20%)
+Mild 11 (55%) 9 (45%) 10 (50%) 7 (35%) 37 (46%) 11 (73%) 10 (67%) 12 (80%) 33 (73%)
+Moderate 0 0 0 0 0 0 1 (7%) 2 (13%) 3 (7%)
+Swelling
+None 19 (95%) 20 (100%) 20 (100%) 20 (100%) 79 (99%) 15 (100%) 15 (100%) 12 (80%) 42 (93%)
+Mild 1 (5%) 0 0 0 1 (1%) 0 0 3 (20%) 3 (7%)
+Redness
+None 19 (95%) 20 (100%) 20 (100%) 16 (80%) 75 (94%) 15 (100%) 15 (100%) 14 (93%) 44 (98%)
+Mild 1 (5%) 0 0 4 (20%) 5 (6%) 0 0 1 (7%) 1 (2%)
+Any
+None 9 (45%) 11 (55%) 10 (50%) 11 (55%) 41 (51%) 4 (27%) 11 (73%) 1 (7%) 9 (20%)
+Mild 11 (55%) 9 (45%) 10 (50%) 9 (45%) 3 (49%) 11 (73%) 3 (20%) 12 (80%) 33 (73%)
+Moderate 0 0 0 0 0 0 1 (7%) 2 (13%) 3 (7%)
+Systemic symptoms
+Malaise
+None 15 (75%) 14 (70%) 15 (75%) 14 (70%) 58 (73%) 10 (67%) 10 (67%) 8 (53%) 28 (62%
+Mild 4 (20%) 5 (25%) 5 (25%) 6 (30%) 20 (25%) 4 (27%) 5 (33%) 6 (40%) 15 (33%)
+Moderate 1 (5%) 1 (5%) 0 0 2 (3%) 1 (7%) 0 1 (7%) 2 (4%)
+Myalgia
+None 17 (85%) 16 (80%) 16 (80%) 14 (70%) 63 (79%) 9 (60%) 14 (93%) 13 (87%) 36 (80%)
+Mild 2 (10%) 3 (15%) 4 (20%) 5 (25%) 14 (18%) 4 (27%) 1 (7%) 1 (7%) 6 (13%)
+Moderate 1 (5%) 1 (5%) 0 1 (5%) 3 (4%) 2 (13%) 0 1 (7%) 3 (7%)
+Headache
+None 16 (80%) 16 (80%) 16 (80%) 14 (70%) 62 (78%) 10 (67%) 15 (100%) 10 (67%) 30 (67%)
+Mild 4 (20%) 2 (10%) 4 (20%) 5 (25%) 15 (19%) 4 (27%) 0 5 (33%) 13 (29%)
+Moderate 0 2 (10%) 0 1 (5%) 3 (4%) 1 (7%) 0 0 2 (4%)
+Chills
+None 20 (100%) 18 (90%) 19 (95%) 17 (85%) 74 (93%) 15 (100%) 15 (100%) 13 (87%) 43 (96%)
+Mild 0 1 (5%) 1 (5%) 3 (15%) 5 (6%) 0 0 1 (7%) 1 (2%)
+Moderate 0 1 (5%) 0 0 1 (1%) 0 0 1 (7%) 1 (2%)
+Nausea
+None 19 (95%) 18 (90%) 20 (100%) 16 (80%) 73 (91%) 14 (93%) 14 (93%) 15 (100%) 43 (96%)
+Mild 1 (5%) 1 (5%) 0 4 (20%) 6 (8%) 1 (7%) 1 (7%) 0 2 (4%)
+Moderate 0 1 (5%) 0 0 (%) 1 (1%) 0 0 0 0
+Joint pain
+None 19 (95%) 20 (100%) 20 (100%) 17 (85%) 76 (95%) 12 (80%) 14 (93%) 12 (80%) 37 (82%)
+Mild 1 (5%) 0 0 3 (15%) 4 (5%) 2 (13%) 1 (7%) 3 (20%) 7 (16%)
+Moderate 0 0 0 0 0 1 (7%) 0 0 1 (2%)
+Temperature
+None 20 (100%) 20 (100%) 20 (100%) 20 (100%) 80 (100%) 15 (100%) 15 (100%) 15 (100%) 45 (100%)
+Any
+None 13 (65%) 13 (65%) 10 (50%) 12 (60%) 48 (60%) 6 (40%) 9 (60%) 6 (40%) 21 (47%)
+Mild 6 (30%) 5 (25%) 10 (50%) 7 (35%) 28 (35%) 7 (47%) 5 (33%) 8 (53%) 20 (44%)
+Moderate 1 (5%) 2 (10%) 0 1 (5%) 4 (5%) 2 (13%) 1 (7%) 1 (7%) 4 (9%)
+VRC5288=VRC5288 plasmid backbone with Zika virus and Japanese encephalitis virus envelope protein E. VRC5283=VRC5283 plasmid backbone with wild-type Zika virus 
+envelope protein E. 
+Table 2: Local and systemic reactogenicity
+Articles
+www.thelancet.com   Published online December 4, 2017   http://dx.doi.org/10.1016/S0140-6736(17)33105-7 7
+GMT (95% CI) Mean change in CD4 response from baseline (95% CI) Mean change in CD8 response from baseline (95% CI)
+E peptides M peptides pr peptides Pooled peptides E peptides M peptides pr peptides Pooled peptides
+VRC 319 trial plasmid VRC5288 (Zika virus/JEV chimera)
+Group 1 67 
+(40 to 114)
+0·031 
+(0 to 0·061); 
+p=0·0362
+0·01 
+(–0·011 to 0·03)
+0·012 
+(–0·006 to 0·029)
+0·051 
+(–0·012 to 
+0·114)
+0·013 
+(–0·005 to 0·032)
+0·017 
+(–0·003 to 0·037)
+0·023 
+(–0·004 to 0·051); 
+p=0·0318
+0·054 
+(–0·007 to 0·115)
+Group 2 55 
+(39 to 78)
+0·037 
+(0·005 to 0·069); 
+p=0·0296
+0·025 
+(–0·004 to 0·054)
+0·022 
+(–0·012 to 0·055)
+0·082 
+(–0·009 to 
+0·173)
+0·023 
+(–0·016 to 0·061)
+0·017 
+(–0·014 to 0·048)
+0·017 
+(–0·018 to 0·051)
+0·056 
+(–0·04 to 0·152)
+Group 3 81 
+(51 to 127)
+0·019 
+(0·002 to 0·037)
+0·006 
+(–0·009 to 0·02)
+0·009 
+(–0·005 to 0·024)
+0·035 
+(0·001 to 0·069)
+0·015 
+(–0·01 to 0·039)
+0·01 
+(–0·011 to 0·031)
+0·026 
+(0·014 to 0·038); 
+p=0·0002
+0·05 
+(0·005 to 0·096); 
+p=0·0304
+Group 4 120 
+(73 to 197)
+0·041 
+(0·018 to 0·063); 
+p=0·0012
+0·005 
+(–0·009 to 0·018)
+0·019 
+(–0·01 to 0·049)
+0·064 
+(0·017 to 0·110); 
+p=0·0108
+0·055, p=0·0046 
+(0·024 to 0·087)
+0·007 
+(–0·007 to 0·021)
+0·024 
+(–0·001 to 0·049); 
+p=0·0494
+0·086 
+(0·039 to 0·134); 
+p=0·0039
+VRC 320 trial plasmid VRC5283 (wild-type Zika virus)
+Group 1 48 
+(28 to 83)
+0·014 
+(–0·014 to 0·042)
+–0·003 
+(–0·012 to 0·007)
+–0·011 
+(–0·04 to 0·018)
+0·002 
+(–0·049 to 
+0·052)
+0·016 
+(–0·005 to 0·037)
+0·002 
+(–0·01 to 0·013)
+0·009 
+(–0·004 to 0·023)
+0·027 
+(–0·007 to 0·061)
+Group 2 150 
+(99 to 226)
+0·036 
+(–0·007 to 0·08)
+0·006 
+(–0·008 to 0·021)
+0·007 
+(–0·012 to 0·025)
+0·05 
+(–0·007 to 
+0·106); 
+p=0·0353
+0·008 
+(–0·043 to 0·06)
+–0·009 
+(–0·032 to 0·015)
+0·018 
+(–0·007 to 0·043)
+0·016 
+(–0·053 to 0·085)
+Group 3 304 
+(215 to 430)
+0·083 
+(0·029 to 0·136); 
+p=0·0001
+0·014 
+(–0·006 to 0·035)
+0·014 
+(–0·003 to 0·032)
+0·111 
+(0·05 to 0·172); 
+p=0·0004
+0·091 
+(0·014 to 0·168); 
+p=0·0004
+–0·007 
+(–0·03 to 0·017)
+0·029 
+(–0·037 to 0·094)
+0·113 
+(0·016 to 0·21); 
+p=0·0166
+Values are displayed as group means; p values are given only for significant differences from baseline. GMT=geometric mean titre. E=envelope protein E. M=small envelope protein M. pr=peptide pr. JEV=Japanese 
+encephalitis virus.
+Table 3: Neutralising antibody titres and T-cell responses 4 weeks after final vaccination  
+Group 1 Group 2
+VRC 319 Study VRC 320 Study 
+Group 3 Group 4 Group 1 Group 2 Group 3
+1
+Log10 EC50 dilution−1
+Vaccination schedule and route
+2
+3
+4
+Participants  with positive
+antibody response
+12/20
+(60%)
+15/20
+(75%)
+16/20
+(80%)
+17/19
+(89%)
+10/13
+(77%)
+14/15
+(93%)
+14/14
+(100%)
+Weeks 0 and 8
+by a single
+N/S dose
+Weeks 0 and 12
+by a single
+N/S dose
+Weeks 0, 4, and 8
+by a single
+N/S dose
+Weeks 0, 4, and 20
+by a single
+N/S dose
+Weeks 0, 4, and 8
+by a single
+N/S dose
+Weeks 0, 4, and 8
+by a split
+N/S dose
+Weeks 0, 4, and 8
+by a split
+needle-free dose
+p=0·0110
+VRC5288 VRC5283
+p≤0·0001
+p=0·0085
+p=0·0015
+Figure 2: Neutralising activity 4 weeks after last vaccination, measured by reporter virus particle assay
+In the VRC 319 study, samples were collected in week 12 for groups 1 and 3, week 16 for group 2, and week 24 for group 4. In the VRC 320 study, all samples were 
+collected at week 12. Data are geometric mean titres and SDs derived from two to four independent assays per sample. The dotted line represents the limit of 
+detection of the assay (dilution 1:30). Negative samples were reported as half the limit of detection (dilution 1:15). EC
+50=dilution of sera required to neutralise half of 
+infection events. N/S=needle and syringe.
+Articles
+8 www.thelancet.com   Published online December 4, 2017   http://dx.doi.org/10.1016/S0140-6736(17)33105-7
+vs group 1 and p=0·0085 vs group 2 in VRC 320; appendix). 
+Split-dose administration of vaccine with needle and 
+syringe also improved GMT compared with single-dose 
+administration via the same method (appendix). In the 
+two groups receiving VRC5283 by needle and syringe, the 
+antibody levels were higher after splitting the dose 
+(p=0·0015 for group 2). Boosting with the third dose only 
+significantly increased the GMT to greater than that after 
+the second dose in group 1 (p=0·0016). EC
+80 results are 
+shown in the appendix.
+4 weeks after last vaccination with VRC5288 in VRC 319, 
+in group 4, T-cell responses to pooled peptides were 
+significantly increased (CD4 p=0·0108 and CD8 cells 
+p=0·0039) compared with baseline (table 3, figure 4). 
+Group 3 showed increased CD8 (p=0·0304) responses to 
+pooled peptides. The greatest T-cell responses overall 
+were seen 4 weeks after needle-free administration of 
+VRC5283 in VRC 320 (table 3, figure 4). CD8 cell counts 
+in participants who received VRC5283 via needle-free 
+injection had increased total cytokine responses 
+compared with baseline for pooled peptides (p=0·0166) 
+and specifically for E-protein peptides (p=0·0004, 
+appendix). CD4 cell counts from this group were also 
+increased with pooled peptides (p=0·0004), again 
+specifically for E-protein peptides (p=0·0001, appendix). 
+VRC5283 given in split doses via needle and syringe also 
+produced a significant CD4 response to pooled peptides 
+(p=0·0353), but not a significant CD8 response. There 
+were no significant responses to small envelope protein M 
+or pr peptide.
+Discussion
+The emergence of Zika virus challenged the scien -
+tific community to address a relatively uncharacterised 
+pathogen posing a substantial threat to international
+ 
+public health. Although symptoms of Zika virus infection 
+are typically mild, infection during pregnancy is asso
+ ciated 
+with a high teratogenic risk. M
+oreover, sexual transmission 
+by travellers to endemic regions might extend the epidemic 
+to non-endemic regions without requiring a mosquito 
+vector. Rapid development of vaccines has, therefore, been 
+started. The two DNA vaccines we assessed were safe and 
+well tolerated, with most adverse events being mild. Both 
+vaccines were immunogenic, but the greatest effects were 
+seen with VRC5283 given in split doses via needle-free 
+injection in the VRC 320 trial.
+Despite the novelty of Zika virus, previous knowledge 
+of flavivirus biology and immunity has pointed towards 
+likely immunogenicity correlates and facilitated develop
+-
+ment of Zika virus vaccines. F
+or example, neutralising 
+activity is an established correlate of protection for most 
+licensed flavivirus vaccines.
+25 In studies of VRC5288 and 
+VRC5283 in non-human primates, neutralising activity 
+correlated with protection against viraemia following 
+1
+Log10 EC50 dilution–1
+2
+3
+4
+Group 1: 0, 8 weeks by a 
+single N/S dose
+VRC 319 study 
+Group 2: 0, 12 weeks by a
+ single N/S dose
+Group 3: 0, 4, 8 weeks by a 
+single N/S dose 
+1
+Log10 EC50 dilution–1
+2
+3
+4
+0 4 8 12
+Time after ﬁrst vaccination (weeks)
+Group 1: 0, 4, 8 weeks by a 
+single N/S dose
+VRC 320 study 
+0 4 8 12
+Time after ﬁrst vaccination (weeks)
+Group 2: 0, 4, 8 weeks by a 
+split N/S dose
+0 4 8 12
+04 81 20 841 21 60 48 12 08 16 2441 22 0
+Time after ﬁrst vaccination (weeks)
+Time after ﬁrst vaccination (weeks)
+Group 3: 0, 4, 8 weeks by a 
+split needle-free dose
+Group 4: 0, 4, 20 weeks by a 
+single N/S dose
+Figure 3: Neutralising activity 4 weeks after each vaccination, measured by reporter virus particle assay
+Each line represents the EC50 of an individual participant over time. Arrows indicate the timings of vaccinations. Values shown are means of two to four independent 
+assays per sample. The dotted line represents the limit of detection of the assay (dilution 1:30). Negative samples were reported as half the limit of detection (dilution 
+1:15). EC
+50=dilution of sera required to neutralise half of infection events. N/S=needle and syringe.
+Articles
+www.thelancet.com   Published online December 4, 2017   http://dx.doi.org/10.1016/S0140-6736(17)33105-7 9
+vaccination and Zika virus challenge. 22 Additionally, the 
+role of antibody-mediated protection against Zika virus 
+infection is supported by protection against infection 
+after adoptive transfer of purified IgG from mice 
+vaccinated with a DNA vaccine against Zika virus into 
+CD4 and CD8 T-cell-depleted mice.
+26 In addition to 
+humoral immunity, cellular immunity might be relevant, 
+particularly because CD8 T-cell responses have been 
+detected in human beings after flavivirus infections.
+27–29 
+With this in mind, the DNA vaccine platform has an 
+advantage over protein-based vaccines because it induces 
+antibody and substantial T-cell responses. CD4 T-cell 
+responses are necessary for optimum memory B-cell 
+response, and CD8 T cells are thought to facilitate viral 
+clearance important to fetal protection.
+30
+Based on our findings, VRC5283 was more promising 
+than VRC5288 to advance into later stage development 
+because 100% (14 of 14) of participants who received the 
+vaccine by needle-free injection in split doses had 
+detectable antibody responses and had neutralising 
+antibody and T-cell responses of the greatest magnitude. 
+Additionally, CD4 and CD8 T-cell responses were greater 
+with VRC5283 than VRC5288. Since VRC5288 encodes 
+the Japanese encephalitis virus E transmembrane 
+sequence, some cellular immune responses induced by 
+vaccination might have been specific to this virus and not 
+captured by our intracellular cytokine staining assay or 
+might not have been able to respond to Zika virus. The 
+wild-type Zika virus E transmembrane protein in the 
+VRC5283 plasmid might, therefore, elicit cellular 
+immune responses to this region, giving this vaccine a 
+further advantage.
+Immune responses differed by vaccine delivery 
+method. Needle-free injectors are known to augment 
+Group 1
+0Week 12 01 60 12 02 4
+Group 2
+CD4 responses CD8 responses
+Group 3 Group 4
+Total cytokine response (%)
+–0·2
+–0·4
+–0·6
+0
+0·2
+0·4
+Weeks 0 and 8 by
+a single N/S dose
+Weeks 0 and 12 by
+a single N/S dose
+Weeks 0, 4, and 8
+by a single N/S dose
+Weeks 0, 4, and 20
+by a single N/S dose
+A
+Group 1
+0 Week 12 01 60 12 02 4
+Group 2 Group 3 Group 4
+Weeks 0 and 8 by
+a single N/S dose
+Weeks 0 and 12 by
+a single N/S dose
+Weeks 0, 4, and 8
+by a single N/S dose
+Weeks 0, 4, and 20
+by a single N/S dose
+Group 1
+0Week 12 01 20 12
+Group 2 Group 3
+Time after ﬁrst vaccination (weeks) Time after ﬁrst vaccination (weeks)
+Total cytokine response (%)
+–0·2
+0
+–0·2
+0·4
+0·6
+Weeks 0, 4, and 8 by
+a single N/S dose
+Weeks 0, 4, and 8 by
+a split N/S dose
+Weeks 0, 4, and 8 by a
+split needle-free dose
+B
+Group 1
+01 20 12 01 2
+Group 2 Group 3
+Weeks 0, 4, and 8 by
+a single N/S dose
+Weeks 0, 4, and 8 by
+a split N/S dose
+Weeks 0, 4, and 8 by a
+split needle-free dose
+p=0·0108
+p=0·0304 p=0·0039
+p=0·0004
+p=0·0353
+p=0·0007
+p=0·0464
+p=0·0166
+p=0·0195
+Week
+Figure 4: Immunogenicity at baseline and 4 weeks after last vaccination, measured by intracellular cytokine staining showing T-cell responses
+(A) VRC 319 study. (B) VRC 320 study. Data are group arithmetic mean proportions and SDs of total T cells producing interleukin 2, interferon γ, tumour necrosis factor α, or a combination of these 
+cytokines, against pooled envelope protein E, small envelope protein M, and peptide pr. N/S=needle and syringe.
+Articles
+10 www.thelancet.com   Published online December 4, 2017   http://dx.doi.org/10.1016/S0140-6736(17)33105-7
+DNA vaccine response, possibly by increased dispersion 
+of injectate or through tissue damage that increases 
+immunogenicity.
+31 The GMT after split-dose needle-free 
+delivery of VRC5283 was six times higher than that after 
+single-dose delivery via needle and syringe. The number 
+of injections was also important, as the GMT achieved 
+after VRC5283 was given in split doses via needle and 
+syringe was two to three times greater than those seen 
+with VRC5288 or VRC5283 given in single doses by the 
+same vaccination schedule. The VRC 319 trial used only 
+needle and syringe delivery and, therefore, we could not 
+compare specific variables responsible for different 
+outcomes between the two trials. In non-human primate 
+studies, however, VRC5288 and VRC5283 were both 
+administered by needle-free injection, and VRC5283 
+prevented viraemia more effectively than VRC5288.
+22
+The antibodies induced by each vaccine are being in -
+vestigated for qualitative differences that might contribute 
+to their differing protective capacity
+. Additionally, dose-
+reduction studies for VRC5283 in non-human primates 
+are being done to define the serological correlate of 
+protection from viraemia. Based on all the available 
+information and the need for a shortened assessment 
+schedule, VRC5283 has been advanced into an inter
+-
+national placebo-controlled phase 2 efficacy trial of 
+vaccination at 0, 4, and 8 weeks via needle-free delivery
+ 
+with the Stratis device (NCT03110770). This study aims 
+to assess safety, immunogenicity, and efficacy in pop
+-
+ulations in regions in South and C
+entral America, the 
+Caribbean, and the USA endemic for Zika virus.
+The basis for comparing the serological correlate of 
+protection from viraemia in non-human primates and 
+vaccine immunogenicity in human volunteers is serum 
+neutralising activity measured by the reporter virus 
+particle assay, which yields highly reproducible and 
+sensitive results. This assay measures inhibition of viral 
+entry across a large dynamic range. Moreover, it has been 
+used extensively to define mechanisms of flavivirus 
+neutralisation and has been a reliable endpoint for 
+determining immune correlates in studies of non-
+human primates
+22 and human beings. 16 The assay 
+correlates with traditional measurements of neutral -
+isation, such as the plaque reduction neutralisation test, 
+that have been used in assessments of previously licensed 
+flavivirus vaccines. The plaque reduction neutralisation 
+test and the microneutralisation assay, however
+, assess 
+entry and spread of replicating virus in cell culture, and 
+might be unable to detect replication-competent virus 
+that is not neutralised at any concentration. In a phase 1 
+trial of another Zika virus DNA vaccine, neither the 
+plaque reduction neutralisation test nor the micro
+-
+neutralisation assay 
+predicted whether passively trans -
+ferred human sera would protect mice against Z
+ika virus 
+challenge.32 Ultimately, efficacy data from field trials will 
+be needed to establish reliable correlates of protection 
+that can be used to refine sufficient doses and schedules 
+for effective immunity.
+Much still needs to be done before any vaccine against 
+Zika virus can be deployed. Human trials so far show data 
+from healthy populations suitable for open-label phase 1 
+trials. Randomsied placebo-controlled efficacy trials in 
+volunteers from regions where Zika virus and other 
+flaviviruses are endemic are still needed. An important 
+limitation in the development of any Zika virus vaccine is 
+the lack of established correlates of protection from fetal 
+malformations. Whether established correlates of pro
+-
+tection from clinical disease in non-teratogenic flavi -
+viruses will be predictive of prevention of fetal disease 
+with Z
+ika virus is unknown. Whether completely 
+preventing viraemia, reducing peak viraemia, or pre -
+venting persistent viraemia in pregnant mothers will 
+provide sufficient fetal protection is also unknown.
+ 
+Similar to the situation for congenital rubella syndrome 
+in the 1960s, sustained epidemiological surveillance of 
+large populations of vaccinated individuals will be needed 
+to confirm effects on congenital infection.  
+A limitation of this study is the small number of 
+participants. This is, however, typical of phase 1 studies. 
+Our studies of two ZIKV DNA vaccines, VRC5288 and 
+VRC5283, advance the effort to quickly curb the effects of 
+the Zika epidemic. VRC5283 showed the most robust 
+neutralising antibody and T-cell responses, and has been 
+advanced into an international phase 2 efficacy trial. 
+Several other vaccine approaches are also being pursued. 
+Findings from a human study of another DNA vaccine 
+have been reported,
+32 and an inactivated vaccine is being 
+assessed in human beings (NCT02963909). Differing 
+vaccines might be designed for distinct target popu
+-
+lations, provide various immune response patterns, and 
+varying durability. As the joint efforts continue and 
+knowledge 
+of the immune response to Zika virus 
+deepens, guidance on developing a definitive solution to 
+the epidemic will improve.
+Contributors
+MRG is the principal investigator of VRC 319. GLC is the principle 
+investigator of VRC 320. CSH, LAH, SE, MAM, NGR, KEL, GEC, and 
+BSG were study investigators. ZH did the statistical analysis. GY , RSR, 
+NB, IJG, JHC, SS, CL, RMS, JRM, BSG, TCP, JEL, and GLC designed 
+the clinical trials. MRG, FM, JGS, LN, CSH, LAH, IJG, SE, MAM, NGR, 
+KEL, and GEC collected data. MRG, KVH, KMM, JHC, RTB, BMF, KB, 
+RSP, DNG, CRD, KAD, JRM, BSG, TCP, JEL, and GLC analysed and 
+interpreted the data. All authors contributed to the writing of the report 
+and approved the final version.
+Declaration of interests
+We declare no competing interests.
+Acknowledgments
+We thank the vaccine trial volunteers for their contribution and 
+commitment to vaccine research. We also acknowledge the contributions 
+of our National Institutes of Health (NIH) Clinical Center and National 
+Institute of Allergy and Infectious Diseases (NIAID) colleagues, 
+including the Regulatory Compliance and Human Subjects Protection 
+Branch of the Division of Clinical Research, and the NIAID Institutional 
+Review Board, the EMMES Corporation, and colleagues at the NIAID 
+Vaccine Research Centre (VRC), including members of the Animal 
+Program, Viral Pathogenesis Laboratory, Virology Core, Vaccine Clinical 
+Materials Program, Vaccine Production Program, and Vaccine 
+Immunology Program. We thank Tracy Ruckwardt, NIAID VRC, for 
+help in analysing the intracellular cytokine staining assay data and 
+Articles
+www.thelancet.com   Published online December 4, 2017   http://dx.doi.org/10.1016/S0140-6736(17)33105-7 11
+Brenda Hartman, NIAID VRC, for assistance with creating the figures. 
+The VRC 319 and VRC 320 study teams at the VRC include 
+Sarah Plummer, Pamela Costner, Kathryn Zephir, Joseph Casazza, 
+Abidemi Ola, Milalynn Victorino, Carol Levinson, William Whalen, 
+Xiaolin Wang, Jennifer Cunningham, Olga Vasilenko, Maria Burgos 
+Florez, Somia Hickman, Iris Pittman, Lam Le, Brenda Larkin, 
+Charla Andrews, Preeti Apte, Renunda Hicks, Cora Trelles Cartagena, 
+Pernell Williams, Catina R Boyd, Michelle Conan-Cibotti, Judy Stein, 
+Florence Kaltovich, Hope DeCederfelt, Stacey McAdams, and 
+Phyllis Renehan. The VRC 319 study team from the University of 
+Maryland Center for Vaccine Development include Wilbur Chen, 
+Nancy Greenberg, Nancy Wymer, Linda Wadsworth, Melissa Billington, 
+Toni Robinson, Colleen Boyce, Faith Pa’ahana Brown, Lisa Chrisley, 
+Alyson Kwon, Prashant Patel, Panagiota Kominou, Brenda Dorsey, 
+Staci Eddington, Shinyi Telscher, and Myoughee Lee. The VRC 319 study 
+team from the Hope Clinic of the Emory Vaccine Center include 
+Regina Mosely, April Ross, Geoffrey Ford, Briyana Domjahn, Jianguo Xu, 
+Allison Beck, Rebecca Fineman, Shiela Heeke, Jean Winter, 
+Shashi Nagar, Colleen Kelley, and Mark Mulligan.
+ 
+References
+1 Fauci AS, M
+orens DM. Zika virus in the Americas—yet another 
+arbovirus threat. N Engl J Med 2016; 374: 601–04.
+2 Dick GW, Kitchen SF, H
+addow AJ. Zika virus. I. Isolations and 
+serological specificity. Trans R Soc Trop Med Hyg 1952; 46: 509–20.
+3 Duffy MR, Chen T-H, H
+ancock WT, et al. Zika virus outbreak on Yap 
+Island, Federated States of Micronesia. N Engl J Med 2009; 
+360: 2536–43.
+4
+ Derraik JG, Slaney D. Notes on Z
+ika virus—an emerging pathogen 
+now present in the South Pacific. Aust NZ J Public Health 2015; 39: 5–7 .
+5 Campos GS, Bandeira AC, S
+ardi SI. Zika virus outbreak, Bahia, Brazil. 
+Emerg Infect Dis 2015; 21: 1885–86.
+6 D’Ortenzio E, Matheron S, Y
+azdanpanah Y , et al. Evidence of sexual 
+transmission of Zika virus. N Engl J Med 2016; 374: 2195–98.
+7 Motta IJ, Spencer BR, C
+ordeiro da Silva SG, et al. Evidence for 
+transmission of Zika virus by platelet transfusion. N Engl J Med 
+2016; 375: 1101–03.
+8
+ Vasquez AM, S
+apiano MR, Basavaraju SV, Kuehnert MJ, 
+Rivera-Garcia B. Survey of blood collection centers and 
+implementation of guidance for prevention of 
+transfusion-transmitted Zika virus infection—Puerto Rico, 2016. 
+MMWR Morb Mortal Wkly Rep 2016; 65: 375–78.
+9
+ Ikejezie J, Shapiro CN, Kim J, et al. Zika virus 
+transmission—region of the Americas, M
+ay 15, 2015–
+December 15, 2016. MMWR Morb Mortal Wkly Rep 2017; 66: 329–34.
+10 Heymann DL, H
+odgson A, Sall AA, et al. Zika virus and microcephaly: 
+why is this situation a PHEIC? Lancet 2016; 387: 719–21.
+11 Krauer F, Riesen M, Reveiz L, et al. Z
+ika virus infection as a cause of 
+congenital brain abnormalities and Guillain-Barré syndrome: 
+systematic review. PLoS Med 2017; 14: e1002203.
+12
+ de Oliveira WK, de Franca GV
+A, Carmo EH, Duncan BB, 
+de Souza Kuchenbecker R, Schmidt MI. Infection-related 
+microcephaly after the 2015 and 2016 Zika virus outbreaks in Brazil: 
+a surveillance-based analysis. Lancet 2017; 390: 861–70.
+13
+ Martin JE, Louder MK, H
+olman LA, et al. A SARS DNA vaccine 
+induces neutralizing antibody and cellular immune responses in 
+healthy adults in a phase I clinical trial. Vaccine 2008; 26: 6338–43.
+14
+ Martin JE, S
+ullivan NJ, Enama ME, et al. A DNA vaccine for Ebola 
+virus is safe and immunogenic in a phase I clinical trial. 
+Clin Vaccine Immunol 2006; 13: 1267–77 .
+15
+ Beckett CG, Tjaden J, B
+urgess T, et al. Evaluation of a prototype 
+dengue-1 DNA vaccine in a phase 1 clinical trial. Vaccine 2011; 
+29: 960–68.
+16
+ Martin JE, P
+ierson TC, Hubka S, et al. A West Nile virus DNA 
+vaccine induces neutralizing antibody in healthy adults during a 
+phase 1 clinical trial. J Infect Dis 2007; 196: 1732–40.
+17
+ Ledgerwood JE, Wei CJ, H
+u Z, et al. DNA priming and influenza 
+vaccine immunogenicity: two phase 1 open label randomised 
+clinical trials. Lancet Infect Dis 2011; 11: 916–24.
+18
+ Sheets RL, Stein J, Manetz TS, et al. T
+oxicological safety evaluation 
+of DNA plasmid vaccines against HIV-1, Ebola, severe acute 
+respiratory syndrome, or West Nile virus is similar despite 
+differing plasmid backbones or gene-inserts. Toxicol Sci 2006; 
+91: 620–30.
+19
+ Graham BS, K
+oup RA, Roederer M, et al. Phase 1 safety and 
+immunogenicity evaluation of a multiclade HIV-1 DNA candidate 
+vaccine. J Infect Dis 2006; 194: 1650–60.
+20
+ Allison SL, Stadler K, Mandl CW
+, Kunz C, Heinz FX. Synthesis 
+and secretion of recombinant tick-borne encephalitis virus 
+protein E in soluble and particulate form. J Virol 1995; 69: 5816–20.
+21
+ Davis BS, Chang GJ, Cropp B, et al. W
+est Nile virus recombinant 
+DNA vaccine protects mouse and horse from virus challenge and 
+expresses in vitro a noninfectious recombinant antigen that can be 
+used in enzyme-linked immunosorbent assays. J Virol 2001; 
+75: 4040–47 .
+22
+ Dowd KA, Ko SY
+, Morabito KM, et al. Rapid development of a 
+DNA vaccine for Zika virus. Science 2016; 354: 237–40.
+23 Davis CW, Nguyen HY
+, Hanna SL, Sánchez MD, Doms RW, 
+Pierson TC. West Nile virus discrimintates between DC-SIGN and 
+DC-SIGNR for cellular attachment and infection. J Virol 2006; 
+80: 1290–301.
+24
+ Sarwar UN, C
+ostner P, Enama ME, et al. Safety and 
+immunogenicity of DNA vaccines encoding Ebolavirus and 
+Marburgvirus wild-type glycoproteins in a phase I clinical trial. 
+J Infect Dis 2015; 211: 549–57 .
+25
+ Pierson TC, Diamond MS. V
+accine development as a means to 
+control dengue virus pathogenesis: do we know enough? 
+Ann Rev Virol 2014; 1: 375–98.
+26
+ Larocca RA, Abbink P, P
+eron JP, et al. Vaccine protection against 
+Zika virus from Brazil. Nature 2016; 536: 474–78.
+27 Bukowski JF, K
+urane I, Lai CJ, Bray M, Falgout B, Ennis FA. 
+Dengue virus-specific cross-reactive CD8+ human cytotoxic 
+T lymphocytes. J Virol 1989; 63: 5086–91.
+28
+ Mongkolsapaya J, Dejnirattisai W
+, Xu XN, et al. Original antigenic 
+sin and apoptosis in the pathogenesis of dengue hemorrhagic 
+fever. Nat Med 2003; 9: 921–27 .
+29
+ Screaton G, Mongkolsapaya J, Y
+acoub S, Roberts C. New insights 
+into the immunopathology and control of dengue virus infection. 
+Nat Rev Immunol 2015; 15: 745–59.
+30
+ Liang H, Lee M, Jin X. G
+uiding dengue vaccine development 
+using knowledge gained from the success of the yellow fever 
+vaccine. Cell Mol Immunol 2016; 13: 36–46.
+31
+ Graham BS, Enama ME, N
+ason MC, et al. DNA vaccine delivered 
+by a needle-free injection device improves potency of priming for 
+antibody and CD8+ T-cell responses after rAd5 boost in a 
+randomized clinical trial. PLoS One 2013; 8: e59340.
+32
+ Tebas P, R
+oberts CC, Muthumani K, et al. Safety and 
+immunogencity of an anti-Zika virus DNA vaccine—preliminary 
+report. N Engl J Med 2017; published online Oct 4. DOI:10.1056/
+NEJMoa1708120.

@@ -1,0 +1,700 @@
+Phase I Trial Using a Time-to-Event Continual
+Reassessment Strategy for Dose Escalation of Cisplatin
+Combined With Gemcitabine and Radiation Therapy in
+Pancreatic Cancer
+Jeffrey H. Muler, Cornelius J. McGinn, Daniel Normolle, Theodore Lawrence, Diane Brown,
+Gwen Hejna, and Mark M. Zalupski
+ABSTRACT
+Purpose
+The primary objective of this study was to determine the maximum-tolerated dose of cisplatin that could
+be added to full-dose gemcitabine and radiation therapy (RT) in patients with pancreatic cancer.
+Patients and Methods
+Nineteen patients were treated. Gemcitabine 1,000 mg/m2 was administered over 30 minutes on days
+1, 8, and 15 of a 28-day cycle. Cisplatin followed gemcitabine on days 1 and 15. The initial dose level of
+cisplatin was 30 mg/m
+2, escalated to a targeted dose of 50 mg/m 2 using Time-to-Event Continual
+Reassessment Method. RT was initiated on cycle 1, day 1, in 2.4 Gy fractions to a total dose of 36 Gy.
+A second cycle of chemotherapy was planned following a 1-week rest.
+Results
+Four of eight patients experienced acute dose limiting toxicity at the 50 mg/m
+2 cisplatin dose level.
+Patients treated at 30 and 40 mg/m2 cisplatin dose level tolerated therapy without dose-limiting toxicity.
+Median survival was 10.7 months (95% CI, 5.4 to 18.2) for all patients, and 12.9 months (95% CI, 7.4
+to 21.2) for those without metastasis.
+Conclusion
+Cisplatin at doses up to 40 mg/m
+2 may be safely added to full-dose gemcitabine and conformal RT. The
+Time-to-Event Continual Reassessment Method trial design allowed rapid completion of the study and
+conﬁdence in the conclusion about the maximum tolerated dose, but accrued more patients to a dose
+level above the maximum tolerated dose than the typical phase I design. Local and systemic disease
+control and survival in this study cohort supports further investigation of gemcitabine-based RT and
+combination chemotherapy in this disease.
+J Clin Oncol 22:238-243. © 2004 by American Society of Clinical Oncology
+INTRODUCTION
+Multimodality therapy improves outcome
+in patients with pancreatic cancer. Follow-
+ing surgical resection, patients treated with
+chemotherapy and radiation therapy (RT)
+have improved survival as compared to sur-
+gery alone [1-3]. A Gastrointestinal Tumor
+Study Group trial demonstrated superiority
+of RT and ﬂuorouracil as compared to RT
+alone, supporting combined-modality ther-
+apy in unresectable disease [4]. The beneﬁt
+of local therapy is also suggested by the ﬁnd-
+ing that some patients initially presenting
+with unresectable disease are resected fol-
+lowing radiation and chemotherapy [5,6].
+However, systemic failure remains a crucial
+problem for patients with pancreatic cancer.
+Thus, the common goals of improving local
+control with or without surgery and devel-
+oping more effective systemic treatment are
+applicable to all stages of this disease.
+To address the difﬁculties of local and
+systemic disease control, we have attempted
+to develop an approach that permits simul-
+taneous maximum local and systemic ther-
+apy. Gemcitabine was initially approved for
+use in pancreatic cancer based on phase II
+From the Departments of Internal Med-
+icine and Radiation Oncology, Univer-
+sity of Michigan, Ann Arbor, MI.
+Submitted March 21, 2003; accepted
+August 29, 2003.
+Supported in part by Eli Lilly and Co,
+Indianapolis, IN.
+Presented in part at the 37th Annual
+Meeting of the American Society of
+Clinical Oncology, San Francisco, CA,
+May 12-15, 2001.
+Authors’ disclosures of potential con-
+ﬂicts of interest are found at the end of
+this article.
+Address reprint requests to Mark M.
+Zalupski, MD, University of Michigan
+Medical Center, 1500 E Medical Center
+Dr, CCGC 3-219, Ann Arbor, MI 48109-
+0934; e-mail: Zalupski@umich.edu.
+© 2004 by American Society of Clinical
+Oncology
+0732-183X/04/2202-238/$20.00
+DOI: 10.1200/JCO.2004.03.129
+JOURNAL OF CLINICALONCOLOGY ORIGINAL REPORT
+VOLUME 22 /H18528NUMBER 2 /H18528JANUARY 15 2004
+238
+Downloaded from ascopubs.org by University of Michigan on December 6, 2017 from 141.213.169.184
+Copyright © 2017 American Society of Clinical Oncology. All rights reserved.
+and III trial data demonstrating clinical beneﬁt [7-9]. Lab-
+oratory studies demonstrating that gemcitabine is a potent
+radiosensitizer led to a variety of trials combining radiation
+and gemcitabine [10-12]. In vitro data suggested that the
+optimal radiosensitization occurred when a cytotoxic con-
+centration of gemcitabine was used [13]. Based on this
+combination of laboratory and clinical observations, we
+conducted a phase I trial of full dose gemcitabine (1,000
+mg/m
+2/wk) with radiation dose escalation for patients with
+locally advanced pancreatic cancer (one-third of whom had
+small volume metastatic disease) [14]. We were able to
+safely deliver 36 Gy in 2.4 Gy fractions by using conformal
+treatment delivered to the tumor only, without prophylac-
+tic nodal radiation. This treatment, followed by additional
+gemcitabine, produced an objective response rate of 30%
+and a median survival of 11.6 months. Approximately two
+thirds of the failures were distant, suggesting the need to
+improve systemic disease control while maintaining or low-
+ering the local failure rate.
+In an effort to improve systemic therapy, agents have
+been combined with gemcitabine. Several trials have sug-
+gested improved response rates and clinical beneﬁt with the
+addition of cisplatin to gemcitabine [15-17]. In addition,
+preclinical studies suggested that the combination of gem-
+citabine and cisplatin produced synergistic cytotoxicity
+without loss of radiosensitization [18]. Taken together,
+these studies suggested it would be reasonable to attempt to
+add cisplatin to the combination gemcitabine and radia-
+tion. We hoped the use of highly conformal radiation would
+permit the full dose of cisplatin and gemcitabine that had
+been tolerable when the drugs were given alone.
+Delayed-onset toxicities are a particular challenge for
+phase I trials of combined-modality therapy. Conventional
+dose-escalation designs that treat many patients at sub-
+therapeutic doses waste time, are often inaccurate at deter-
+mining true toxicity rates, and rarely allow estimation of
+clinical response at doses to be used in phase II studies.
+These designs also have the disadvantage of periodic clo-
+sures and lengthy accrual time, and often lose momentum
+because of the episodic nature of accrual. Standard phase
+I/II designs have no provisions for orderly dose adjustment
+if too many or too few toxicities are observed in the phase II
+stage. The publication of the Time-to-Event Continual Re-
+assessment Method (TITE-CRM) for planning dose-escala-
+tion trials presented an opportunity to test a trial design and
+management paradigm that promised to allow the execu-
+tion of dose-escalation trials without the need to close ac-
+crual periodically, while treating more patients at therapeu-
+tic doses and resulting in statistically justi ﬁed estimates of
+toxicity and response rates [19].
+Based on these clinical, biologic, and statistical con-
+siderations, we conducted a phase I trial of escalating
+cisplatin with full-dose gemcitabine and radiation to the
+primary tumor. The goal of the trial was to begin to test
+the hypothesis that systemic control of pancreatic cancer
+could be improved, without an intolerable increase in
+toxicity, by adding cisplatin to an established protocol of
+radiation plus gemcitabine.
+PATIENTS AND METHODS
+Eligibility
+Patients with unresectable pancreatic carcinoma with or
+without distant metastases were eligible for the trial. Determina-
+tion of unresectability was based on helical computed tomography
+(CT) scan, endoscopic ultrasound, and surgical consultation.
+Pathologic con ﬁrmation was necessary before study entry. Pre-
+treatment evaluation included a complete history and physical
+examination, baseline assessment of organ function, chest x-ray
+and CT scan of the abdomen. Eligibility criteria included age
+greater than 18 years, Zubrod performance status of /H113492, esti-
+mated life expectancy of at least 12 weeks, and adequate organ
+function deﬁned as: absolute neutrophil count (ANC) /H113501,500/
+cm
+3, platelets /H11350100,000/cm3, serum creatinine /H110211.5 mg/dL,
+bilirubin /H110213 mg/dL, and AST /H110215 times upper limit of normal.
+Patients with a prior history of abdominal irradiation or chemo-
+therapy for pancreatic cancer were ineligible. The institutional
+review board of the University of Michigan Medical School (Ann
+Arbor, MI) approved the trial. Written informed consent was
+obtained from all patients before initiation of therapy.
+Treatment
+Protocol treatment consisted of two 28-day cycles of chemo-
+therapy, with radiation given during the ﬁrst cycle of chemother-
+apy. Radiation and gemcitabine doses were held constant, while a
+dose level of cisplatin was assigned based on the TITE-CRM algo-
+rithm (described in Trial Design, below). RT (36 Gy) was given
+daily in 2.4 Gy fractions, ﬁve times weekly, beginning on day 1 of
+the ﬁrst cycle as described previously [14]. Brie ﬂy, the planning
+target volume was gross tumor volume de ﬁned on a contrast-
+enhanced CT scan obtained at end expiration using 3-mm slices,
+with 1-cm expansion to account for occult invasion (0.5 cm) and
+set-up uncertainty (0.5 cm). We did not routinely expand the
+planning target volume for ventilatory motion. Radiographically
+uninvolved lymph nodes were not included. A three- ﬁeld plan
+using static intensity modulation was typically used, with an ante-
+rior inferior oblique (angled from the foot toward the head to
+avoid the kidneys) and lateral ﬁelds. The planned target volume
+received the isocenter dose (36 Gy)/H110065%. If greater than one-half
+of one kidney received more than 18 Gy, then no more than 10% of
+the other kidney was permitted to receive greater than 18 Gy.
+Spinal cord dose was limited to less than 30 Gy. Gemcitabine was
+given at a dose of 1000 mg/m
+2 as a 30 minute intravenous infusion
+on days 1, 8, and 15 of each 28-day cycle. Cisplatin was given
+intravenously 1 to 2 hours after gemcitabine in 250 mL of 0.9%
+saline over 30 minutes on days 1 and 15 of a chemotherapy cycle.
+After combination treatment with chemotherapy and radiation, a
+second cycle of gemcitabine and cisplatin was given. The protocol
+therapy intended to administer 6 g/m
+2 of gemcitabine and 120 to
+200 mg/m 2 cisplatin dependent on assigned dose level over 42
+days. The dose of each drug received was calculated as a percentage
+of dose intended by the following formula; % drug received /H11005
+(total received/total intended) x (42 days/d required to complete
+two cycles). Following two cycles of therapy as described above,
+Cisplatin, Gemcitabine, and RT in Pancreatic Cancer
+www.jco.org 239
+Downloaded from ascopubs.org by University of Michigan on December 6, 2017 from 141.213.169.184
+Copyright © 2017 American Society of Clinical Oncology. All rights reserved.
+additional chemotherapy could be delivered at the discretion of
+the treating physician.
+Dose Adjustments for Toxicity
+Full doses of gemcitabine and cisplatin were delivered for
+ANC /H113501,000/mm3 and platelets /H1135075,000/mm3; a 30% dose
+reduction for both drugs was given when ANC /H11350500/mm3 and
+less than 1,000/mm 3 and/or platelets /H1102251,000/mm3 and
+/H1102175,000/mm3. Treatment was delayed for ANC /H11021500/mm3,
+platelets /H1134950,000/mm3, or grade /H113503 nonhematologic toxicity. If
+both drugs were held at any point during cycle 1 for toxicity,
+radiation was also held. Treatment resumed when toxicity re-
+solved to /H11349grade 1, with cisplatin and gemcitabine doses
+reduced by 30%. A 1-week break was maintained between comple-
+tion of cycle 1 and initiation of cycle 2. If chemotherapy was held
+during the second cycle, doses were dropped. Dose adjustment not
+associated with the observation of a dose-limiting toxicity (DLT) did
+not affect subsequent patients’ dose assignments.
+Trial Design
+The cisplatin dose was assigned using the TITE-CRM to
+establish the rate of DLT, while maximizing the number of pa-
+tients treated at doses likely to be efﬁcacious and maintaining the
+trial open to enrollment [19,20]. Dose levels and prior estimates of
+the probability of DLT, based on previous experience with radio-
+chemotherapy involving gemcitabine, are presented in Table 1
+[14]. The goal of the trial was to determine the dose of cisplatin
+associated with a 20% probability of DLT (a target rate of 0.20).
+The initial dose level of cisplatin was 30 mg/m
+2. When a patient
+was eligible for enrollment, the probability of DLT was estimated
+for each dose, based on the trial experience up to that time and the
+prior expectations of toxicity. In the TITE-CRM paradigm, pa-
+tients who had enrolled in the trial but had not experienced DLT
+were included in the probability calculation with a weight equal to
+the proportion of the 9-week acute toxicity observation period
+they had completed; patients who experienced toxicity or com-
+pleted the observation period without toxicity were assigned full
+weight. Each new patient was assigned to the currently estimated
+target dose, deﬁned as the dose having an estimated probability of
+toxicity closest to but not greater than the target rate, subject to the
+restriction that two patients must have completed therapy at the
+lower dose before the ﬁrst patient was assigned to a higher dose.
+The prior distribution of the dose-toxicity model was chosen to
+control the expected number of toxicities in the trial under a
+variety of scenarios about the true relationship between dose
+and toxicity [20].
+Assessment of Toxicity and Response
+DLT was deﬁned, using National Cancer Institute Common
+Toxicity Criteria (version 2.0), as grade 4 thrombocytopenia,
+grade 4 neutropenia lasting more than 7 days, or grade 3 toxicity in
+other organ systems (except hyperbilirubinemia secondary to bil-
+iary obstruction). Patients were examined at least once weekly
+during the course of RT, and at least on two occasions during the
+second course of gemcitabine and cisplatin. Patients returned for
+an evaluation of acute toxicity 2 weeks following the last dose of
+chemotherapy (week 9) and for a helical CT scan to assess response
+using the Response Evaluation Criteria in Solid Tumors [21].
+Statistical Estimation
+At the end of the trial, the posterior distribution of the dose-
+toxicity parameter,
+/H9251, and DLT at each dose, was calculated by
+means of Bayesian Analysis Using Gibbs Sampling software (MRC
+Biostatistics Unit, Cambridge, UK) using the logistic dose-toxicity
+model and exponential prior distribution on
+/H9251that were em-
+ployed to conduct the trial. A burn-in of 40,000 iterations was
+followed by an estimation phase of 80,000 iterations, retaining
+every tenth value. Ninety- ﬁve percent posterior intervals for the
+toxicity probabilities were calculated from the sampled values.
+Survival was calculated from the date of treatment initiation to the
+date of death or last follow-up. Survival curves were calculated by
+the product-limit (Kaplan-Meier) method using SAS PROC
+LIFETEST software (SAS Institute, Cary, NC). Con ﬁdence inter-
+vals for binomial proportions were calculated by exact procedures
+available in SAS PROC FREQ software.
+RESULTS
+Between April 2000 and July 2001, 19 patients were regis-
+tered to the study. The median age of study participants was
+62 years (range, 45 to 77 years). There were 11 men and
+eight women. Five subjects had a baseline performance
+status of 0, while the rest had a performance status of 1.
+Sixteen patients had elevated baseline CA 19-9 (median
+value in all 19 patients, 275 U/mL; range, 3 to 73,000 U/mL).
+Each patient had locally unresectable disease, and four pa-
+tients had metastatic disease to the liver at the time of
+protocol entry. No patient had received prior therapy for
+pancreatic cancer. Patient 8 suffered a major cerebrovascu-
+lar accident on day 2 and was not considered assessable for
+toxicity or response.
+The assigned cisplatin dose levels of the 18 assessable
+patients are listed in Table 2. As a result of the cohort
+restriction, four patients were assigned at both the 30
+mg/m
+2 and 40 mg/m 2 dose levels, even though no DLTs
+were observed and the estimated target dose was higher
+Table 1. Dose Levels and Initial and Final Estimates of Toxicity
+Level Dose (mg/m 3)
+Prior DLT
+Probability Estimate
+Number of
+DLTs/Patients
+Posterior DLT
+Probability Estimate
+95% Posterior
+Interval Toxicity
+Probability
+0 20 0.1 0/0 0.103 0.023 –0.289
+1 30 0.15 0/5 0.154 0.042 –0.365
+2 40 0.2 0/5 0.204 0.064 –0.427
+3 50 0.25 4/8 0.255 0.090 –0.481
+Abbreviation: DLT, dose-limiting toxicity.
+Muler et al
+240 JOURNAL OF CLINICALONCOLOGY
+Downloaded from ascopubs.org by University of Michigan on December 6, 2017 from 141.213.169.184
+Copyright © 2017 American Society of Clinical Oncology. All rights reserved.
+than the assigned dose. After Patient 12 (treated at 50 mg/
+m2) experienced DLT, the estimate of /H9251, and therefore the
+target dose, began to decrease, but not sufﬁciently to move
+the target dose to 40 mg/m 2. The DLT of patient 13 was
+dated March 30, 2001, but was not of ﬁcially established
+until after Patients 17 and 18 were enrolled. At that time,
+based on two toxicities out of seven patients enrolled at 50
+mg/m
+2, the estimated target dose was still 50 mg/m2. Patient
+17 was enrolled at 40 mg/m 2, because of concerns about a
+potential DLT in Patient 16. Patient 18 was enrolled at
+the current estimated target dose of 50 mg/m
+2, as addi-
+tional time had passed and the DLT of patient 16 had not
+yet been established.
+All 18 patients were able to complete the initial 3 weeks
+of radiation and concurrent chemotherapy. In the second
+cycle, two patients were removed from protocol because of
+DLT, and six patients had the last dose of chemotherapy
+(week 7) omitted as a result of hematologic (three patients)
+or nonhematologic (three patients) toxicities. The median
+percent dose received was 75% for cisplatin and 83% for
+gemcitabine. As the cisplatin dose level increased, less gem-
+citabine could be delivered with a median percent gemcit-
+abine dose received of 86%, 79%, and 74% at the 30, 40, and
+50 mg/m
+2 dose levels of cisplatin, respectively. All 18 pa-
+tients were able to receive the full planned radiation dose of
+36 Gy. Note that an important feature of this protocol was
+that the radiation ﬁelds were highly conformal. The plan-
+ning target volume (and, thus, the high-dose region) ranged
+from 134 cm
+3 to 465 cm3, with a median value of 255 cm3,
+corresponding to a cube of only 6.3 cm on a side. Twelve
+patients received additional chemotherapy after comple-
+tion of protocol speci ﬁed treatment, two underwent sur-
+gical resection, and one received additional radiation
+following resection.
+Toxicity
+Two patients experienced death during or shortly fol-
+lowing protocol therapy (patient 8 on day 13 and patient 2
+on day 63), but both were judged to be secondary to the
+hypercoaguable state associated with pancreatic cancer, and
+neither death was classiﬁed as related to therapy. The four
+DLTs, all of which occurred at the cisplatin 50 mg/m
+2 dose
+level, were: duodenal ulcer; diarrhea resulting in dehydra-
+tion; and grade 3 anorexia and nausea leading to a two-level
+decline in performance status (two patients). The estimated
+probabilities of toxicity for each dose employing the dose-
+toxicity model used to conduct the trial are presented in
+Table 1. The ﬁnal estimate of the dose-toxicity parameter
+/H9251
+was 0.99 (95% CI, 0.75 to 1.30).
+Toxicities not considered dose-limiting included one
+patient who experienced transient (/H110211 week) grade 4 neu-
+tropenia, four patients who experienced grade 3 neutrope-
+nia, and six patients who experienced grade 3 thrombocy-
+topenia. The mean weight loss, compared to the patient
+weight before start of therapy, was 5.7% (/H110060.9%) at day 28
+and 6.8% ( /H110061.3%) at week 9. Late toxicity developed in
+two patients. One patient treated at the initial dose level of
+cisplatin developed symptoms of partial gastric outlet ob-
+struction approximately 22 weeks from protocol initiation.
+He underwent a Whipple resection and pathologic exam-
+ination revealed extensive ulceration of the proximal
+duodenum and ampulla. A second patient treated with
+50 mg/m
+2 of cisplatin developed thrombosis of the supe-
+rior mesenteric artery and vein 13 weeks after protocol
+initiation that ultimately proved fatal. The relationship
+to therapy is unknown.
+Response and Survival
+Three patients experienced an objective partial re-
+sponse (17%; 95% CI, 4% to 41%), while 15 patients main-
+tained stable disease at the time of initial response evalua-
+tion. No complete responses were achieved. Whipple
+resection became possible in two patients. Of the 15 assess-
+able patients with an initial elevated serum CA 19-9, 11
+achieved a /H1135050% reduction in that serum marker follow-
+ing protocol therapy (73%; 95% CI, 45% to 92%). The two
+resected patients (one partial response) had declines of 85%
+and 86% in CA 19-9, the two additional responders had a
+30% decline and a normal CA 19-9 throughout.
+The median progression-free interval for all 19 regis-
+tered patients was 5.8 months (95% CI, 2.9 to 10.6). In the
+three assessable patients with metastatic disease at study
+entry, each progressed distantly. Of the 15 patients without
+metastasis, initial failure was local in ﬁve, in regional unir-
+radiated lymph nodes in one, distant in three, and simulta-
+Table 2. Dates, Doses, and DLTs of Enrolled Patients
+Patient
+No. Date on Study
+Dose
+(mg/m2) Date off Study DLT
+1 Apr 17, 2000 30 Jun 23, 2000 No
+2 May 30, 2000 30 Jul 24, 2000 No
+3 Jun 6, 2000 30 Aug 11, 2000 No
+4 Jun 12, 2000 30 Aug 3, 2000 No
+5 Jun 26, 2000 40 Aug 28, 2000 No
+6 Sep 11, 2000 40 Nov 20, 2000 No
+7 Sep 25, 2000 40 Nov 27, 2000 No
+8 Oct 16, 2000 40 Oct 17, 2000 NA
+9 Oct 16, 2000 40 Dec 11, 2000 No
+10 Nov 27, 2000 50 Jan 26, 2001 No
+11 Nov 27, 2000 50 Feb 2, 2001 No
+12 Jan 22, 2001 50 Feb 14, 2001 Yes
+13 Feb 12, 2001 50 Mar 30, 2001 Yes
+14 Mar 5, 2001 50 May 4, 2001 No
+15 Mar 12, 2001 50 May 11, 2001 No
+16 Mar 26, 2001 50 Apr 24, 2001 Yes
+17 Apr 16, 2001 40 Jun 14, 2001 No
+18 Apr 23, 2001 50 May 30, 2001 Yes
+19 Jul 16, 2001 30 Sep 27, 2001 No
+Abbreviations: DLT, dose-limiting toxicity; NA, not assessable.
+Cisplatin, Gemcitabine, and RT in Pancreatic Cancer
+www.jco.org 241
+Downloaded from ascopubs.org by University of Michigan on December 6, 2017 from 141.213.169.184
+Copyright © 2017 American Society of Clinical Oncology. All rights reserved.
+neous local and distant in one. Three patients had global
+deterioration without recognition of pattern of recurrence
+and two resected patients remain clinically free of disease.
+The median progression-free interval for the 15 patients
+without metastasis was 6.8 months (95% CI, 4.6 to 12.2).
+Sixteen of 19 patients have died. With a minimum fol-
+low-up in living patients of 20 months, the median survival
+for all 19 patients was 10.7 months (95% CI, 5.4 to 18.2; Fig
+1). The median survival of the 15 patients without metasta-
+sis was 12.9 months (95% CI, 7.4 to 21.2).
+DISCUSSION
+The primary goal of this study was to determine the
+maximal tolerable dose of cisplatin added to full dose
+gemcitabine and RT in patients with advanced pancreatic
+cancer. We had hypothesized that the use of highly con-
+formal radiation targeted to the gross tumor with a min-
+imal margin would permit nearly the same dose of cis-
+platin and gemcitabine as can be given without radiation.
+The lack of serious toxicities at the 30 and 40 mg/m
+2
+cisplatin dose levels appears to con ﬁrm this hypothesis.
+Occurrence of DLTs at the 50 mg/m 2 cisplatin dose level
+was not surprising as previous work with gemcitabine
+and cisplatin at this dose and schedule often required
+dose reductions for myelotoxicity [15,16].
+Our second hypothesis was that the addition of cispla-
+tin to full-dose gemcitabine with radiation might decrease
+systemic failure without sacriﬁcing local control. Acknowl-
+edging the small number of patients in both studies, the rate
+of distant progression was only 39% (95% CI, 16% to 61%)
+in the current study which is substantially less than the 68%
+(95% CI, 52% to 83%) distant progression rate in our
+previous trial using radiation and gemcitabine alone [14].
+In further support of this hypothesis, local control was not
+signiﬁcantly different from our previous trial. Local control
+was preserved even though the median percent dose gem-
+citabine received was somewhat lower than our previous
+phase I trial (85%v 96%) [14]. Additionally, the fraction of
+patients resected in this trial was not obviously different
+than those we have treated with RT and gemcitabine [22]. It
+is possible that radiosensitizing effects of cisplatin, though
+not observed in our in vitro studies, may have contributed
+to local control [18,23-25]. If these observations are sup-
+ported through additional studies, combination chemo-
+therapy in pancreatic cancer may be anticipated to be par-
+ticularly valuable in the adjuvant or neoadjuvant setting.
+This trial is the ﬁrst phase I trial conducted at any
+institution using the TITE-CRM paradigm. This method of
+conducting a phase I trial is suited to situations in which the
+observation period is long compared to the mean patient
+inter-arrival time, since it allows the continual recruitment
+of patients. This trial was designed to recruit 18 patients
+(one patient nonassessable for toxicity was replaced, for a
+total of 19), which, in retrospect, is too few to take full
+advantage of the potential for usefully narrow con ﬁdence
+intervals around estimates of the DLT proportions at each
+dose and the response rate at the target dose. This is dem-
+onstrated by the wide posterior intervals in Table 1. Had the
+trial accrued more patients, most would have likely been
+treated at 40 mg/m
+2, so that the estimate of toxicity at that
+dose would be much improved. In their current state, the
+data suggest a steep increase in toxicity between 40 mg/m
+2
+and 50 mg/m2, but more patients treated at 40 mg/m 2 are
+required to truly determine if this is true. Because the estimated
+value of
+/H9251was so close to 1, resulting in posterior toxicity
+probability estimates close to our prior estimates, we were
+concerned that the estimation of the dose-toxicity parameter
+was being dominated by an overly informative prior distribu-
+tion, so we repeated the estimation based on a noninformative
+prior. The estimate of
+/H9251was almost identical, conﬁrming our
+belief that the sample size of 18 was too small. Based on this
+experience, we believe that TITE-CRM trials must accrue at
+least 24 patients, and preferably 30 to 36, especially if the trial is
+designed with cohort restrictions on dose estimation.
+Some researchers have expressed concern that TITE-
+CRM trials may expose patients to excess risk. Based on our
+simulations, we do not believe this to be the case [20]. The
+50% toxicity rate of the top dose is similar to that observed
+in a standard 3/6 design when one toxicity has been ob-
+served in the ﬁrst three patients. This trial did demonstrate,
+however, that if the risk is to be controlled, evaluations of
+toxicity must be possible in a timely fashion. The declara-
+tion of DLT in patient 16 occurred with documentation of
+gastric ulceration following endoscopy. Although the tox-
+icity was suspected, the delay in the ﬁnal assessment oc-
+curred as the procedure was arranged and the results com-
+municated. Based on this experience, we recommend that
+the DLT criteria for TITE-CRM trials must be assessable at
+the end of the observation period. Conversely, this set of
+Fig 1. Kaplan-Meier survival curve in all patients (N /H1100519) and in those
+without metastasis at registration (n /H1100515).
+Muler et al
+242 JOURNAL OF CLINICALONCOLOGY
+Downloaded from ascopubs.org by University of Michigan on December 6, 2017 from 141.213.169.184
+Copyright © 2017 American Society of Clinical Oncology. All rights reserved.
+events also demonstrates a strength of the TITE-CRM par-
+adigm. During the observation period, we were able to
+reduce the dose of patient 17, because of our uncertainty
+concerning the status of patient 16, without violating the deci-
+sion rule associated with the determination of the target dose.
+This would not have been possible in the standard 3/6 phase I
+dose-escalation design. Theseﬁndings suggest that the TITE-
+CRM is not only a feasible design for phase I combined mo-
+dality trials, but offers distinct advantages with respect to ac-
+crual, ﬂexibility, and statistical inference, compared to the
+standard phase I dose-escalation trial design.
+In conclusion, we believe continued investigation of
+full-dose gemcitabine with RT is warranted in pancreatic
+cancer. Based on an apparent increased ef ﬁcacy of gemcit-
+abine infused at a ﬁxed dose rate of 10 mg/m
+2/min, it may
+be reasonable to consider varying the dose rate of gemcit-
+abine in combination with radiation/H11006cisplatin [26]. Alterna-
+tively, it may be worthwhile adding other chemotherapeutic
+agents, such as oxaliplatin or a growth factor receptor antago-
+nist in patients who overexpress these receptors. In contrast to
+10 years ago, the development of new agents that have both
+radiosensitizing and systemic activity in patients with ad-
+vanced pancreatic cancer supports increased exploration of
+innovative chemoradiotherapy approaches.
+III
+Authors’ Disclosures of Potential
+Conﬂicts of Interest
+The authors indicated no potential conﬂicts of interest.
+REFERENCES
+1. Sohn TA, Yeo CJ, Cameron JL, et al:
+Resected adenocarcinoma of the pancreas-616
+patients: Results, outcomes, and prognostic in-
+dicators. J Gastrointest Surg 4:567-579, 2000
+2. Gastrointestinal Tumor Study Group. Fur-
+ther evidence of effective adjuvant combined
+radiation and chemotherapy following curative
+resection of pancreatic cancer. Cancer 59:2006-
+2010, 1987
+3. Klinkenbijl JH, Jeekel J, Sahmoud T, et al:
+Adjuvant radiotherapy and 5- ﬂuorouracil after
+curative resection of cancer of the pancreas and
+periampullary region: Phase III trial of the EORTC
+Gastrointestinal Tract Cancer Cooperative
+Group. Ann Surg 230:776-782, 1999
+4. Moertel CG, Frytak S, Hahn RG, et al:
+Therapy of locally unresectable pancreatic carci-
+noma: A randomized comparison of high dose
+(6000 rads) radiation alone, moderate dose radi-
+ation (4000 rads /H110015-ﬂuorouracil), and high dose
+radiation /H110015-ﬂuorouracil: The Gastrointestinal
+Tumor Study Group. Cancer 48:1705-1710, 1981
+5. Kamthan AG, Morris JC, Dalton J, et al:
+Combined modality therapy for stage II and
+stage III pancreatic carcinoma. J Clin Oncol 15:
+2920-2927, 1997
+6. White RR, Hurwitz HI, Morse MA, et al:
+Neoadjuvant chemoradiation for localized adeno-
+carcinoma of the pancreas. Ann Surg Oncol
+8:758-765, 2001
+7. Buris HA III, Moore MJ, Andersen J, et al:
+Improvements in survival and clinical bene ﬁt
+with gemcitabine asﬁrst-line therapy for patients
+with advanced pancreas cancer: A randomized
+trial. J Clin Oncol 15:2403-2413, 1997
+8. Casper ES, Green MR, Kelsen DP, et al:
+Phase II trial of gemcitabine (2, 2/H11032-diﬂuorodeoxy-
+cytidine) in patients with adenocarcinoma of the
+pancreas. Invest New Drugs 12:29-34, 1994
+9. Carmichael J, Fink U, Russell RC, et al:
+Phase II study of gemcitabine in patients with
+advanced pancreatic cancer. Br J Cancer 73:101-
+105, 1996
+10. Blackstock AW, Bernard SA, Richards F, et
+al: Phase I trial of twice-weekly gemcitabine and
+concurrent radiation in patients with advanced
+pancreatic cancer. J Clin Oncol 17:2208-2212,
+1999
+11. Wolff RA, Evans DB, Gravel DM, et al:
+Phase I trial of gemcitabine combined with radi-
+ation for the treatment of locally advanced pan-
+creatic adenocarcinoma. Clin Cancer Res 7:2246-
+2253, 2001
+12. Talamonti MS, Catalano PJ, Vaughn DJ, et
+al: Eastern Cooperative Oncology Group phase I
+trial of protracted venous infusion ﬂuorouracil
+plus weekly gemcitabine with concurrent radia-
+tion therapy in patients with locally advanced
+pancreas cancer: A regimen with unexpected
+early toxicity. J Clin Oncol 18:3384-3389, 2000
+13. Lawrence TS, Chang EY, Hahn TM, et al:
+Radiosensitization of pancreatic cancer cells by
+2/H11032,2 /H11032-diﬂuoro-2/H11032-deoxycytidine. Int J Radiat On-
+col Biol Phys 34:867-872, 1996
+14. McGinn CJ, Zalupski MM, Shureiqi I, et al:
+Phase I trial of radiation dose escalation with
+concurrent weekly full-dose gemcitabine in pa-
+tients with advanced pancreatic cancer. J Clin
+Oncol 19:4202-4208, 2001
+15. Philip PA, Zalupski MM, Vaitkevicius VK, et
+al: Phase II study of gemcitabine and cisplatin in
+the treatment of patients with advanced pancre-
+atic carcinoma. Cancer 92:569-577, 2001
+16. Heinemann V, Wilke H, Mergenthaler HG,
+et al: Gemcitabine and cisplatin in the treatment
+of advanced or metastatic pancreatic cancer.
+Ann Oncol 11:1399-1403, 2000
+17. Colucci G, Giuliani F, Gebbia V, et al:
+Gemcitabine alone or with cisplatin for the treat-
+ment of patients with locally advanced and/or
+metastatic pancreatic carcinoma: A prospective,
+randomized, phase III study of the Gruppo On-
+cologia dell ’Italia Meridionale. Cancer 94:902-
+910, 2002
+18. Symon Z, Davis M, McGinn CJ, et al:
+Concurrent chemoradiotherapy with gemcitab-
+ine and cisplatin for pancreatic cancer: From the
+laboratory to the clinic. Int J Radiat Oncol Biol
+Phys 53:140-145, 2002
+19. Cheung K, Chappell R: Sequential designs
+for Phase I clinical trials with late onset toxicities.
+Biometrics 56:1177-1182, 2000
+20. Normolle D, McGinn C, Zalupski M, et al:
+Designing dose escalation trials with late onset
+toxicities using the time-to-event continual reas-
+sessment method. Statistics in Medicine (sub-
+mitted August, 2003)
+21. Therasse P, Arbuck SG, Eisenhauer EA, et
+al: New guidelines to evaluate the response to
+treatment in solid tumors. J Natl Cancer Inst
+92:205-216, 2000
+22. Ammori J, Colletti L, Zalupski MM, et al:
+Surgical resection following radiation therapy
+with concurrent gemcitabine in patients with
+previously unresectable pancreatic cancer. Int J
+Radiat Oncol Biol Phys 54:100, 2002 (suppl 1)
+23. Albain K, Crowley J, Turrisi A, et al: Con-
+current cisplatin, etoposide and chest radiother-
+apy in pathologic stage IIIB non –small-cell lung
+cancer: A Southwest Oncology Group phase II
+study, SWOG 9019. J Clin Oncol 20:3454-3460,
+2002
+24. Adelstein D, Yi Li, Adams G, et al: An
+Intergroup phase III comparison of standard ra-
+diation therapy and two schedules of concurrent
+chemoradiotherapy in patients with unresectable
+squamous cell head and neck cancer. J Clin
+Oncol 21:92-98, 2003
+25. Rose P, Bundy B, Watkins E, et al: Con-
+current cisplatin-based radiotherapy and chemo-
+therapy for locally advanced cervical cancer.
+N Engl J Med 340:1144-1153, 1999
+26. Tempero M, Plunkett W, Ruiz van Ha-
+peren V, et al: Randomized phase II comparison
+of dose intense gemcitabine: Thirty-minute infu-
+sion and ﬁxed dose rate infusion in patients with
+pancreatic adenocarcinoma. J Clin Oncol 21:
+3402-3408, 2003
+Cisplatin, Gemcitabine, and RT in Pancreatic Cancer
+www.jco.org 243
+Downloaded from ascopubs.org by University of Michigan on December 6, 2017 from 141.213.169.184
+Copyright © 2017 American Society of Clinical Oncology. All rights reserved.
